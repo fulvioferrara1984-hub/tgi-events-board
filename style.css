@@ -1,0 +1,302 @@
+/* ==========================================================================
+   TGI Sport Europa — Tabellone Eventi
+   Stile "Solari board" (tabellone partenze aeroportuale/ferroviario)
+   ========================================================================== */
+
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@500;700;900&family=Roboto+Mono:wght@500;700&display=swap');
+
+:root {
+  --bg: #0a0d14;
+  --bg-panel: #10151f;
+  --bg-row: #161d2b;
+  --bg-row-alt: #131926;
+  --flap-bg: #1c2436;
+  --flap-bg-dark: #0d1119;
+  --text-main: #f4c542;
+  --text-dim: #6b7794;
+  --text-white: #eef2f8;
+  --accent-confirmed: #34d399;
+  --accent-tbc: #f4c542;
+  --accent-carried: #6b7794;
+  --border-soft: #232c40;
+  --shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+  --font-display: 'Archivo', 'Helvetica Neue', Arial, sans-serif;
+  --font-flap: 'Roboto Mono', 'SF Mono', Menlo, monospace;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background: radial-gradient(ellipse at top, #121826 0%, var(--bg) 60%);
+  color: var(--text-white);
+  font-family: var(--font-display);
+  overflow-x: hidden;
+}
+
+/* ---------------------------------------------------------------- header */
+
+.board-header {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  padding: 14px 28px;
+  background: linear-gradient(180deg, #131a28 0%, #0d1220 100%);
+  border-bottom: 2px solid var(--border-soft);
+  box-shadow: var(--shadow);
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+.brand-logo {
+  height: 34px;
+  width: auto;
+  display: block;
+  filter: drop-shadow(0 0 6px rgba(244, 197, 66, 0.15));
+}
+
+.board-title {
+  flex: 1;
+  margin: 0;
+  font-size: clamp(16px, 2.4vw, 26px);
+  font-weight: 900;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--text-white);
+  text-align: center;
+}
+
+.clock {
+  text-align: right;
+  min-width: 130px;
+}
+
+.clock-date {
+  font-size: 12px;
+  color: var(--text-dim);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+
+.clock-time {
+  font-family: var(--font-flap);
+  font-size: clamp(18px, 2.6vw, 26px);
+  font-weight: 700;
+  color: var(--text-main);
+  letter-spacing: 0.04em;
+  font-variant-numeric: tabular-nums;
+}
+
+/* ------------------------------------------------------------------ body */
+
+.board-body {
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+  padding: 20px 20px 40px;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+@media (min-width: 980px) {
+  .board-body {
+    flex-direction: row;
+    align-items: flex-start;
+  }
+  .board-section { flex: 1; min-width: 0; }
+}
+
+.board-section {
+  background: var(--bg-panel);
+  border: 1px solid var(--border-soft);
+  border-radius: 10px;
+  box-shadow: var(--shadow);
+  overflow: hidden;
+}
+
+.section-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 18px;
+  background: linear-gradient(180deg, #1a2233 0%, #141b29 100%);
+  border-bottom: 1px solid var(--border-soft);
+}
+
+.section-label {
+  font-weight: 900;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  font-size: 14px;
+  color: var(--text-main);
+}
+
+.section-page {
+  font-family: var(--font-flap);
+  font-size: 12px;
+  color: var(--text-dim);
+  letter-spacing: 0.05em;
+}
+
+/* ------------------------------------------------------- column headers */
+
+.board-columns {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 8px 18px;
+  background: var(--bg-row-alt);
+  border-bottom: 1px solid var(--border-soft);
+  font-size: 11px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--text-dim);
+}
+
+.col-icon-spacer { width: 34px; flex: none; }
+.board-col-head { flex: 1 1 0; min-width: 0; text-align: left; }
+
+/* ----------------------------------------------------------------- rows */
+
+.board-rows { min-height: 240px; }
+
+.board-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 18px;
+  border-bottom: 1px solid var(--border-soft);
+  background: var(--bg-row);
+  transition: background 0.3s ease;
+}
+
+.board-row:nth-child(even) { background: var(--bg-row-alt); }
+.board-row.status-tbc { box-shadow: inset 3px 0 0 var(--accent-tbc); }
+.board-row.status-confirmed { box-shadow: inset 3px 0 0 var(--accent-confirmed); }
+.board-row.status-carried-out { box-shadow: inset 3px 0 0 var(--accent-carried); opacity: 0.65; }
+
+.row-icon {
+  flex: none;
+  width: 34px;
+  height: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 22px;
+  line-height: 1;
+  border-radius: 6px;
+  background: var(--flap-bg-dark);
+}
+
+.row-icon img {
+  width: 20px;
+  height: 20px;
+  object-fit: contain;
+  opacity: 0.85;
+}
+
+.row-fields {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex: 1;
+  min-width: 0;
+}
+
+.row-field {
+  flex: 1 1 0;
+  min-width: 0;
+  overflow: hidden;
+}
+
+.empty-state {
+  padding: 40px 18px;
+  text-align: center;
+  color: var(--text-dim);
+  font-size: 13px;
+  letter-spacing: 0.04em;
+}
+
+/* ------------------------------------------------------- split-flap unit */
+
+.flap-word {
+  display: flex;
+  gap: 1px;
+  flex-wrap: nowrap;
+  overflow: hidden;
+}
+
+.flap {
+  position: relative;
+  display: inline-block;
+  width: 0.66em;
+  height: 1.3em;
+  perspective: 200px;
+  font-family: var(--font-flap);
+  font-weight: 700;
+  font-size: 13px;
+  color: var(--text-white);
+  flex: none;
+}
+
+.flap-face {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--flap-bg);
+  border-radius: 2px;
+  backface-visibility: hidden;
+}
+
+.flap-face.front { transform: rotateX(0deg); z-index: 2; }
+.flap-face.back { transform: rotateX(180deg); }
+
+.flap.flipping .flap-face.front {
+  animation: flap-flip-out 0.24s ease-in forwards;
+}
+.flap.flipping .flap-face.back {
+  animation: flap-flip-in 0.24s ease-out 0.22s forwards;
+}
+
+@keyframes flap-flip-out {
+  0% { transform: rotateX(0deg); }
+  100% { transform: rotateX(-90deg); }
+}
+@keyframes flap-flip-in {
+  0% { transform: rotateX(90deg); }
+  100% { transform: rotateX(0deg); }
+}
+
+/* --------------------------------------------------------------- footer */
+
+.board-footer {
+  padding: 10px 20px 26px;
+  text-align: center;
+  color: var(--text-dim);
+  font-size: 11px;
+  letter-spacing: 0.06em;
+}
+
+/* ---------------------------------------------------------- small screens */
+
+@media (max-width: 640px) {
+  .board-header { padding: 10px 14px; gap: 8px; }
+  .board-title { font-size: 13px; letter-spacing: 0.04em; }
+  .clock { min-width: 0; }
+  .clock-date { font-size: 9px; white-space: nowrap; }
+  .clock-time { font-size: 15px; }
+  .brand-logo { height: 24px; }
+  /* .board-col-head parte da nth-child(2): il primo figlio e' lo spacer
+     dell'icona (senza equivalente dentro .row-fields, che non ha spacer) -
+     "+5" qui e "+4" li' individuano quindi lo STESSO numero di colonne
+     reali visibili (3), altrimenti intestazioni e dati andrebbero
+     disallineati. */
+  .board-columns .board-col-head:nth-child(n+5) { display: none; }
+  .row-fields .row-field:nth-child(n+4) { display: none; }
+  .flap { width: 0.6em; height: 1.2em; font-size: 12px; }
+}

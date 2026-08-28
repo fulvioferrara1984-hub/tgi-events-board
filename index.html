@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>TGI Sport Europa — Tabellone Eventi</title>
+<link rel="icon" href="assets/tgi_logo.png">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="board-header">
+  <div class="brand">
+    <img class="brand-logo" src="assets/tgi_logo.png" alt="TGI Sport">
+  </div>
+  <h1 class="board-title">Tabellone Eventi</h1>
+  <div class="clock">
+    <div class="clock-date" id="clockDate">—</div>
+    <div class="clock-time" id="clockTime">--:--:--</div>
+  </div>
+</header>
+
+<main class="board-body">
+  <section class="board-section" id="sectionPast">
+    <div class="section-head">
+      <span class="section-label">Eventi Passati</span>
+      <span class="section-page" id="pastPage"></span>
+    </div>
+    <div class="board-columns" id="pastColumns"></div>
+    <div class="board-rows" id="pastRows"></div>
+  </section>
+
+  <section class="board-section" id="sectionFuture">
+    <div class="section-head">
+      <span class="section-label">Prossimi Eventi</span>
+      <span class="section-page" id="futurePage"></span>
+    </div>
+    <div class="board-columns" id="futureColumns"></div>
+    <div class="board-rows" id="futureRows"></div>
+  </section>
+</main>
+
+<footer class="board-footer">
+  <span id="footerStatus">Caricamento…</span>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
