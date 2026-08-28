@@ -1,0 +1,479 @@
+{
+  "generated_at": "2026-08-28T13:06:19+02:00",
+  "columns": {
+    "past": [
+      "Competition",
+      "Round / Stage",
+      "Date",
+      "KO",
+      "Team A",
+      "Team B",
+      "Venue",
+      "Status"
+    ],
+    "future": [
+      "Competition",
+      "Round / Stage",
+      "Date",
+      "KO",
+      "Team A",
+      "Team B",
+      "Venue",
+      "Status"
+    ]
+  },
+  "past_events": [
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "1",
+        "Date": "22/08/2026",
+        "KO": "18:30",
+        "Team A": "UDINESE",
+        "Team B": "COMO",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "1",
+        "Date": "22/08/2026",
+        "KO": "20:45",
+        "Team A": "GENOA",
+        "Team B": "NAPOLI",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "1",
+        "Date": "22/08/2026",
+        "KO": "20:45",
+        "Team A": "PARMA",
+        "Team B": "CAGLIARI",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "1",
+        "Date": "23/08/2026",
+        "KO": "18:30",
+        "Team A": "FROSINONE",
+        "Team B": "JUVENTUS",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "1",
+        "Date": "23/08/2026",
+        "KO": "18:30",
+        "Team A": "VENEZIA",
+        "Team B": "LECCE",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "1",
+        "Date": "23/08/2026",
+        "KO": "20:45",
+        "Team A": "ATALANTA",
+        "Team B": "SASSUOLO",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "1",
+        "Date": "23/08/2026",
+        "KO": "20:45",
+        "Team A": "TORINO",
+        "Team B": "MILAN",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "1",
+        "Date": "24/08/2026",
+        "KO": "18:30",
+        "Team A": "BOLOGNA",
+        "Team B": "LAZIO",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "1",
+        "Date": "24/08/2026",
+        "KO": "20:45",
+        "Team A": "ROMA",
+        "Team B": "FIORENTINA",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "UEFA CONFERENCE LEAGUE",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "UEFA CONFERENCE LEAGUE",
+        "Round / Stage": "QUALIFICATION",
+        "Date": "27/08/2026",
+        "KO": "19:00",
+        "Team A": "HRADEC",
+        "Team B": "PANATHINAIKOS",
+        "Venue": "CZECHIA",
+        "Status": "CONFIRMED"
+      }
+    }
+  ],
+  "future_events": [
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "2",
+        "Date": "28/08/2026",
+        "KO": "20:45",
+        "Team A": "MILAN",
+        "Team B": "VENEZIA",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "LIGUE 1",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "LIGUE 1",
+        "Round / Stage": "2",
+        "Date": "28/08/2026",
+        "KO": "20:45",
+        "Team A": "LILLE",
+        "Team B": "PSG",
+        "Venue": "FRANCE",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "2",
+        "Date": "29/08/2026",
+        "KO": "18:30",
+        "Team A": "FIORENTINA",
+        "Team B": "FROSINONE",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "2",
+        "Date": "29/08/2026",
+        "KO": "18:30",
+        "Team A": "MONZA",
+        "Team B": "UDINESE",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "2",
+        "Date": "29/08/2026",
+        "KO": "18:30",
+        "Team A": "SASSUOLO",
+        "Team B": "TORINO",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "2",
+        "Date": "29/08/2026",
+        "KO": "20:45",
+        "Team A": "JUVENTUS",
+        "Team B": "PARMA",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "2",
+        "Date": "30/08/2026",
+        "KO": "18:30",
+        "Team A": "NAPOLI",
+        "Team B": "COMO",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "2",
+        "Date": "30/08/2026",
+        "KO": "20:45",
+        "Team A": "CAGLIARI",
+        "Team B": "INTER",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "2",
+        "Date": "30/08/2026",
+        "KO": "20:45",
+        "Team A": "LAZIO",
+        "Team B": "GENOA",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "2",
+        "Date": "31/08/2026",
+        "KO": "18:30",
+        "Team A": "LECCE",
+        "Team B": "ROMA",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "2",
+        "Date": "31/08/2026",
+        "KO": "20:45",
+        "Team A": "ATALANTA",
+        "Team B": "BOLOGNA",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "3",
+        "Date": "04/09/2026",
+        "KO": "20:45",
+        "Team A": "GENOA",
+        "Team B": "COMO",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "3",
+        "Date": "05/09/2026",
+        "KO": "15:00",
+        "Team A": "FIORENTINA",
+        "Team B": "TORINO",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "3",
+        "Date": "05/09/2026",
+        "KO": "18:00",
+        "Team A": "INTER",
+        "Team B": "NAPOLI",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "3",
+        "Date": "05/09/2026",
+        "KO": "20:45",
+        "Team A": "ROMA",
+        "Team B": "ATALANTA",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "3",
+        "Date": "06/09/2026",
+        "KO": "15:00",
+        "Team A": "FROSINONE",
+        "Team B": "VENEZIA",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "3",
+        "Date": "06/09/2026",
+        "KO": "15:00",
+        "Team A": "PARMA",
+        "Team B": "MONZA",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "3",
+        "Date": "06/09/2026",
+        "KO": "18:00",
+        "Team A": "BOLOGNA",
+        "Team B": "SASSUOLO",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "3",
+        "Date": "06/09/2026",
+        "KO": "20:45",
+        "Team A": "JUVENTUS",
+        "Team B": "MILAN",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "3",
+        "Date": "07/09/2026",
+        "KO": "18:30",
+        "Team A": "CAGLIARI",
+        "Team B": "LECCE",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    }
+  ]
+}
