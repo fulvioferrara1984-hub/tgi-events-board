@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T13:12:04+02:00",
+  "generated_at": "2026-09-01T10:27:39+02:00",
   "columns": {
     "past": [
       "Competition",
@@ -23,36 +23,6 @@
     ]
   },
   "past_events": [
-    {
-      "competition": "UEFA CONFERENCE LEAGUE",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "UEFA CONFERENCE LEAGUE",
-        "Round / Stage": "QUALIFICATION",
-        "Date": "27/08/2026",
-        "KO": "19:00",
-        "Team A": "HRADEC",
-        "Team B": "PANATHINAIKOS",
-        "Venue": "CZECHIA",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "2",
-        "Date": "28/08/2026",
-        "KO": "20:45",
-        "Team A": "MILAN",
-        "Team B": "VENEZIA",
-        "Venue": "ITALY",
-        "Status": "CONFIRMED"
-      }
-    },
     {
       "competition": "LIGUE 1",
       "icon": "⚽",
@@ -172,9 +142,7 @@
         "Venue": "ITALY",
         "Status": "CONFIRMED"
       }
-    }
-  ],
-  "future_events": [
+    },
     {
       "competition": "SERIE A",
       "icon": "⚽",
@@ -204,7 +172,9 @@
         "Venue": "ITALY",
         "Status": "CONFIRMED"
       }
-    },
+    }
+  ],
+  "future_events": [
     {
       "competition": "SERIE A",
       "icon": "⚽",
@@ -471,6 +441,36 @@
         "KO": "15:00",
         "Team A": "COMO",
         "Team B": "PARMA",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "4",
+        "Date": "13/09/2026",
+        "KO": "15:00",
+        "Team A": "LECCE",
+        "Team B": "MONZA",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "4",
+        "Date": "13/09/2026",
+        "KO": "18:00",
+        "Team A": "NAPOLI",
+        "Team B": "BOLOGNA",
         "Venue": "ITALY",
         "Status": "CONFIRMED"
       }
