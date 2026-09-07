@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T12:47:05+02:00",
+  "generated_at": "2026-09-07T12:49:19+02:00",
   "columns": {
     "past": [
       "Competition",
@@ -202,6 +202,51 @@
         "Team A": "UDINESE",
         "Team B": "LAZIO",
         "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "VOLLEYBALL WORLD",
+      "icon": "",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "VOLLEYBALL WORLD",
+        "Round / Stage": "POC",
+        "Date": "08/09/2026",
+        "KO": "11:50",
+        "Team A": "JAPAN",
+        "Team B": "AUSTRALIA",
+        "Venue": "JAPAN",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "VOLLEYBALL WORLD",
+      "icon": "",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "VOLLEYBALL WORLD",
+        "Round / Stage": "POC",
+        "Date": "09/09/2026",
+        "KO": "09:20",
+        "Team A": "TEAM A",
+        "Team B": "TEAM B",
+        "Venue": "JAPAN",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "VOLLEYBALL WORLD",
+      "icon": "",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "VOLLEYBALL WORLD",
+        "Round / Stage": "POC",
+        "Date": "10/09/2026",
+        "KO": "11:50",
+        "Team A": "TEAM C",
+        "Team B": "TEAM D",
+        "Venue": "JAPAN",
         "Status": "CONFIRMED"
       }
     },
@@ -426,51 +471,6 @@
         "KO": "15:00",
         "Team A": "BOLOGNA",
         "Team B": "TORINO",
-        "Venue": "ITALY",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "5",
-        "Date": "19/09/2026",
-        "KO": "15:00",
-        "Team A": "UDINESE",
-        "Team B": "CAGLIARI",
-        "Venue": "ITALY",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "5",
-        "Date": "19/09/2026",
-        "KO": "18:00",
-        "Team A": "ROMA",
-        "Team B": "INTER",
-        "Venue": "ITALY",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "5",
-        "Date": "19/09/2026",
-        "KO": "20:45",
-        "Team A": "VENEZIA",
-        "Team B": "LAZIO",
         "Venue": "ITALY",
         "Status": "CONFIRMED"
       }
