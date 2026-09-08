@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T09:46:38+02:00",
+  "generated_at": "2026-09-08T11:49:48+02:00",
   "columns": {
     "past": [
       "Competition",
@@ -23,21 +23,6 @@
     ]
   },
   "past_events": [
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "3",
-        "Date": "04/09/2026",
-        "KO": "20:45",
-        "Team A": "GENOA",
-        "Team B": "COMO",
-        "Venue": "ITALY",
-        "Status": "CONFIRMED"
-      }
-    },
     {
       "competition": "SERIE A",
       "icon": "⚽",
@@ -172,9 +157,7 @@
         "Venue": "ITALY",
         "Status": "CONFIRMED"
       }
-    }
-  ],
-  "future_events": [
+    },
     {
       "competition": "VOLLEYBALL WORLD",
       "icon": "🏐",
@@ -189,7 +172,9 @@
         "Venue": "JAPAN",
         "Status": "CONFIRMED"
       }
-    },
+    }
+  ],
+  "future_events": [
     {
       "competition": "VOLLEYBALL WORLD",
       "icon": "🏐",
@@ -471,6 +456,21 @@
         "KO": "18:00",
         "Team A": "ROMA",
         "Team B": "INTER",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "5",
+        "Date": "19/09/2026",
+        "KO": "20:45",
+        "Team A": "VENEZIA",
+        "Team B": "LAZIO",
         "Venue": "ITALY",
         "Status": "CONFIRMED"
       }
