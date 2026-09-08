@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T18:31:29+02:00",
+  "generated_at": "2026-09-08T09:46:38+02:00",
   "columns": {
     "past": [
       "Competition",
@@ -23,21 +23,6 @@
     ]
   },
   "past_events": [
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "2",
-        "Date": "31/08/2026",
-        "KO": "20:45",
-        "Team A": "ATALANTA",
-        "Team B": "BOLOGNA",
-        "Venue": "ITALY",
-        "Status": "CONFIRMED"
-      }
-    },
     {
       "competition": "SERIE A",
       "icon": "⚽",
@@ -172,9 +157,7 @@
         "Venue": "ITALY",
         "Status": "CONFIRMED"
       }
-    }
-  ],
-  "future_events": [
+    },
     {
       "competition": "SERIE A",
       "icon": "⚽",
@@ -189,7 +172,9 @@
         "Venue": "ITALY",
         "Status": "CONFIRMED"
       }
-    },
+    }
+  ],
+  "future_events": [
     {
       "competition": "VOLLEYBALL WORLD",
       "icon": "🏐",
@@ -471,6 +456,21 @@
         "KO": "15:00",
         "Team A": "UDINESE",
         "Team B": "CAGLIARI",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "5",
+        "Date": "19/09/2026",
+        "KO": "18:00",
+        "Team A": "ROMA",
+        "Team B": "INTER",
         "Venue": "ITALY",
         "Status": "CONFIRMED"
       }
