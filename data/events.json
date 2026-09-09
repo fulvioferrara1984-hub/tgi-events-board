@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T18:10:44+02:00",
+  "generated_at": "2026-09-09T18:13:00+02:00",
   "columns": {
     "past": [
       "Competition",
@@ -386,6 +386,36 @@
       }
     },
     {
+      "competition": "UEFA CONFERENCE LEAGUE",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "UEFA CONFERENCE LEAGUE",
+        "Round / Stage": "GROUP STAGE",
+        "Date": "15/09/2026",
+        "KO": "12:00",
+        "Team A": "ARARAT-ARMENIA",
+        "Team B": "SPARTA PRAHA",
+        "Venue": "ARMENIA",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "UEFA CONFERENCE LEAGUE",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "UEFA CONFERENCE LEAGUE",
+        "Round / Stage": "GROUP STAGE",
+        "Date": "16/09/2026",
+        "KO": "18:45",
+        "Team A": "ARARAT-ARMENIA",
+        "Team B": "SPARTA PRAHA",
+        "Venue": "ARMENIA",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
       "competition": "SERIE A",
       "icon": "⚽",
       "status": "CONFIRMED",
@@ -441,36 +471,6 @@
         "KO": "18:00",
         "Team A": "ROMA",
         "Team B": "INTER",
-        "Venue": "ITALY",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "5",
-        "Date": "19/09/2026",
-        "KO": "20:45",
-        "Team A": "VENEZIA",
-        "Team B": "LAZIO",
-        "Venue": "ITALY",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "5",
-        "Date": "20/09/2026",
-        "KO": "12:30",
-        "Team A": "FIORENTINA",
-        "Team B": "NAPOLI",
         "Venue": "ITALY",
         "Status": "CONFIRMED"
       }
