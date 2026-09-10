@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T18:29:18+02:00",
+  "generated_at": "2026-09-10T18:30:43+02:00",
   "columns": {
     "past": [
       "Competition",
@@ -191,21 +191,6 @@
       }
     },
     {
-      "competition": "LIGUE 1",
-      "icon": "⚽",
-      "status": "TBC",
-      "fields": {
-        "Competition": "LIGUE 1",
-        "Round / Stage": "4",
-        "Date": "11/09/2026",
-        "KO": "20:45",
-        "Team A": "RENNES",
-        "Team B": "MARSEILLE",
-        "Venue": "FRANCE",
-        "Status": "TBC"
-      }
-    },
-    {
       "competition": "SERIE A",
       "icon": "⚽",
       "status": "CONFIRMED",
@@ -323,21 +308,6 @@
         "Team B": "JUVENTUS",
         "Venue": "ITALY",
         "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "LIGUE 1",
-      "icon": "⚽",
-      "status": "TBC",
-      "fields": {
-        "Competition": "LIGUE 1",
-        "Round / Stage": "4",
-        "Date": "13/09/2026",
-        "KO": "20:45",
-        "Team A": "BREST",
-        "Team B": "PSG",
-        "Venue": "FRANCE",
-        "Status": "TBC"
       }
     },
     {
@@ -471,6 +441,36 @@
         "KO": "18:00",
         "Team A": "ROMA",
         "Team B": "INTER",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "5",
+        "Date": "19/09/2026",
+        "KO": "20:45",
+        "Team A": "VENEZIA",
+        "Team B": "LAZIO",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "5",
+        "Date": "20/09/2026",
+        "KO": "12:30",
+        "Team A": "FIORENTINA",
+        "Team B": "NAPOLI",
         "Venue": "ITALY",
         "Status": "CONFIRMED"
       }
