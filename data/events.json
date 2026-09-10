@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T18:31:30+02:00",
+  "generated_at": "2026-09-10T18:33:55+02:00",
   "columns": {
     "past": [
       "Competition",
@@ -221,11 +221,11 @@
       }
     },
     {
-      "competition": "SWEDISH FOOTBALL EDERATION",
-      "icon": "",
+      "competition": "SWEDISH FOOTBALL FEDERATION",
+      "icon": "⚽",
       "status": "TBC",
       "fields": {
-        "Competition": "SWEDISH FOOTBALL EDERATION",
+        "Competition": "SWEDISH FOOTBALL FEDERATION",
         "Round / Stage": "21",
         "Date": "12/09/2026",
         "KO": "17:30",
