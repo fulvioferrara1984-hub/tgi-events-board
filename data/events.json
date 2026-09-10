@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T15:54:49+02:00",
+  "generated_at": "2026-09-10T15:55:31+02:00",
   "columns": {
     "past": [
       "Competition",
@@ -236,6 +236,21 @@
       }
     },
     {
+      "competition": "SWEDISH FOOTBALL EDERATION",
+      "icon": "",
+      "status": "TBC",
+      "fields": {
+        "Competition": "SWEDISH FOOTBALL EDERATION",
+        "Round / Stage": "21",
+        "Date": "12/09/2026",
+        "KO": "17:30",
+        "Team A": "GOTEBORG",
+        "Team B": "HALMSTAD",
+        "Venue": "SWEDEN",
+        "Status": "TBC"
+      }
+    },
+    {
       "competition": "SERIE A",
       "icon": "⚽",
       "status": "CONFIRMED",
@@ -456,21 +471,6 @@
         "KO": "18:00",
         "Team A": "ROMA",
         "Team B": "INTER",
-        "Venue": "ITALY",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "5",
-        "Date": "19/09/2026",
-        "KO": "20:45",
-        "Team A": "VENEZIA",
-        "Team B": "LAZIO",
         "Venue": "ITALY",
         "Status": "CONFIRMED"
       }
