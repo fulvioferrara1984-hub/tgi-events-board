@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T18:28:41+02:00",
+  "generated_at": "2026-09-10T18:29:18+02:00",
   "columns": {
     "past": [
       "Competition",
@@ -288,36 +288,6 @@
         "Competition": "SERIE A",
         "Round / Stage": "4",
         "Date": "13/09/2026",
-        "KO": "12:30",
-        "Team A": "TORINO",
-        "Team B": "ROMA",
-        "Venue": "ITALY",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "4",
-        "Date": "13/09/2026",
-        "KO": "15:00",
-        "Team A": "COMO",
-        "Team B": "PARMA",
-        "Venue": "ITALY",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "4",
-        "Date": "13/09/2026",
         "KO": "15:00",
         "Team A": "LECCE",
         "Team B": "MONZA",
@@ -368,6 +338,36 @@
         "Team B": "PSG",
         "Venue": "FRANCE",
         "Status": "TBC"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "4",
+        "Date": "14/09/2026",
+        "KO": "18:30",
+        "Team A": "TORINO",
+        "Team B": "ROMA",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "4",
+        "Date": "14/09/2026",
+        "KO": "18:30",
+        "Team A": "COMO",
+        "Team B": "PARMA",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
       }
     },
     {
