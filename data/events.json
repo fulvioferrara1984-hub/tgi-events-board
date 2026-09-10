@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T18:30:43+02:00",
+  "generated_at": "2026-09-10T18:31:30+02:00",
   "columns": {
     "past": [
       "Competition",
@@ -208,7 +208,7 @@
     {
       "competition": "LIGUE 1",
       "icon": "⚽",
-      "status": "TBC",
+      "status": "CONFIRMED",
       "fields": {
         "Competition": "LIGUE 1",
         "Round / Stage": "4",
@@ -217,7 +217,7 @@
         "Team A": "STRASBOURG",
         "Team B": "AS MONACO",
         "Venue": "FRANCE",
-        "Status": "TBC"
+        "Status": "CONFIRMED"
       }
     },
     {
