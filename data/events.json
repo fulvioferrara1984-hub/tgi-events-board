@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T18:14:54+02:00",
+  "generated_at": "2026-09-12T18:02:10+02:00",
   "columns": {
     "past": [
       "Competition",
@@ -23,81 +23,6 @@
     ]
   },
   "past_events": [
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "3",
-        "Date": "05/09/2026",
-        "KO": "20:45",
-        "Team A": "ROMA",
-        "Team B": "ATALANTA",
-        "Venue": "ITALY",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "3",
-        "Date": "06/09/2026",
-        "KO": "15:00",
-        "Team A": "FROSINONE",
-        "Team B": "VENEZIA",
-        "Venue": "ITALY",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "3",
-        "Date": "06/09/2026",
-        "KO": "15:00",
-        "Team A": "PARMA",
-        "Team B": "MONZA",
-        "Venue": "ITALY",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "3",
-        "Date": "06/09/2026",
-        "KO": "18:00",
-        "Team A": "BOLOGNA",
-        "Team B": "SASSUOLO",
-        "Venue": "ITALY",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "3",
-        "Date": "06/09/2026",
-        "KO": "20:45",
-        "Team A": "JUVENTUS",
-        "Team B": "MILAN",
-        "Venue": "ITALY",
-        "Status": "CONFIRMED"
-      }
-    },
     {
       "competition": "SERIE A",
       "icon": "⚽",
@@ -172,9 +97,7 @@
         "Venue": "JAPAN",
         "Status": "CONFIRMED"
       }
-    }
-  ],
-  "future_events": [
+    },
     {
       "competition": "SERIE A",
       "icon": "⚽",
@@ -249,7 +172,9 @@
         "Venue": "ITALY",
         "Status": "CONFIRMED"
       }
-    },
+    }
+  ],
+  "future_events": [
     {
       "competition": "SERIE A",
       "icon": "⚽",
@@ -472,6 +397,81 @@
         "Team A": "FIORENTINA",
         "Team B": "NAPOLI",
         "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "5",
+        "Date": "20/09/2026",
+        "KO": "15:00",
+        "Team A": "FROSINONE",
+        "Team B": "COMO",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "5",
+        "Date": "20/09/2026",
+        "KO": "15:00",
+        "Team A": "PARMA",
+        "Team B": "GENOA",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "5",
+        "Date": "20/09/2026",
+        "KO": "18:00",
+        "Team A": "JUVENTUS",
+        "Team B": "ATALANTA",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "5",
+        "Date": "20/09/2026",
+        "KO": "20:45",
+        "Team A": "MILAN",
+        "Team B": "LECCE",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "BILLIE JEAN KING CUP",
+      "icon": "🎾",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "BILLIE JEAN KING CUP",
+        "Round / Stage": "QUARTER FINALS",
+        "Date": "22/09/2026",
+        "KO": "11:00",
+        "Team A": "GREAT BRITAIN",
+        "Team B": "CZECHIA",
+        "Venue": "CHINA",
         "Status": "CONFIRMED"
       }
     }
