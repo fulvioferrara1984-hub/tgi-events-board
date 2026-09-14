@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T19:18:10+02:00",
+  "generated_at": "2026-09-14T10:23:51+02:00",
   "columns": {
     "past": [
       "Competition",
@@ -23,66 +23,6 @@
     ]
   },
   "past_events": [
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "3",
-        "Date": "07/09/2026",
-        "KO": "18:30",
-        "Team A": "CAGLIARI",
-        "Team B": "LECCE",
-        "Venue": "ITALY",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "3",
-        "Date": "07/09/2026",
-        "KO": "20:45",
-        "Team A": "UDINESE",
-        "Team B": "LAZIO",
-        "Venue": "ITALY",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "VOLLEYBALL WORLD",
-      "icon": "🏐",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "VOLLEYBALL WORLD",
-        "Round / Stage": "POC",
-        "Date": "08/09/2026",
-        "KO": "10:30",
-        "Team A": "JAPAN",
-        "Team B": "AUSTRALIA",
-        "Venue": "JAPAN",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "VOLLEYBALL WORLD",
-      "icon": "🏐",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "VOLLEYBALL WORLD",
-        "Round / Stage": "POC",
-        "Date": "09/09/2026",
-        "KO": "09:20",
-        "Team A": "TEAM A",
-        "Team B": "TEAM B",
-        "Venue": "JAPAN",
-        "Status": "CONFIRMED"
-      }
-    },
     {
       "competition": "VOLLEYBALL WORLD",
       "icon": "🏐",
@@ -172,9 +112,7 @@
         "Venue": "ITALY",
         "Status": "CONFIRMED"
       }
-    }
-  ],
-  "future_events": [
+    },
     {
       "competition": "SERIE A",
       "icon": "⚽",
@@ -234,7 +172,9 @@
         "Venue": "ITALY",
         "Status": "CONFIRMED"
       }
-    },
+    }
+  ],
+  "future_events": [
     {
       "competition": "SERIE A",
       "icon": "⚽",
@@ -473,6 +413,66 @@
         "Team B": "CZECHIA",
         "Venue": "CHINA",
         "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "BILLIE JEAN KING CUP",
+      "icon": "🎾",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "BILLIE JEAN KING CUP",
+        "Round / Stage": "QUARTER FINALS",
+        "Date": "23/09/2026",
+        "KO": "11:00",
+        "Team A": "SPAIN",
+        "Team B": "KAZAKHSTAN",
+        "Venue": "CHINA",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "BILLIE JEAN KING CUP",
+      "icon": "🎾",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "BILLIE JEAN KING CUP",
+        "Round / Stage": "QUARTER FINALS",
+        "Date": "24/09/2026",
+        "KO": "04:00",
+        "Team A": "UKRAINE",
+        "Team B": "BELGIUM",
+        "Venue": "CHINA",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "BILLIE JEAN KING CUP",
+      "icon": "🎾",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "BILLIE JEAN KING CUP",
+        "Round / Stage": "QUARTER FINALS",
+        "Date": "24/09/2026",
+        "KO": "11:00",
+        "Team A": "ITALY",
+        "Team B": "CHINA",
+        "Venue": "CHINA",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "ASEAN CUP",
+      "icon": "⚽",
+      "status": "TBC",
+      "fields": {
+        "Competition": "ASEAN CUP",
+        "Round / Stage": "",
+        "Date": "24/09/2026",
+        "KO": "11:00",
+        "Team A": "LAOS",
+        "Team B": "BRUNEI",
+        "Venue": "Mong Kok Stadium",
+        "Status": "TBC"
       }
     }
   ]
