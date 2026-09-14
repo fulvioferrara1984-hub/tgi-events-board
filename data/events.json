@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T10:31:52+02:00",
+  "generated_at": "2026-09-14T10:32:06+02:00",
   "columns": {
     "past": [
       "Competition",
@@ -259,8 +259,8 @@
         "Round / Stage": "POC",
         "Date": "17/09/2026",
         "KO": "15:00",
-        "Team A": "POC",
-        "Team B": "POC",
+        "Team A": "LISSONE",
+        "Team B": "TORONTO",
         "Venue": "ITALY",
         "Status": "CONFIRMED"
       }
