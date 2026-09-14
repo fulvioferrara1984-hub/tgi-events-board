@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T10:23:51+02:00",
+  "generated_at": "2026-09-14T10:31:02+02:00",
   "columns": {
     "past": [
       "Competition",
@@ -251,6 +251,21 @@
       }
     },
     {
+      "competition": "ELUVIO",
+      "icon": "🌐",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "ELUVIO",
+        "Round / Stage": "POC",
+        "Date": "17/09/2026",
+        "KO": "15:00",
+        "Team A": "POC",
+        "Team B": "POC",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
       "competition": "SERIE A",
       "icon": "⚽",
       "status": "CONFIRMED",
@@ -458,21 +473,6 @@
         "Team B": "CHINA",
         "Venue": "CHINA",
         "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "ASEAN CUP",
-      "icon": "⚽",
-      "status": "TBC",
-      "fields": {
-        "Competition": "ASEAN CUP",
-        "Round / Stage": "",
-        "Date": "24/09/2026",
-        "KO": "11:00",
-        "Team A": "LAOS",
-        "Team B": "BRUNEI",
-        "Venue": "Mong Kok Stadium",
-        "Status": "TBC"
       }
     }
   ]
