@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T12:22:32+02:00",
+  "generated_at": "2026-09-14T12:27:26+02:00",
   "columns": {
     "past": [
       "Competition",
@@ -251,6 +251,21 @@
       }
     },
     {
+      "competition": "FLYPACK",
+      "icon": "",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "FLYPACK",
+        "Round / Stage": "LOGISTIC",
+        "Date": "17/09/2026",
+        "KO": "09:30",
+        "Team A": "",
+        "Team B": "",
+        "Venue": "",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
       "competition": "ELUVIO",
       "icon": "🌐",
       "status": "CONFIRMED",
@@ -456,21 +471,6 @@
         "KO": "04:00",
         "Team A": "UKRAINE",
         "Team B": "BELGIUM",
-        "Venue": "CHINA",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "BILLIE JEAN KING CUP",
-      "icon": "🎾",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "BILLIE JEAN KING CUP",
-        "Round / Stage": "QUARTER FINALS",
-        "Date": "24/09/2026",
-        "KO": "11:00",
-        "Team A": "ITALY",
-        "Team B": "CHINA",
         "Venue": "CHINA",
         "Status": "CONFIRMED"
       }
