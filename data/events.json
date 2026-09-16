@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T12:52:52+02:00",
+  "generated_at": "2026-09-16T11:23:24+02:00",
   "columns": {
     "past": [
       "Competition",
@@ -23,66 +23,6 @@
     ]
   },
   "past_events": [
-    {
-      "competition": "VOLLEYBALL WORLD",
-      "icon": "🏐",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "VOLLEYBALL WORLD",
-        "Round / Stage": "POC",
-        "Date": "10/09/2026",
-        "KO": "11:50",
-        "Team A": "TEAM C",
-        "Team B": "TEAM D",
-        "Venue": "JAPAN",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "4",
-        "Date": "11/09/2026",
-        "KO": "20:45",
-        "Team A": "VENEZIA",
-        "Team B": "FIORENTINA",
-        "Venue": "ITALY",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "4",
-        "Date": "12/09/2026",
-        "KO": "15:00",
-        "Team A": "GENOA",
-        "Team B": "FROSINONE",
-        "Venue": "ITALY",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "LIGUE 1",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "LIGUE 1",
-        "Round / Stage": "4",
-        "Date": "12/09/2026",
-        "KO": "17:15",
-        "Team A": "STRASBOURG",
-        "Team B": "AS MONACO",
-        "Venue": "FRANCE",
-        "Status": "CONFIRMED"
-      }
-    },
     {
       "competition": "SWEDISH FOOTBALL FEDERATION",
       "icon": "⚽",
@@ -172,9 +112,7 @@
         "Venue": "ITALY",
         "Status": "CONFIRMED"
       }
-    }
-  ],
-  "future_events": [
+    },
     {
       "competition": "SERIE A",
       "icon": "⚽",
@@ -234,7 +172,9 @@
         "Venue": "ARMENIA",
         "Status": "CONFIRMED"
       }
-    },
+    }
+  ],
+  "future_events": [
     {
       "competition": "UEFA CONFERENCE LEAGUE",
       "icon": "⚽",
@@ -472,6 +412,66 @@
         "Team A": "UKRAINE",
         "Team B": "BELGIUM",
         "Venue": "CHINA",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "BILLIE JEAN KING CUP",
+      "icon": "🎾",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "BILLIE JEAN KING CUP",
+        "Round / Stage": "QUARTER FINALS",
+        "Date": "24/09/2026",
+        "KO": "11:00",
+        "Team A": "ITALY",
+        "Team B": "CHINA",
+        "Venue": "CHINA",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "ASEAN CUP",
+      "icon": "⚽",
+      "status": "TBC",
+      "fields": {
+        "Competition": "ASEAN CUP",
+        "Round / Stage": "",
+        "Date": "24/09/2026",
+        "KO": "11:00",
+        "Team A": "LAOS",
+        "Team B": "BRUNEI",
+        "Venue": "Mong Kok Stadium",
+        "Status": "TBC"
+      }
+    },
+    {
+      "competition": "ASEAN CUP",
+      "icon": "⚽",
+      "status": "TBC",
+      "fields": {
+        "Competition": "ASEAN CUP",
+        "Round / Stage": "",
+        "Date": "24/09/2026",
+        "KO": "14:00",
+        "Team A": "MYANMAR",
+        "Team B": "TIMOR-LESTE",
+        "Venue": "Mong Kok Stadium",
+        "Status": "TBC"
+      }
+    },
+    {
+      "competition": "NATIONS LEAGUE",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "NATIONS LEAGUE",
+        "Round / Stage": "GROUP STAGE",
+        "Date": "24/09/2026",
+        "KO": "20:45",
+        "Team A": "NORWAY",
+        "Team B": "DENMARK",
+        "Venue": "NORWAY",
         "Status": "CONFIRMED"
       }
     }
