@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T11:23:24+02:00",
+  "generated_at": "2026-09-16T11:25:21+02:00",
   "columns": {
     "past": [
       "Competition",
@@ -216,6 +216,21 @@
         "KO": "15:00",
         "Team A": "LISSONE",
         "Team B": "TORONTO",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "BILLIE JEAN KING CUP",
+      "icon": "🎾",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "BILLIE JEAN KING CUP",
+        "Round / Stage": "CONNECTIVITY",
+        "Date": "18/09/2026",
+        "KO": "15:00",
+        "Team A": "LISSONE",
+        "Team B": "LONDON",
         "Venue": "ITALY",
         "Status": "CONFIRMED"
       }
@@ -458,21 +473,6 @@
         "Team B": "TIMOR-LESTE",
         "Venue": "Mong Kok Stadium",
         "Status": "TBC"
-      }
-    },
-    {
-      "competition": "NATIONS LEAGUE",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "NATIONS LEAGUE",
-        "Round / Stage": "GROUP STAGE",
-        "Date": "24/09/2026",
-        "KO": "20:45",
-        "Team A": "NORWAY",
-        "Team B": "DENMARK",
-        "Venue": "NORWAY",
-        "Status": "CONFIRMED"
       }
     }
   ]
