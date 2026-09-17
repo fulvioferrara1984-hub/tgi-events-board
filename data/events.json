@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T14:09:12+02:00",
+  "generated_at": "2026-09-17T15:39:46+02:00",
   "columns": {
     "past": [
       "Competition",
@@ -23,21 +23,6 @@
     ]
   },
   "past_events": [
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "4",
-        "Date": "12/09/2026",
-        "KO": "20:45",
-        "Team A": "ATALANTA",
-        "Team B": "CAGLIARI",
-        "Venue": "ITALY",
-        "Status": "CONFIRMED"
-      }
-    },
     {
       "competition": "SERIE A",
       "icon": "⚽",
@@ -172,9 +157,7 @@
         "Venue": "",
         "Status": "CONFIRMED"
       }
-    }
-  ],
-  "future_events": [
+    },
     {
       "competition": "ELUVIO",
       "icon": "🌐",
@@ -189,7 +172,9 @@
         "Venue": "ITALY",
         "Status": "CONFIRMED"
       }
-    },
+    }
+  ],
+  "future_events": [
     {
       "competition": "BILLIE JEAN KING CUP",
       "icon": "🎾",
@@ -416,36 +401,6 @@
       }
     },
     {
-      "competition": "ASEAN CUP",
-      "icon": "⚽",
-      "status": "TBC",
-      "fields": {
-        "Competition": "ASEAN CUP",
-        "Round / Stage": "",
-        "Date": "24/09/2026",
-        "KO": "11:00",
-        "Team A": "LAOS",
-        "Team B": "BRUNEI",
-        "Venue": "Mong Kok Stadium",
-        "Status": "TBC"
-      }
-    },
-    {
-      "competition": "ASEAN CUP",
-      "icon": "⚽",
-      "status": "TBC",
-      "fields": {
-        "Competition": "ASEAN CUP",
-        "Round / Stage": "",
-        "Date": "24/09/2026",
-        "KO": "14:00",
-        "Team A": "MYANMAR",
-        "Team B": "TIMOR-LESTE",
-        "Venue": "Mong Kok Stadium",
-        "Status": "TBC"
-      }
-    },
-    {
       "competition": "NATIONS LEAGUE",
       "icon": "⚽",
       "status": "CONFIRMED",
@@ -472,6 +427,51 @@
         "Team A": "NETHERLANDS",
         "Team B": "GERMANY",
         "Venue": "NETHERLANDS",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "NATIONS LEAGUE",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "NATIONS LEAGUE",
+        "Round / Stage": "GROUP STAGE",
+        "Date": "24/09/2026",
+        "KO": "20:45",
+        "Team A": "SERBIA",
+        "Team B": "GREECE",
+        "Venue": "SERBIA",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "NATIONS LEAGUE",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "NATIONS LEAGUE",
+        "Round / Stage": "GROUP STAGE",
+        "Date": "24/09/2026",
+        "KO": "20:45",
+        "Team A": "PORTUGAL",
+        "Team B": "WALES",
+        "Venue": "PORTUGAL",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "BILLIE JEAN KING CUP",
+      "icon": "🎾",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "BILLIE JEAN KING CUP",
+        "Round / Stage": "SEMI FINALS",
+        "Date": "25/09/2026",
+        "KO": "11:00",
+        "Team A": "SF1",
+        "Team B": "SF2",
+        "Venue": "CHINA",
         "Status": "CONFIRMED"
       }
     }
