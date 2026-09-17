@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T14:07:07+02:00",
+  "generated_at": "2026-09-17T14:09:12+02:00",
   "columns": {
     "past": [
       "Competition",
@@ -129,11 +129,11 @@
       }
     },
     {
-      "competition": "UEFA CONFERENCE LEAGUE",
+      "competition": "UEFA EUROPA LEAGUE",
       "icon": "⚽",
       "status": "CONFIRMED",
       "fields": {
-        "Competition": "UEFA CONFERENCE LEAGUE",
+        "Competition": "UEFA EUROPA LEAGUE",
         "Round / Stage": "GROUP STAGE",
         "Date": "15/09/2026",
         "KO": "12:00",
@@ -144,11 +144,11 @@
       }
     },
     {
-      "competition": "UEFA CONFERENCE LEAGUE",
+      "competition": "UEFA EUROPA LEAGUE",
       "icon": "⚽",
       "status": "CONFIRMED",
       "fields": {
-        "Competition": "UEFA CONFERENCE LEAGUE",
+        "Competition": "UEFA EUROPA LEAGUE",
         "Round / Stage": "GROUP STAGE",
         "Date": "16/09/2026",
         "KO": "18:45",
