@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T09:23:06+02:00",
+  "generated_at": "2026-09-23T11:01:24+02:00",
   "columns": {
     "past": [
       "Competition",
@@ -23,21 +23,6 @@
     ]
   },
   "past_events": [
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "5",
-        "Date": "19/09/2026",
-        "KO": "15:00",
-        "Team A": "BOLOGNA",
-        "Team B": "TORINO",
-        "Venue": "ITALY",
-        "Status": "CONFIRMED"
-      }
-    },
     {
       "competition": "SERIE A",
       "icon": "⚽",
@@ -172,9 +157,7 @@
         "Venue": "CHINA",
         "Status": "CONFIRMED"
       }
-    }
-  ],
-  "future_events": [
+    },
     {
       "competition": "BILLIE JEAN KING CUP",
       "icon": "🎾",
@@ -189,7 +172,9 @@
         "Venue": "CHINA",
         "Status": "CONFIRMED"
       }
-    },
+    }
+  ],
+  "future_events": [
     {
       "competition": "BILLIE JEAN KING CUP",
       "icon": "🎾",
@@ -472,6 +457,21 @@
         "Team A": "WALES",
         "Team B": "NORWAY",
         "Venue": "WALES",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "NATIONS LEAGUE",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "NATIONS LEAGUE",
+        "Round / Stage": "GROUP STAGE",
+        "Date": "01/10/2026",
+        "KO": "20:45",
+        "Team A": "IRELAND",
+        "Team B": "AUSTRIA",
+        "Venue": "IRELAND",
         "Status": "CONFIRMED"
       }
     }
