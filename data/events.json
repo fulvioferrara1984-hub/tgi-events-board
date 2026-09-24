@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T19:11:08+02:00",
+  "generated_at": "2026-09-24T15:39:32+02:00",
   "columns": {
     "past": [
       "Competition",
@@ -23,36 +23,6 @@
     ]
   },
   "past_events": [
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "5",
-        "Date": "19/09/2026",
-        "KO": "15:00",
-        "Team A": "UDINESE",
-        "Team B": "CAGLIARI",
-        "Venue": "ITALY",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "5",
-        "Date": "19/09/2026",
-        "KO": "18:00",
-        "Team A": "ROMA",
-        "Team B": "INTER",
-        "Venue": "ITALY",
-        "Status": "CONFIRMED"
-      }
-    },
     {
       "competition": "SERIE A",
       "icon": "⚽",
@@ -172,9 +142,7 @@
         "Venue": "CHINA",
         "Status": "CONFIRMED"
       }
-    }
-  ],
-  "future_events": [
+    },
     {
       "competition": "BILLIE JEAN KING CUP",
       "icon": "🎾",
@@ -204,7 +172,9 @@
         "Venue": "CHINA",
         "Status": "CONFIRMED"
       }
-    },
+    }
+  ],
+  "future_events": [
     {
       "competition": "NATIONS LEAGUE",
       "icon": "⚽",
@@ -472,6 +442,36 @@
         "Team A": "IRELAND",
         "Team B": "AUSTRIA",
         "Venue": "IRELAND",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "NATIONS LEAGUE",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "NATIONS LEAGUE",
+        "Round / Stage": "GROUP STAGE",
+        "Date": "02/10/2026",
+        "KO": "20:45",
+        "Team A": "FRANCE",
+        "Team B": "ITALY",
+        "Venue": "FRANCE",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "NATIONS LEAGUE",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "NATIONS LEAGUE",
+        "Round / Stage": "GROUP STAGE",
+        "Date": "02/10/2026",
+        "KO": "20:45",
+        "Team A": "BOSNIA",
+        "Team B": "SWEDEN",
+        "Venue": "BOSNIA",
         "Status": "CONFIRMED"
       }
     }
