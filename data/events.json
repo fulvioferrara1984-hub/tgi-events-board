@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T16:16:57+02:00",
+  "generated_at": "2026-09-25T16:46:00+02:00",
   "columns": {
     "past": [
       "Competition",
@@ -23,81 +23,6 @@
     ]
   },
   "past_events": [
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "5",
-        "Date": "19/09/2026",
-        "KO": "20:45",
-        "Team A": "VENEZIA",
-        "Team B": "LAZIO",
-        "Venue": "ITALY",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "5",
-        "Date": "20/09/2026",
-        "KO": "12:30",
-        "Team A": "FIORENTINA",
-        "Team B": "NAPOLI",
-        "Venue": "ITALY",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "5",
-        "Date": "20/09/2026",
-        "KO": "15:00",
-        "Team A": "FROSINONE",
-        "Team B": "COMO",
-        "Venue": "ITALY",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "5",
-        "Date": "20/09/2026",
-        "KO": "15:00",
-        "Team A": "PARMA",
-        "Team B": "GENOA",
-        "Venue": "ITALY",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "5",
-        "Date": "20/09/2026",
-        "KO": "18:00",
-        "Team A": "JUVENTUS",
-        "Team B": "ATALANTA",
-        "Venue": "ITALY",
-        "Status": "CONFIRMED"
-      }
-    },
     {
       "competition": "SERIE A",
       "icon": "⚽",
@@ -172,9 +97,7 @@
         "Venue": "CHINA",
         "Status": "CONFIRMED"
       }
-    }
-  ],
-  "future_events": [
+    },
     {
       "competition": "NATIONS LEAGUE",
       "icon": "⚽",
@@ -249,7 +172,9 @@
         "Venue": "CHINA",
         "Status": "CONFIRMED"
       }
-    },
+    }
+  ],
+  "future_events": [
     {
       "competition": "RUGBY LEAGUE",
       "icon": "🏉",
@@ -472,6 +397,81 @@
         "Team A": "BOSNIA",
         "Team B": "SWEDEN",
         "Venue": "BOSNIA",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "NATIONS LEAGUE",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "NATIONS LEAGUE",
+        "Round / Stage": "GROUP STAGE",
+        "Date": "03/10/2026",
+        "KO": "18:00",
+        "Team A": "CROATIA ",
+        "Team B": "ENGLAND",
+        "Venue": "CROATIA ",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "NATIONS LEAGUE",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "NATIONS LEAGUE",
+        "Round / Stage": "GROUP STAGE",
+        "Date": "03/10/2026",
+        "KO": "20:45",
+        "Team A": "SPAIN",
+        "Team B": "CZECHIA",
+        "Venue": "SPAIN",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "NATIONS LEAGUE",
+      "icon": "⚽",
+      "status": "TBC",
+      "fields": {
+        "Competition": "NATIONS LEAGUE",
+        "Round / Stage": "GROUP STAGE",
+        "Date": "03/10/2026",
+        "KO": "21:00",
+        "Team A": "IVORY COAST",
+        "Team B": "CAMEROUN",
+        "Venue": "IVORY COAST",
+        "Status": "TBC"
+      }
+    },
+    {
+      "competition": "NATIONS LEAGUE",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "NATIONS LEAGUE",
+        "Round / Stage": "GROUP STAGE",
+        "Date": "04/10/2026",
+        "KO": "18:00",
+        "Team A": "KOSOVO",
+        "Team B": "AUSTRIA",
+        "Venue": "KOSOVO",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "NATIONS LEAGUE",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "NATIONS LEAGUE",
+        "Round / Stage": "GROUP STAGE",
+        "Date": "04/10/2026",
+        "KO": "20:45",
+        "Team A": "GREECE",
+        "Team B": "GERMANY",
+        "Venue": "GREECE",
         "Status": "CONFIRMED"
       }
     }
