@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T11:04:05+02:00",
+  "generated_at": "2026-09-28T11:05:37+02:00",
   "columns": {
     "past": [
       "Competition",
@@ -433,7 +433,7 @@
     {
       "competition": "EUROPEAN QUALIFIERS W",
       "icon": "⚽",
-      "status": "TBC",
+      "status": "CONFIRMED",
       "fields": {
         "Competition": "EUROPEAN QUALIFIERS W",
         "Round / Stage": "GROUP STAGE",
@@ -442,7 +442,7 @@
         "Team A": "HUNGARY (W)",
         "Team B": "NETHERLANDS (W)",
         "Venue": "HUNGARY",
-        "Status": "TBC"
+        "Status": "CONFIRMED"
       }
     },
     {
