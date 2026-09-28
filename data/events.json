@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T18:34:52+02:00",
+  "generated_at": "2026-09-28T11:04:05+02:00",
   "columns": {
     "past": [
       "Competition",
@@ -23,126 +23,6 @@
     ]
   },
   "past_events": [
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "5",
-        "Date": "20/09/2026",
-        "KO": "20:45",
-        "Team A": "MILAN",
-        "Team B": "LECCE",
-        "Venue": "ITALY",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "BILLIE JEAN KING CUP",
-      "icon": "🎾",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "BILLIE JEAN KING CUP",
-        "Round / Stage": "QUARTER FINALS",
-        "Date": "22/09/2026",
-        "KO": "11:00",
-        "Team A": "GREAT BRITAIN",
-        "Team B": "CZECHIA",
-        "Venue": "CHINA",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "BILLIE JEAN KING CUP",
-      "icon": "🎾",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "BILLIE JEAN KING CUP",
-        "Round / Stage": "QUARTER FINALS",
-        "Date": "23/09/2026",
-        "KO": "11:00",
-        "Team A": "SPAIN",
-        "Team B": "KAZAKHSTAN",
-        "Venue": "CHINA",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "BILLIE JEAN KING CUP",
-      "icon": "🎾",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "BILLIE JEAN KING CUP",
-        "Round / Stage": "QUARTER FINALS",
-        "Date": "24/09/2026",
-        "KO": "04:00",
-        "Team A": "UKRAINE",
-        "Team B": "BELGIUM",
-        "Venue": "CHINA",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "BILLIE JEAN KING CUP",
-      "icon": "🎾",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "BILLIE JEAN KING CUP",
-        "Round / Stage": "QUARTER FINALS",
-        "Date": "24/09/2026",
-        "KO": "11:00",
-        "Team A": "ITALY",
-        "Team B": "CHINA",
-        "Venue": "CHINA",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "NATIONS LEAGUE",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "NATIONS LEAGUE",
-        "Round / Stage": "GROUP STAGE",
-        "Date": "24/09/2026",
-        "KO": "20:45",
-        "Team A": "NORWAY",
-        "Team B": "DENMARK",
-        "Venue": "NORWAY",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "NATIONS LEAGUE",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "NATIONS LEAGUE",
-        "Round / Stage": "GROUP STAGE",
-        "Date": "24/09/2026",
-        "KO": "20:45",
-        "Team A": "NETHERLANDS",
-        "Team B": "GERMANY",
-        "Venue": "NETHERLANDS",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "NATIONS LEAGUE",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "NATIONS LEAGUE",
-        "Round / Stage": "GROUP STAGE",
-        "Date": "24/09/2026",
-        "KO": "20:45",
-        "Team A": "SERBIA",
-        "Team B": "GREECE",
-        "Venue": "SERBIA",
-        "Status": "CONFIRMED"
-      }
-    },
     {
       "competition": "NATIONS LEAGUE",
       "icon": "⚽",
@@ -172,9 +52,7 @@
         "Venue": "CHINA",
         "Status": "CONFIRMED"
       }
-    }
-  ],
-  "future_events": [
+    },
     {
       "competition": "RUGBY LEAGUE",
       "icon": "🏉",
@@ -294,7 +172,9 @@
         "Venue": "GERMANY",
         "Status": "CONFIRMED"
       }
-    },
+    }
+  ],
+  "future_events": [
     {
       "competition": "NATIONS LEAGUE",
       "icon": "⚽",
@@ -472,6 +352,126 @@
         "Team A": "GREECE",
         "Team B": "GERMANY",
         "Venue": "GREECE",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "NATIONS LEAGUE",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "NATIONS LEAGUE",
+        "Round / Stage": "GROUP STAGE",
+        "Date": "04/10/2026",
+        "KO": "20:45",
+        "Team A": "PORTUGAL",
+        "Team B": "NORWAY",
+        "Venue": "PORTUGAL",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "NATIONS LEAGUE",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "NATIONS LEAGUE",
+        "Round / Stage": "GROUP STAGE",
+        "Date": "04/10/2026",
+        "KO": "20:45",
+        "Team A": "WALES",
+        "Team B": "DENMARK",
+        "Venue": "WALES",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "NATIONS LEAGUE",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "NATIONS LEAGUE",
+        "Round / Stage": "GROUP STAGE",
+        "Date": "05/10/2026",
+        "KO": "20:45",
+        "Team A": "ROMANIA",
+        "Team B": "SWEDEN",
+        "Venue": "ROMANIA",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "NATIONS LEAGUE",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "NATIONS LEAGUE",
+        "Round / Stage": "GROUP STAGE",
+        "Date": "06/10/2026",
+        "KO": "20:45",
+        "Team A": "CROATIA ",
+        "Team B": "SPAIN",
+        "Venue": "CROATIA ",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "NATIONS LEAGUE",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "NATIONS LEAGUE",
+        "Round / Stage": "GROUP STAGE",
+        "Date": "06/10/2026",
+        "KO": "20:45",
+        "Team A": "ENGLAND",
+        "Team B": "CZECHIA",
+        "Venue": "ENGLAND",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "EUROPEAN QUALIFIERS W",
+      "icon": "⚽",
+      "status": "TBC",
+      "fields": {
+        "Competition": "EUROPEAN QUALIFIERS W",
+        "Round / Stage": "GROUP STAGE",
+        "Date": "09/10/2026",
+        "KO": "20:00",
+        "Team A": "HUNGARY (W)",
+        "Team B": "NETHERLANDS (W)",
+        "Venue": "HUNGARY",
+        "Status": "TBC"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "6",
+        "Date": "10/10/2026",
+        "KO": "15:00",
+        "Team A": "GENOA",
+        "Team B": "FIORENTINA",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "6",
+        "Date": "10/10/2026",
+        "KO": "18:00",
+        "Team A": "INTER",
+        "Team B": "PARMA",
+        "Venue": "ITALY",
         "Status": "CONFIRMED"
       }
     }
