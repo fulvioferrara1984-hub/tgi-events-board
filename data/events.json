@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T10:35:14+02:00",
+  "generated_at": "2026-09-29T10:57:01+02:00",
   "columns": {
     "past": [
       "Competition",
@@ -274,7 +274,7 @@
         "Round / Stage": "GROUP STAGE",
         "Date": "03/10/2026",
         "KO": "18:00",
-        "Team A": "CROATIA ",
+        "Team A": "CROATIA",
         "Team B": "ENGLAND",
         "Venue": "CROATIA ",
         "Status": "CONFIRMED"
@@ -394,7 +394,7 @@
         "Round / Stage": "GROUP STAGE",
         "Date": "06/10/2026",
         "KO": "20:45",
-        "Team A": "CROATIA ",
+        "Team A": "CROATIA",
         "Team B": "SPAIN",
         "Venue": "CROATIA ",
         "Status": "CONFIRMED"
