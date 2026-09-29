@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T12:14:28+02:00",
+  "generated_at": "2026-09-29T10:25:04+02:00",
   "columns": {
     "past": [
       "Competition",
@@ -23,21 +23,6 @@
     ]
   },
   "past_events": [
-    {
-      "competition": "NATIONS LEAGUE",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "NATIONS LEAGUE",
-        "Round / Stage": "GROUP STAGE",
-        "Date": "24/09/2026",
-        "KO": "20:45",
-        "Team A": "PORTUGAL",
-        "Team B": "WALES",
-        "Venue": "PORTUGAL",
-        "Status": "CONFIRMED"
-      }
-    },
     {
       "competition": "BILLIE JEAN KING CUP",
       "icon": "🎾",
@@ -172,9 +157,7 @@
         "Venue": "GERMANY",
         "Status": "CONFIRMED"
       }
-    }
-  ],
-  "future_events": [
+    },
     {
       "competition": "NATIONS LEAGUE",
       "icon": "⚽",
@@ -189,7 +172,9 @@
         "Venue": "TURKEY",
         "Status": "CONFIRMED"
       }
-    },
+    }
+  ],
+  "future_events": [
     {
       "competition": "NATIONS LEAGUE",
       "icon": "⚽",
@@ -471,6 +456,21 @@
         "KO": "18:00",
         "Team A": "INTER",
         "Team B": "PARMA",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "6",
+        "Date": "10/10/2026",
+        "KO": "20:45",
+        "Team A": "NAPOLI",
+        "Team B": "FROSINONE",
         "Venue": "ITALY",
         "Status": "CONFIRMED"
       }
