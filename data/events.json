@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T15:50:04+02:00",
+  "generated_at": "2026-10-06T16:03:33+02:00",
   "columns": {
     "past": [
       "Competition",
@@ -386,6 +386,81 @@
       }
     },
     {
+      "competition": "UEFA CHAMPIONS LEAGUE",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "UEFA CHAMPIONS LEAGUE",
+        "Round / Stage": "GROUP STAGE",
+        "Date": "13/10/2026",
+        "KO": "12:00",
+        "Team A": "FEYENOORD",
+        "Team B": "COMO 1907",
+        "Venue": "FEYENOORD",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "UEFA CHAMPIONS LEAGUE",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "UEFA CHAMPIONS LEAGUE",
+        "Round / Stage": "GROUP STAGE",
+        "Date": "13/10/2026",
+        "KO": "12:00",
+        "Team A": "REAL BETIS BALOMPIÉ",
+        "Team B": "FC PORTO",
+        "Venue": "REAL BETIS BALOMPIÉ",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "UEFA EUROPA LEAGUE",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "UEFA EUROPA LEAGUE",
+        "Round / Stage": "GROUP STAGE",
+        "Date": "14/10/2026",
+        "KO": "12:00",
+        "Team A": "NEC NIJMEGEN",
+        "Team B": "LEVSKI SOFIA",
+        "Venue": "NEC NIJMEGEN",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "UEFA CHAMPIONS LEAGUE",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "UEFA CHAMPIONS LEAGUE",
+        "Round / Stage": "GROUP STAGE",
+        "Date": "14/10/2026",
+        "KO": "18:45",
+        "Team A": "FEYENOORD",
+        "Team B": "COMO 1907",
+        "Venue": "FEYENOORD",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "UEFA CHAMPIONS LEAGUE",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "UEFA CHAMPIONS LEAGUE",
+        "Round / Stage": "GROUP STAGE",
+        "Date": "14/10/2026",
+        "KO": "21:00",
+        "Team A": "REAL BETIS BALOMPIÉ",
+        "Team B": "FC PORTO",
+        "Venue": "REAL BETIS BALOMPIÉ",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
       "competition": "UEFA EUROPA LEAGUE",
       "icon": "⚽",
       "status": "CONFIRMED",
@@ -394,84 +469,9 @@
         "Round / Stage": "GROUP STAGE",
         "Date": "15/10/2026",
         "KO": "21:00",
-        "Team A": "GNK DINAMO",
-        "Team B": "ANDERLECHT",
-        "Venue": "CROATIA",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "7",
-        "Date": "16/10/2026",
-        "KO": "20:45",
-        "Team A": "FROSINONE",
-        "Team B": "SASSUOLO",
-        "Venue": "ITALY",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "7",
-        "Date": "17/10/2026",
-        "KO": "15:00",
-        "Team A": "VENEZIA",
-        "Team B": "NAPOLI",
-        "Venue": "ITALY",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "7",
-        "Date": "17/10/2026",
-        "KO": "18:00",
-        "Team A": "BOLOGNA",
-        "Team B": "INTER",
-        "Venue": "ITALY",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "7",
-        "Date": "17/10/2026",
-        "KO": "20:45",
-        "Team A": "ROMA",
-        "Team B": "GENOA",
-        "Venue": "ITALY",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "7",
-        "Date": "18/10/2026",
-        "KO": "12:30",
-        "Team A": "UDINESE",
-        "Team B": "LECCE",
-        "Venue": "ITALY",
+        "Team A": "NEC NIJMEGEN",
+        "Team B": "LEVSKI SOFIA",
+        "Venue": "NEC NIJMEGEN",
         "Status": "CONFIRMED"
       }
     }
