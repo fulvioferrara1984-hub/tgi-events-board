@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T15:31:08+02:00",
+  "generated_at": "2026-10-06T10:14:23+02:00",
   "columns": {
     "past": [
       "Competition",
@@ -23,21 +23,6 @@
     ]
   },
   "past_events": [
-    {
-      "competition": "NATIONS LEAGUE",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "NATIONS LEAGUE",
-        "Round / Stage": "GROUP STAGE",
-        "Date": "01/10/2026",
-        "KO": "20:45",
-        "Team A": "IRELAND",
-        "Team B": "AUSTRIA",
-        "Venue": "IRELAND",
-        "Status": "CONFIRMED"
-      }
-    },
     {
       "competition": "NATIONS LEAGUE",
       "icon": "⚽",
@@ -172,9 +157,7 @@
         "Venue": "WALES",
         "Status": "CONFIRMED"
       }
-    }
-  ],
-  "future_events": [
+    },
     {
       "competition": "NATIONS LEAGUE",
       "icon": "⚽",
@@ -189,7 +172,9 @@
         "Venue": "ROMANIA",
         "Status": "CONFIRMED"
       }
-    },
+    }
+  ],
+  "future_events": [
     {
       "competition": "NATIONS LEAGUE",
       "icon": "⚽",
@@ -471,6 +456,21 @@
         "KO": "12:30",
         "Team A": "UDINESE",
         "Team B": "LECCE",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "7",
+        "Date": "18/10/2026",
+        "KO": "15:00",
+        "Team A": "FIORENTINA",
+        "Team B": "COMO",
         "Venue": "ITALY",
         "Status": "CONFIRMED"
       }
