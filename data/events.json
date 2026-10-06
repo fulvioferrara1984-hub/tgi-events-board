@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T10:15:12+02:00",
+  "generated_at": "2026-10-06T10:27:33+02:00",
   "columns": {
     "past": [
       "Competition",
@@ -386,6 +386,21 @@
       }
     },
     {
+      "competition": "UEFA EUROPA LEAGUE",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "UEFA EUROPA LEAGUE",
+        "Round / Stage": "GROUP STAGE",
+        "Date": "15/10/2026",
+        "KO": "21:00",
+        "Team A": "GNK DINAMO",
+        "Team B": "ANDERLECHT",
+        "Venue": "CROATIA",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
       "competition": "SERIE A",
       "icon": "⚽",
       "status": "CONFIRMED",
@@ -456,21 +471,6 @@
         "KO": "12:30",
         "Team A": "UDINESE",
         "Team B": "LECCE",
-        "Venue": "ITALY",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "7",
-        "Date": "18/10/2026",
-        "KO": "15:00",
-        "Team A": "FIORENTINA",
-        "Team B": "COMO",
         "Venue": "ITALY",
         "Status": "CONFIRMED"
       }
