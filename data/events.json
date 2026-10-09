@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T14:06:34+02:00",
+  "generated_at": "2026-10-09T14:07:45+02:00",
   "columns": {
     "past": [
       "Competition",
@@ -191,21 +191,6 @@
       }
     },
     {
-      "competition": "LIGUE 1",
-      "icon": "⚽",
-      "status": "TBC",
-      "fields": {
-        "Competition": "LIGUE 1",
-        "Round / Stage": "6",
-        "Date": "09/10/2026",
-        "KO": "20:45",
-        "Team A": "LENS",
-        "Team B": "LYON",
-        "Venue": "FRANCE",
-        "Status": "TBC"
-      }
-    },
-    {
       "competition": "SERIE A",
       "icon": "⚽",
       "status": "CONFIRMED",
@@ -308,21 +293,6 @@
         "Team B": "MILAN",
         "Venue": "ITALY",
         "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "LIGUE 1",
-      "icon": "⚽",
-      "status": "TBC",
-      "fields": {
-        "Competition": "LIGUE 1",
-        "Round / Stage": "6",
-        "Date": "11/10/2026",
-        "KO": "20:45",
-        "Team A": "TROYES",
-        "Team B": "MARSEILLE",
-        "Venue": "FRANCE",
-        "Status": "TBC"
       }
     },
     {
@@ -472,6 +442,36 @@
         "Team A": "NEC NIJMEGEN",
         "Team B": "LEVSKI SOFIA",
         "Venue": "NEC NIJMEGEN",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "UEFA EUROPA LEAGUE",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "UEFA EUROPA LEAGUE",
+        "Round / Stage": "GROUP STAGE",
+        "Date": "15/10/2026",
+        "KO": "21:00",
+        "Team A": "GNK DINAMO",
+        "Team B": "ANDERLECHT",
+        "Venue": "CROATIA",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "7",
+        "Date": "16/10/2026",
+        "KO": "20:45",
+        "Team A": "FROSINONE",
+        "Team B": "SASSUOLO",
+        "Venue": "ITALY",
         "Status": "CONFIRMED"
       }
     }
