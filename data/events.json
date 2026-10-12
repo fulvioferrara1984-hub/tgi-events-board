@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T15:10:24+02:00",
+  "generated_at": "2026-10-12T10:42:26+02:00",
   "columns": {
     "past": [
       "Competition",
@@ -30,141 +30,6 @@
       "fields": {
         "Competition": "UEFA NATIONS LEAGUE",
         "Round / Stage": "GROUP STAGE",
-        "Date": "03/10/2026",
-        "KO": "18:00",
-        "Team A": "CROATIA",
-        "Team B": "ENGLAND",
-        "Venue": "CROATIA ",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "UEFA NATIONS LEAGUE",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "UEFA NATIONS LEAGUE",
-        "Round / Stage": "GROUP STAGE",
-        "Date": "03/10/2026",
-        "KO": "20:45",
-        "Team A": "SPAIN",
-        "Team B": "CZECHIA",
-        "Venue": "SPAIN",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "UEFA NATIONS LEAGUE",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "UEFA NATIONS LEAGUE",
-        "Round / Stage": "GROUP STAGE",
-        "Date": "03/10/2026",
-        "KO": "21:00",
-        "Team A": "IVORY COAST",
-        "Team B": "CAMEROUN",
-        "Venue": "IVORY COAST",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "UEFA NATIONS LEAGUE",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "UEFA NATIONS LEAGUE",
-        "Round / Stage": "GROUP STAGE",
-        "Date": "04/10/2026",
-        "KO": "18:00",
-        "Team A": "KOSOVO",
-        "Team B": "AUSTRIA",
-        "Venue": "KOSOVO",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "UEFA NATIONS LEAGUE",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "UEFA NATIONS LEAGUE",
-        "Round / Stage": "GROUP STAGE",
-        "Date": "04/10/2026",
-        "KO": "20:45",
-        "Team A": "GREECE",
-        "Team B": "GERMANY",
-        "Venue": "GREECE",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "UEFA NATIONS LEAGUE",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "UEFA NATIONS LEAGUE",
-        "Round / Stage": "GROUP STAGE",
-        "Date": "04/10/2026",
-        "KO": "20:45",
-        "Team A": "PORTUGAL",
-        "Team B": "NORWAY",
-        "Venue": "PORTUGAL",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "UEFA NATIONS LEAGUE",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "UEFA NATIONS LEAGUE",
-        "Round / Stage": "GROUP STAGE",
-        "Date": "04/10/2026",
-        "KO": "20:45",
-        "Team A": "WALES",
-        "Team B": "DENMARK",
-        "Venue": "WALES",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "UEFA NATIONS LEAGUE",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "UEFA NATIONS LEAGUE",
-        "Round / Stage": "GROUP STAGE",
-        "Date": "05/10/2026",
-        "KO": "20:45",
-        "Team A": "ROMANIA",
-        "Team B": "SWEDEN",
-        "Venue": "ROMANIA",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "UEFA NATIONS LEAGUE",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "UEFA NATIONS LEAGUE",
-        "Round / Stage": "GROUP STAGE",
-        "Date": "06/10/2026",
-        "KO": "20:45",
-        "Team A": "CROATIA",
-        "Team B": "SPAIN",
-        "Venue": "CROATIA ",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "UEFA NATIONS LEAGUE",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "UEFA NATIONS LEAGUE",
-        "Round / Stage": "GROUP STAGE",
         "Date": "06/10/2026",
         "KO": "20:45",
         "Team A": "ENGLAND",
@@ -172,9 +37,7 @@
         "Venue": "ENGLAND",
         "Status": "CONFIRMED"
       }
-    }
-  ],
-  "future_events": [
+    },
     {
       "competition": "EUROPEAN QUALIFIERS W",
       "icon": "⚽",
@@ -309,7 +172,9 @@
         "Venue": "ITALY",
         "Status": "CONFIRMED"
       }
-    },
+    }
+  ],
+  "future_events": [
     {
       "competition": "SERIE A",
       "icon": "⚽",
@@ -471,6 +336,141 @@
         "KO": "20:45",
         "Team A": "FROSINONE",
         "Team B": "SASSUOLO",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "7",
+        "Date": "17/10/2026",
+        "KO": "15:00",
+        "Team A": "VENEZIA",
+        "Team B": "NAPOLI",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "LIGUE 1",
+      "icon": "⚽",
+      "status": "TBC",
+      "fields": {
+        "Competition": "LIGUE 1",
+        "Round / Stage": "7",
+        "Date": "17/10/2026",
+        "KO": "17:15",
+        "Team A": "STRASBOURG",
+        "Team B": "PSG",
+        "Venue": "FRANCE",
+        "Status": "TBC"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "7",
+        "Date": "17/10/2026",
+        "KO": "18:00",
+        "Team A": "BOLOGNA",
+        "Team B": "INTER",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "7",
+        "Date": "17/10/2026",
+        "KO": "20:45",
+        "Team A": "ROMA",
+        "Team B": "GENOA",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "7",
+        "Date": "18/10/2026",
+        "KO": "12:30",
+        "Team A": "UDINESE",
+        "Team B": "LECCE",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "LIGUE 1",
+      "icon": "⚽",
+      "status": "TBC",
+      "fields": {
+        "Competition": "LIGUE 1",
+        "Round / Stage": "7",
+        "Date": "18/10/2026",
+        "KO": "15:00",
+        "Team A": "ANGERS",
+        "Team B": "MARSEILLE",
+        "Venue": "FRANCE",
+        "Status": "TBC"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "7",
+        "Date": "18/10/2026",
+        "KO": "15:00",
+        "Team A": "FIORENTINA",
+        "Team B": "COMO",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "LIGUE 1",
+      "icon": "⚽",
+      "status": "TBC",
+      "fields": {
+        "Competition": "LIGUE 1",
+        "Round / Stage": "7",
+        "Date": "18/10/2026",
+        "KO": "17:15",
+        "Team A": "LORIENT",
+        "Team B": "AS MONACO",
+        "Venue": "FRANCE",
+        "Status": "TBC"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "7",
+        "Date": "18/10/2026",
+        "KO": "18:00",
+        "Team A": "MILAN",
+        "Team B": "ATALANTA",
         "Venue": "ITALY",
         "Status": "CONFIRMED"
       }
