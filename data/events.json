@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T14:36:58+02:00",
+  "generated_at": "2026-10-13T16:08:23+02:00",
   "columns": {
     "past": [
       "Competition",
@@ -23,21 +23,6 @@
     ]
   },
   "past_events": [
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "6",
-        "Date": "10/10/2026",
-        "KO": "20:45",
-        "Team A": "NAPOLI",
-        "Team B": "FROSINONE",
-        "Venue": "ITALY",
-        "Status": "CONFIRMED"
-      }
-    },
     {
       "competition": "SERIE A",
       "icon": "⚽",
@@ -172,9 +157,7 @@
         "Venue": "FEYENOORD",
         "Status": "CONFIRMED"
       }
-    }
-  ],
-  "future_events": [
+    },
     {
       "competition": "UEFA CHAMPIONS LEAGUE",
       "icon": "⚽",
@@ -189,7 +172,9 @@
         "Venue": "REAL BETIS BALOMPIÉ",
         "Status": "CONFIRMED"
       }
-    },
+    }
+  ],
+  "future_events": [
     {
       "competition": "UEFA EUROPA LEAGUE",
       "icon": "⚽",
@@ -472,6 +457,21 @@
         "Team A": "FENERBAHÇE SK",
         "Team B": "SK SLAVIA PRAHA",
         "Venue": "FENERBAHÇE SK",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "UEFA CHAMPIONS LEAGUE",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "UEFA CHAMPIONS LEAGUE",
+        "Round / Stage": "GROUP STAGE",
+        "Date": "20/10/2026",
+        "KO": "12:00",
+        "Team A": "SABAH FUTBOL KLUBU",
+        "Team B": "BORUSSIA DORTMUND",
+        "Venue": "SABAH FUTBOL KLUBU",
         "Status": "CONFIRMED"
       }
     }
