@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T17:21:22+02:00",
+  "generated_at": "2026-10-13T10:06:12+02:00",
   "columns": {
     "past": [
       "Competition",
@@ -23,51 +23,6 @@
     ]
   },
   "past_events": [
-    {
-      "competition": "UEFA NATIONS LEAGUE",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "UEFA NATIONS LEAGUE",
-        "Round / Stage": "GROUP STAGE",
-        "Date": "06/10/2026",
-        "KO": "20:45",
-        "Team A": "ENGLAND",
-        "Team B": "CZECHIA",
-        "Venue": "ENGLAND",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "EUROPEAN QUALIFIERS W",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "EUROPEAN QUALIFIERS W",
-        "Round / Stage": "GROUP STAGE",
-        "Date": "09/10/2026",
-        "KO": "20:00",
-        "Team A": "HUNGARY (W)",
-        "Team B": "NETHERLANDS (W)",
-        "Venue": "HUNGARY",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "6",
-        "Date": "10/10/2026",
-        "KO": "15:00",
-        "Team A": "GENOA",
-        "Team B": "FIORENTINA",
-        "Venue": "ITALY",
-        "Status": "CONFIRMED"
-      }
-    },
     {
       "competition": "SERIE A",
       "icon": "⚽",
@@ -172,9 +127,7 @@
         "Venue": "ITALY",
         "Status": "CONFIRMED"
       }
-    }
-  ],
-  "future_events": [
+    },
     {
       "competition": "SERIE A",
       "icon": "⚽",
@@ -219,7 +172,9 @@
         "Venue": "ITALY",
         "Status": "CONFIRMED"
       }
-    },
+    }
+  ],
+  "future_events": [
     {
       "competition": "UEFA CHAMPIONS LEAGUE",
       "icon": "⚽",
@@ -471,6 +426,51 @@
         "KO": "18:00",
         "Team A": "MILAN",
         "Team B": "ATALANTA",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "7",
+        "Date": "18/10/2026",
+        "KO": "18:30",
+        "Team A": "MONZA",
+        "Team B": "CAGLIARI",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "7",
+        "Date": "18/10/2026",
+        "KO": "20:45",
+        "Team A": "JUVENTUS",
+        "Team B": "LAZIO",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "7",
+        "Date": "19/10/2026",
+        "KO": "20:45",
+        "Team A": "PARMA",
+        "Team B": "TORINO",
         "Venue": "ITALY",
         "Status": "CONFIRMED"
       }
