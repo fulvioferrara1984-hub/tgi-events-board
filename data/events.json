@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T11:56:10+02:00",
+  "generated_at": "2026-10-13T13:28:05+02:00",
   "columns": {
     "past": [
       "Competition",
@@ -23,21 +23,6 @@
     ]
   },
   "past_events": [
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "6",
-        "Date": "10/10/2026",
-        "KO": "18:00",
-        "Team A": "INTER",
-        "Team B": "PARMA",
-        "Venue": "ITALY",
-        "Status": "CONFIRMED"
-      }
-    },
     {
       "competition": "SERIE A",
       "icon": "⚽",
@@ -172,9 +157,7 @@
         "Venue": "ITALY",
         "Status": "CONFIRMED"
       }
-    }
-  ],
-  "future_events": [
+    },
     {
       "competition": "UEFA CHAMPIONS LEAGUE",
       "icon": "⚽",
@@ -189,7 +172,9 @@
         "Venue": "FEYENOORD",
         "Status": "CONFIRMED"
       }
-    },
+    }
+  ],
+  "future_events": [
     {
       "competition": "UEFA CHAMPIONS LEAGUE",
       "icon": "⚽",
@@ -472,6 +457,21 @@
         "Team A": "PARMA",
         "Team B": "TORINO",
         "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "UEFA CHAMPIONS LEAGUE",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "UEFA CHAMPIONS LEAGUE",
+        "Round / Stage": "GROUP STAGE",
+        "Date": "20/10/2026",
+        "KO": "12:00",
+        "Team A": "FENERBAHÇE SK",
+        "Team B": "SK SLAVIA PRAHA",
+        "Venue": "FENERBAHÇE SK",
         "Status": "CONFIRMED"
       }
     }
