@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T11:43:48+02:00",
+  "generated_at": "2026-10-14T11:45:07+02:00",
   "columns": {
     "past": [
       "Competition",
@@ -408,9 +408,9 @@
         "Competition": "SERIE A",
         "Round / Stage": "7",
         "Date": "18/10/2026",
-        "KO": "18:30",
-        "Team A": "MONZA",
-        "Team B": "CAGLIARI",
+        "KO": "20:45",
+        "Team A": "JUVENTUS",
+        "Team B": "LAZIO",
         "Venue": "ITALY",
         "Status": "CONFIRMED"
       }
@@ -422,10 +422,10 @@
       "fields": {
         "Competition": "SERIE A",
         "Round / Stage": "7",
-        "Date": "18/10/2026",
-        "KO": "20:45",
-        "Team A": "JUVENTUS",
-        "Team B": "LAZIO",
+        "Date": "19/10/2026",
+        "KO": "18:30",
+        "Team A": "MONZA",
+        "Team B": "CAGLIARI",
         "Venue": "ITALY",
         "Status": "CONFIRMED"
       }
