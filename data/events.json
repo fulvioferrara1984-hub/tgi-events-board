@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T16:14:05+02:00",
+  "generated_at": "2026-10-14T22:59:49+02:00",
   "columns": {
     "past": [
       "Competition",
@@ -23,51 +23,6 @@
     ]
   },
   "past_events": [
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "6",
-        "Date": "11/10/2026",
-        "KO": "12:30",
-        "Team A": "COMO",
-        "Team B": "ROMA",
-        "Venue": "ITALY",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "6",
-        "Date": "11/10/2026",
-        "KO": "15:00",
-        "Team A": "LAZIO",
-        "Team B": "MONZA",
-        "Venue": "ITALY",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "6",
-        "Date": "11/10/2026",
-        "KO": "15:00",
-        "Team A": "LECCE",
-        "Team B": "BOLOGNA",
-        "Venue": "ITALY",
-        "Status": "CONFIRMED"
-      }
-    },
     {
       "competition": "SERIE A",
       "icon": "⚽",
@@ -172,9 +127,7 @@
         "Venue": "REAL BETIS BALOMPIÉ",
         "Status": "CONFIRMED"
       }
-    }
-  ],
-  "future_events": [
+    },
     {
       "competition": "UEFA EUROPA LEAGUE",
       "icon": "⚽",
@@ -219,7 +172,9 @@
         "Venue": "REAL BETIS BALOMPIÉ",
         "Status": "CONFIRMED"
       }
-    },
+    }
+  ],
+  "future_events": [
     {
       "competition": "UEFA EUROPA LEAGUE",
       "icon": "⚽",
@@ -472,6 +427,51 @@
         "Team A": "SABAH FUTBOL KLUBU",
         "Team B": "BORUSSIA DORTMUND",
         "Venue": "SABAH FUTBOL KLUBU",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "UEFA CHAMPIONS LEAGUE",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "UEFA CHAMPIONS LEAGUE",
+        "Round / Stage": "GROUP STAGE",
+        "Date": "20/10/2026",
+        "KO": "12:00",
+        "Team A": "REAL BETIS BALOMPIÉ",
+        "Team B": "FEYENOORD",
+        "Venue": "REAL BETIS BALOMPIÉ",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "UEFA CONFERENCE LEAGUE",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "UEFA CONFERENCE LEAGUE",
+        "Round / Stage": "GROUP STAGE",
+        "Date": "21/10/2026",
+        "KO": "12:00",
+        "Team A": "INTER CLUB D'ESCALDES",
+        "Team B": "UNIVERSITATEA CRAIOVA",
+        "Venue": "INTER CLUB D'ESCALDES",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "UEFA CHAMPIONS LEAGUE",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "UEFA CHAMPIONS LEAGUE",
+        "Round / Stage": "GROUP STAGE",
+        "Date": "21/10/2026",
+        "KO": "21:00",
+        "Team A": "REAL BETIS BALOMPIÉ",
+        "Team B": "FEYENOORD",
+        "Venue": "REAL BETIS BALOMPIÉ",
         "Status": "CONFIRMED"
       }
     }
