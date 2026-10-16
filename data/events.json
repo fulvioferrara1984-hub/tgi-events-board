@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T19:55:26+02:00",
+  "generated_at": "2026-10-16T14:06:26+02:00",
   "columns": {
     "past": [
       "Competition",
@@ -23,36 +23,6 @@
     ]
   },
   "past_events": [
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "6",
-        "Date": "11/10/2026",
-        "KO": "18:00",
-        "Team A": "SASSUOLO",
-        "Team B": "MILAN",
-        "Venue": "ITALY",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "6",
-        "Date": "11/10/2026",
-        "KO": "20:45",
-        "Team A": "CAGLIARI",
-        "Team B": "JUVENTUS",
-        "Venue": "ITALY",
-        "Status": "CONFIRMED"
-      }
-    },
     {
       "competition": "SERIE A",
       "icon": "⚽",
@@ -172,9 +142,7 @@
         "Venue": "REAL BETIS BALOMPIÉ",
         "Status": "CONFIRMED"
       }
-    }
-  ],
-  "future_events": [
+    },
     {
       "competition": "UEFA EUROPA LEAGUE",
       "icon": "⚽",
@@ -204,7 +172,9 @@
         "Venue": "CROATIA",
         "Status": "CONFIRMED"
       }
-    },
+    }
+  ],
+  "future_events": [
     {
       "competition": "SERIE A",
       "icon": "⚽",
@@ -472,6 +442,36 @@
         "Team A": "AS MONACO FC",
         "Team B": "SC FREIBURG",
         "Venue": "AS MONACO FC",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "UEFA CONFERENCE LEAGUE",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "UEFA CONFERENCE LEAGUE",
+        "Round / Stage": "GROUP STAGE",
+        "Date": "22/10/2026",
+        "KO": "12:00",
+        "Team A": "FK CRVENA ZVEZDA",
+        "Team B": "FC COPENHAGEN",
+        "Venue": "FK CRVENA ZVEZDA",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "UEFA CONFERENCE LEAGUE",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "UEFA CONFERENCE LEAGUE",
+        "Round / Stage": "GROUP STAGE",
+        "Date": "22/10/2026",
+        "KO": "18:45",
+        "Team A": "INTER CLUB D'ESCALDES",
+        "Team B": "UNIVERSITATEA CRAIOVA",
+        "Venue": "INTER CLUB D'ESCALDES",
         "Status": "CONFIRMED"
       }
     }
