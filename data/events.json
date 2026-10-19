@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T18:28:26+02:00",
+  "generated_at": "2026-10-19T09:22:57+02:00",
   "columns": {
     "past": [
       "Competition",
@@ -24,141 +24,6 @@
   },
   "past_events": [
     {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "6",
-        "Date": "12/10/2026",
-        "KO": "18:30",
-        "Team A": "ATALANTA",
-        "Team B": "VENEZIA",
-        "Venue": "ITALY",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "6",
-        "Date": "12/10/2026",
-        "KO": "20:45",
-        "Team A": "TORINO",
-        "Team B": "UDINESE",
-        "Venue": "ITALY",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "6",
-        "Date": "12/10/2026",
-        "KO": "20:45",
-        "Team A": "TORINO",
-        "Team B": "UDINESE",
-        "Venue": "ITALY",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "UEFA CHAMPIONS LEAGUE",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "UEFA CHAMPIONS LEAGUE",
-        "Round / Stage": "GROUP STAGE",
-        "Date": "13/10/2026",
-        "KO": "12:30",
-        "Team A": "FEYENOORD",
-        "Team B": "COMO 1907",
-        "Venue": "FEYENOORD",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "UEFA CHAMPIONS LEAGUE",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "UEFA CHAMPIONS LEAGUE",
-        "Round / Stage": "GROUP STAGE",
-        "Date": "13/10/2026",
-        "KO": "16:00",
-        "Team A": "REAL BETIS BALOMPIÉ",
-        "Team B": "FC PORTO",
-        "Venue": "REAL BETIS BALOMPIÉ",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "UEFA EUROPA LEAGUE",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "UEFA EUROPA LEAGUE",
-        "Round / Stage": "GROUP STAGE",
-        "Date": "14/10/2026",
-        "KO": "18:00",
-        "Team A": "NEC NIJMEGEN",
-        "Team B": "LEVSKI SOFIA",
-        "Venue": "NEC NIJMEGEN",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "UEFA CHAMPIONS LEAGUE",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "UEFA CHAMPIONS LEAGUE",
-        "Round / Stage": "GROUP STAGE",
-        "Date": "14/10/2026",
-        "KO": "18:45",
-        "Team A": "FEYENOORD",
-        "Team B": "COMO 1907",
-        "Venue": "FEYENOORD",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "UEFA CHAMPIONS LEAGUE",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "UEFA CHAMPIONS LEAGUE",
-        "Round / Stage": "GROUP STAGE",
-        "Date": "14/10/2026",
-        "KO": "21:00",
-        "Team A": "REAL BETIS BALOMPIÉ",
-        "Team B": "FC PORTO",
-        "Venue": "REAL BETIS BALOMPIÉ",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "UEFA EUROPA LEAGUE",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "UEFA EUROPA LEAGUE",
-        "Round / Stage": "GROUP STAGE",
-        "Date": "15/10/2026",
-        "KO": "21:00",
-        "Team A": "NEC NIJMEGEN",
-        "Team B": "LEVSKI SOFIA",
-        "Venue": "NEC NIJMEGEN",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
       "competition": "UEFA EUROPA LEAGUE",
       "icon": "⚽",
       "status": "CONFIRMED",
@@ -172,9 +37,7 @@
         "Venue": "CROATIA",
         "Status": "CONFIRMED"
       }
-    }
-  ],
-  "future_events": [
+    },
     {
       "competition": "SERIE A",
       "icon": "⚽",
@@ -309,7 +172,9 @@
         "Venue": "ITALY",
         "Status": "CONFIRMED"
       }
-    },
+    }
+  ],
+  "future_events": [
     {
       "competition": "SERIE A",
       "icon": "⚽",
@@ -472,6 +337,141 @@
         "Team A": "INTER CLUB D'ESCALDES",
         "Team B": "UNIVERSITATEA CRAIOVA",
         "Venue": "INTER CLUB D'ESCALDES",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "8",
+        "Date": "23/10/2026",
+        "KO": "20:45",
+        "Team A": "TORINO",
+        "Team B": "MONZA",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "AUSTRALIAN FOOTBALL LEAGUE MEN",
+      "icon": "🏉",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "AUSTRALIAN FOOTBALL LEAGUE MEN",
+        "Round / Stage": "POC",
+        "Date": "24/10/2026",
+        "KO": "06:05",
+        "Team A": "GEELONG CATS",
+        "Team B": "FREMANTLE",
+        "Venue": "AUSTRALIA",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "8",
+        "Date": "24/10/2026",
+        "KO": "15:00",
+        "Team A": "CAGLIARI",
+        "Team B": "BOLOGNA",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "8",
+        "Date": "24/10/2026",
+        "KO": "15:00",
+        "Team A": "COMO",
+        "Team B": "SASSUOLO",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "8",
+        "Date": "24/10/2026",
+        "KO": "18:00",
+        "Team A": "NAPOLI",
+        "Team B": "ROMA",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "8",
+        "Date": "24/10/2026",
+        "KO": "20:45",
+        "Team A": "LAZIO",
+        "Team B": "PARMA",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "AUSTRALIAN FOOTBALL LEAGUE WOMEN",
+      "icon": "🏉",
+      "status": "TBC",
+      "fields": {
+        "Competition": "AUSTRALIAN FOOTBALL LEAGUE WOMEN",
+        "Round / Stage": "POC",
+        "Date": "25/10/2026",
+        "KO": "07:05",
+        "Team A": "CARLTON",
+        "Team B": "GWS GIANTS",
+        "Venue": "AUSTRALIA",
+        "Status": "TBC"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "8",
+        "Date": "25/10/2026",
+        "KO": "12:30",
+        "Team A": "INTER",
+        "Team B": "FIORENTINA",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "8",
+        "Date": "25/10/2026",
+        "KO": "15:00",
+        "Team A": "ATALANTA",
+        "Team B": "FROSINONE",
+        "Venue": "ITALY",
         "Status": "CONFIRMED"
       }
     }
