@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T21:23:50+02:00",
+  "generated_at": "2026-10-20T12:28:21+02:00",
   "columns": {
     "past": [
       "Competition",
@@ -23,36 +23,6 @@
     ]
   },
   "past_events": [
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "7",
-        "Date": "17/10/2026",
-        "KO": "15:00",
-        "Team A": "VENEZIA",
-        "Team B": "NAPOLI",
-        "Venue": "ITALY",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "LIGUE 1",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "LIGUE 1",
-        "Round / Stage": "7",
-        "Date": "17/10/2026",
-        "KO": "17:15",
-        "Team A": "STRASBOURG",
-        "Team B": "PSG",
-        "Venue": "FRANCE",
-        "Status": "CONFIRMED"
-      }
-    },
     {
       "competition": "SERIE A",
       "icon": "⚽",
@@ -172,9 +142,7 @@
         "Venue": "ITALY",
         "Status": "CONFIRMED"
       }
-    }
-  ],
-  "future_events": [
+    },
     {
       "competition": "UEFA CHAMPIONS LEAGUE",
       "icon": "⚽",
@@ -204,7 +172,9 @@
         "Venue": "SABAH FUTBOL KLUBU",
         "Status": "CONFIRMED"
       }
-    },
+    }
+  ],
+  "future_events": [
     {
       "competition": "UEFA CHAMPIONS LEAGUE",
       "icon": "⚽",
@@ -471,6 +441,36 @@
         "KO": "18:00",
         "Team A": "LECCE",
         "Team B": "JUVENTUS",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "8",
+        "Date": "25/10/2026",
+        "KO": "20:45",
+        "Team A": "UDINESE",
+        "Team B": "MILAN",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "9",
+        "Date": "27/10/2026",
+        "KO": "18:30",
+        "Team A": "SASSUOLO",
+        "Team B": "LAZIO",
         "Venue": "ITALY",
         "Status": "CONFIRMED"
       }
