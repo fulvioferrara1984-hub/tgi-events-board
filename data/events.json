@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T15:26:33+02:00",
+  "generated_at": "2026-10-20T15:28:57+02:00",
   "columns": {
     "past": [
       "Competition",
@@ -23,21 +23,6 @@
     ]
   },
   "past_events": [
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "7",
-        "Date": "17/10/2026",
-        "KO": "18:00",
-        "Team A": "BOLOGNA",
-        "Team B": "INTER",
-        "Venue": "ITALY",
-        "Status": "CONFIRMED"
-      }
-    },
     {
       "competition": "SERIE A",
       "icon": "⚽",
@@ -172,9 +157,7 @@
         "Venue": "SABAH FUTBOL KLUBU",
         "Status": "CONFIRMED"
       }
-    }
-  ],
-  "future_events": [
+    },
     {
       "competition": "UEFA CHAMPIONS LEAGUE",
       "icon": "⚽",
@@ -183,13 +166,15 @@
         "Competition": "UEFA CHAMPIONS LEAGUE",
         "Round / Stage": "GROUP STAGE",
         "Date": "20/10/2026",
-        "KO": "16:00",
+        "KO": "12:00",
         "Team A": "REAL BETIS BALOMPIÉ",
         "Team B": "FEYENOORD",
         "Venue": "REAL BETIS BALOMPIÉ",
         "Status": "CONFIRMED"
       }
-    },
+    }
+  ],
+  "future_events": [
     {
       "competition": "UEFA CONFERENCE LEAGUE",
       "icon": "⚽",
@@ -198,7 +183,7 @@
         "Competition": "UEFA CONFERENCE LEAGUE",
         "Round / Stage": "GROUP STAGE",
         "Date": "21/10/2026",
-        "KO": "17:00",
+        "KO": "12:00",
         "Team A": "INTER CLUB D'ESCALDES",
         "Team B": "UNIVERSITATEA CRAIOVA",
         "Venue": "INTER CLUB D'ESCALDES",
@@ -471,6 +456,21 @@
         "KO": "18:30",
         "Team A": "SASSUOLO",
         "Team B": "LAZIO",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "9",
+        "Date": "27/10/2026",
+        "KO": "20:45",
+        "Team A": "ROMA",
+        "Team B": "CAGLIARI",
         "Venue": "ITALY",
         "Status": "CONFIRMED"
       }
