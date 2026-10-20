@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T18:24:13+02:00",
+  "generated_at": "2026-10-20T18:33:05+02:00",
   "columns": {
     "past": [
       "Competition",
@@ -358,7 +358,7 @@
     {
       "competition": "AUSTRALIAN FOOTBALL LEAGUE WOMEN",
       "icon": "🏉",
-      "status": "TBC",
+      "status": "CONFIRMED",
       "fields": {
         "Competition": "AUSTRALIAN FOOTBALL LEAGUE WOMEN",
         "Round / Stage": "POC",
@@ -367,7 +367,7 @@
         "Team A": "CARLTON",
         "Team B": "GWS GIANTS",
         "Venue": "AUSTRALIA",
-        "Status": "TBC"
+        "Status": "CONFIRMED"
       }
     },
     {
