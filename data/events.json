@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T11:24:11+02:00",
+  "generated_at": "2026-10-21T11:25:20+02:00",
   "columns": {
     "past": [
       "Competition",
@@ -26,7 +26,7 @@
     {
       "competition": "SERIE A",
       "icon": "⚽",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "SERIE A",
         "Round / Stage": "7",
@@ -35,13 +35,13 @@
         "Team A": "ROMA",
         "Team B": "GENOA",
         "Venue": "ITALY",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
     },
     {
       "competition": "SERIE A",
       "icon": "⚽",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "SERIE A",
         "Round / Stage": "7",
@@ -50,13 +50,13 @@
         "Team A": "UDINESE",
         "Team B": "LECCE",
         "Venue": "ITALY",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
     },
     {
       "competition": "SERIE A",
       "icon": "⚽",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "SERIE A",
         "Round / Stage": "7",
@@ -65,13 +65,13 @@
         "Team A": "FIORENTINA",
         "Team B": "COMO",
         "Venue": "ITALY",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
     },
     {
       "competition": "SERIE A",
       "icon": "⚽",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "SERIE A",
         "Round / Stage": "7",
@@ -80,13 +80,13 @@
         "Team A": "MILAN",
         "Team B": "ATALANTA",
         "Venue": "ITALY",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
     },
     {
       "competition": "SERIE A",
       "icon": "⚽",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "SERIE A",
         "Round / Stage": "7",
@@ -95,13 +95,13 @@
         "Team A": "JUVENTUS",
         "Team B": "LAZIO",
         "Venue": "ITALY",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
     },
     {
       "competition": "SERIE A",
       "icon": "⚽",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "SERIE A",
         "Round / Stage": "7",
@@ -110,13 +110,13 @@
         "Team A": "MONZA",
         "Team B": "CAGLIARI",
         "Venue": "ITALY",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
     },
     {
       "competition": "SERIE A",
       "icon": "⚽",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "SERIE A",
         "Round / Stage": "7",
@@ -125,13 +125,13 @@
         "Team A": "PARMA",
         "Team B": "TORINO",
         "Venue": "ITALY",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
     },
     {
       "competition": "UEFA CHAMPIONS LEAGUE",
       "icon": "⚽",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "UEFA CHAMPIONS LEAGUE",
         "Round / Stage": "GROUP STAGE",
@@ -140,13 +140,13 @@
         "Team A": "FENERBAHÇE SK",
         "Team B": "SK SLAVIA PRAHA",
         "Venue": "FENERBAHÇE SK",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
     },
     {
       "competition": "UEFA CHAMPIONS LEAGUE",
       "icon": "⚽",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "UEFA CHAMPIONS LEAGUE",
         "Round / Stage": "GROUP STAGE",
@@ -155,13 +155,13 @@
         "Team A": "SABAH FUTBOL KLUBU",
         "Team B": "BORUSSIA DORTMUND",
         "Venue": "SABAH FUTBOL KLUBU",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
     },
     {
       "competition": "UEFA CHAMPIONS LEAGUE",
       "icon": "⚽",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "UEFA CHAMPIONS LEAGUE",
         "Round / Stage": "GROUP STAGE",
@@ -170,7 +170,7 @@
         "Team A": "REAL BETIS BALOMPIÉ",
         "Team B": "FEYENOORD",
         "Venue": "REAL BETIS BALOMPIÉ",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
     }
   ],
