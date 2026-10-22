@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T23:03:07+02:00",
+  "generated_at": "2026-10-22T08:31:15+02:00",
   "columns": {
     "past": [
       "Competition",
@@ -146,7 +146,7 @@
     {
       "competition": "UEFA CONFERENCE LEAGUE",
       "icon": "⚽",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "UEFA CONFERENCE LEAGUE",
         "Round / Stage": "GROUP STAGE",
@@ -155,13 +155,13 @@
         "Team A": "INTER CLUB D'ESCALDES",
         "Team B": "UNIVERSITATEA CRAIOVA",
         "Venue": "INTER CLUB D'ESCALDES",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
     },
     {
       "competition": "UEFA CHAMPIONS LEAGUE",
       "icon": "⚽",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "UEFA CHAMPIONS LEAGUE",
         "Round / Stage": "GROUP STAGE",
@@ -170,7 +170,7 @@
         "Team A": "REAL BETIS BALOMPIÉ",
         "Team B": "FEYENOORD",
         "Venue": "REAL BETIS BALOMPIÉ",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
     }
   ],
