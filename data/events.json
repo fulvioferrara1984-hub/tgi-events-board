@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T20:37:54+02:00",
+  "generated_at": "2026-10-23T10:54:15+02:00",
   "columns": {
     "past": [
       "Competition",
@@ -116,7 +116,7 @@
     {
       "competition": "UEFA EUROPA LEAGUE",
       "icon": "⚽",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "UEFA EUROPA LEAGUE",
         "Round / Stage": "GROUP STAGE",
@@ -125,13 +125,13 @@
         "Team A": "AC OMONIA",
         "Team B": "SL BENFICA",
         "Venue": "AC OMONIA",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
     },
     {
       "competition": "UEFA CONFERENCE LEAGUE",
       "icon": "⚽",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "UEFA CONFERENCE LEAGUE",
         "Round / Stage": "GROUP STAGE",
@@ -140,13 +140,13 @@
         "Team A": "AS MONACO FC",
         "Team B": "SC FREIBURG",
         "Venue": "AS MONACO FC",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
     },
     {
       "competition": "UEFA CONFERENCE LEAGUE",
       "icon": "⚽",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "UEFA CONFERENCE LEAGUE",
         "Round / Stage": "GROUP STAGE",
@@ -155,13 +155,13 @@
         "Team A": "FK CRVENA ZVEZDA",
         "Team B": "FC COPENHAGEN",
         "Venue": "FK CRVENA ZVEZDA",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
     },
     {
       "competition": "UEFA CONFERENCE LEAGUE",
       "icon": "⚽",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "UEFA CONFERENCE LEAGUE",
         "Round / Stage": "GROUP STAGE",
@@ -170,7 +170,7 @@
         "Team A": "INTER CLUB D'ESCALDES",
         "Team B": "UNIVERSITATEA CRAIOVA",
         "Venue": "INTER CLUB D'ESCALDES",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
     }
   ],
