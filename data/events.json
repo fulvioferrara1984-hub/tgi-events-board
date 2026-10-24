@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T10:54:15+02:00",
+  "generated_at": "2026-10-24T13:03:16+02:00",
   "columns": {
     "past": [
       "Competition",
@@ -23,36 +23,6 @@
     ]
   },
   "past_events": [
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CARRIED OUT",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "7",
-        "Date": "19/10/2026",
-        "KO": "20:45",
-        "Team A": "PARMA",
-        "Team B": "TORINO",
-        "Venue": "ITALY",
-        "Status": "CARRIED OUT"
-      }
-    },
-    {
-      "competition": "UEFA CHAMPIONS LEAGUE",
-      "icon": "⚽",
-      "status": "CARRIED OUT",
-      "fields": {
-        "Competition": "UEFA CHAMPIONS LEAGUE",
-        "Round / Stage": "GROUP STAGE",
-        "Date": "20/10/2026",
-        "KO": "12:00",
-        "Team A": "FENERBAHÇE SK",
-        "Team B": "SK SLAVIA PRAHA",
-        "Venue": "FENERBAHÇE SK",
-        "Status": "CARRIED OUT"
-      }
-    },
     {
       "competition": "UEFA CHAMPIONS LEAGUE",
       "icon": "⚽",
@@ -172,13 +142,11 @@
         "Venue": "INTER CLUB D'ESCALDES",
         "Status": "CARRIED OUT"
       }
-    }
-  ],
-  "future_events": [
+    },
     {
       "competition": "SERIE A",
       "icon": "⚽",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "SERIE A",
         "Round / Stage": "8",
@@ -187,7 +155,7 @@
         "Team A": "TORINO",
         "Team B": "MONZA",
         "Venue": "ITALY",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
     },
     {
@@ -204,7 +172,9 @@
         "Venue": "AUSTRALIA",
         "Status": "CONFIRMED"
       }
-    },
+    }
+  ],
+  "future_events": [
     {
       "competition": "SERIE A",
       "icon": "⚽",
@@ -471,6 +441,36 @@
         "KO": "20:45",
         "Team A": "MONZA",
         "Team B": "NAPOLI",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "9",
+        "Date": "29/10/2026",
+        "KO": "18:30",
+        "Team A": "FROSINONE",
+        "Team B": "LECCE",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "9",
+        "Date": "29/10/2026",
+        "KO": "20:45",
+        "Team A": "FIORENTINA",
+        "Team B": "ATALANTA",
         "Venue": "ITALY",
         "Status": "CONFIRMED"
       }
