@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T13:03:16+02:00",
+  "generated_at": "2026-10-25T03:46:32+01:00",
   "columns": {
     "past": [
       "Competition",
@@ -23,66 +23,6 @@
     ]
   },
   "past_events": [
-    {
-      "competition": "UEFA CHAMPIONS LEAGUE",
-      "icon": "⚽",
-      "status": "CARRIED OUT",
-      "fields": {
-        "Competition": "UEFA CHAMPIONS LEAGUE",
-        "Round / Stage": "GROUP STAGE",
-        "Date": "20/10/2026",
-        "KO": "12:00",
-        "Team A": "SABAH FUTBOL KLUBU",
-        "Team B": "BORUSSIA DORTMUND",
-        "Venue": "SABAH FUTBOL KLUBU",
-        "Status": "CARRIED OUT"
-      }
-    },
-    {
-      "competition": "UEFA CHAMPIONS LEAGUE",
-      "icon": "⚽",
-      "status": "CARRIED OUT",
-      "fields": {
-        "Competition": "UEFA CHAMPIONS LEAGUE",
-        "Round / Stage": "GROUP STAGE",
-        "Date": "20/10/2026",
-        "KO": "16:00",
-        "Team A": "REAL BETIS BALOMPIÉ",
-        "Team B": "FEYENOORD",
-        "Venue": "REAL BETIS BALOMPIÉ",
-        "Status": "CARRIED OUT"
-      }
-    },
-    {
-      "competition": "UEFA CONFERENCE LEAGUE",
-      "icon": "⚽",
-      "status": "CARRIED OUT",
-      "fields": {
-        "Competition": "UEFA CONFERENCE LEAGUE",
-        "Round / Stage": "GROUP STAGE",
-        "Date": "21/10/2026",
-        "KO": "17:00",
-        "Team A": "INTER CLUB D'ESCALDES",
-        "Team B": "UNIVERSITATEA CRAIOVA",
-        "Venue": "INTER CLUB D'ESCALDES",
-        "Status": "CARRIED OUT"
-      }
-    },
-    {
-      "competition": "UEFA CHAMPIONS LEAGUE",
-      "icon": "⚽",
-      "status": "CARRIED OUT",
-      "fields": {
-        "Competition": "UEFA CHAMPIONS LEAGUE",
-        "Round / Stage": "GROUP STAGE",
-        "Date": "21/10/2026",
-        "KO": "21:00",
-        "Team A": "REAL BETIS BALOMPIÉ",
-        "Team B": "FEYENOORD",
-        "Venue": "REAL BETIS BALOMPIÉ",
-        "Status": "CARRIED OUT"
-      }
-    },
     {
       "competition": "UEFA EUROPA LEAGUE",
       "icon": "⚽",
@@ -161,7 +101,7 @@
     {
       "competition": "AUSTRALIAN FOOTBALL LEAGUE MEN",
       "icon": "🏉",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "AUSTRALIAN FOOTBALL LEAGUE MEN",
         "Round / Stage": "POC",
@@ -170,15 +110,13 @@
         "Team A": "GEELONG CATS",
         "Team B": "FREMANTLE",
         "Venue": "AUSTRALIA",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
-    }
-  ],
-  "future_events": [
+    },
     {
       "competition": "SERIE A",
       "icon": "⚽",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "SERIE A",
         "Round / Stage": "8",
@@ -187,13 +125,13 @@
         "Team A": "CAGLIARI",
         "Team B": "BOLOGNA",
         "Venue": "ITALY",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
     },
     {
       "competition": "SERIE A",
       "icon": "⚽",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "SERIE A",
         "Round / Stage": "8",
@@ -202,13 +140,13 @@
         "Team A": "COMO",
         "Team B": "SASSUOLO",
         "Venue": "ITALY",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
     },
     {
       "competition": "SERIE A",
       "icon": "⚽",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "SERIE A",
         "Round / Stage": "8",
@@ -217,13 +155,13 @@
         "Team A": "NAPOLI",
         "Team B": "ROMA",
         "Venue": "ITALY",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
     },
     {
       "competition": "SERIE A",
       "icon": "⚽",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "SERIE A",
         "Round / Stage": "8",
@@ -232,9 +170,11 @@
         "Team A": "LAZIO",
         "Team B": "PARMA",
         "Venue": "ITALY",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
-    },
+    }
+  ],
+  "future_events": [
     {
       "competition": "AUSTRALIAN FOOTBALL LEAGUE WOMEN",
       "icon": "🏉",
@@ -473,6 +413,66 @@
         "Team B": "ATALANTA",
         "Venue": "ITALY",
         "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "AUSTRALIAN FOOTBALL LEAGUE WOMEN",
+      "icon": "🏉",
+      "status": "TBC",
+      "fields": {
+        "Competition": "AUSTRALIAN FOOTBALL LEAGUE WOMEN",
+        "Round / Stage": "POC",
+        "Date": "30/10/2026",
+        "KO": "09:15",
+        "Team A": "GEELONG CATS",
+        "Team B": "WESTERN BULLDOGS",
+        "Venue": "AUSTRALIA",
+        "Status": "TBC"
+      }
+    },
+    {
+      "competition": "LIGUE 1",
+      "icon": "⚽",
+      "status": "TBC",
+      "fields": {
+        "Competition": "LIGUE 1",
+        "Round / Stage": "9",
+        "Date": "30/10/2026",
+        "KO": "19:00",
+        "Team A": "LE HAVRE",
+        "Team B": "PSG",
+        "Venue": "FRANCE",
+        "Status": "TBC"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "10",
+        "Date": "31/10/2026",
+        "KO": "15:00",
+        "Team A": "BOLOGNA",
+        "Team B": "MONZA",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "BOXING",
+      "icon": "🥊",
+      "status": "TBC",
+      "fields": {
+        "Competition": "BOXING",
+        "Round / Stage": "POC",
+        "Date": "31/10/2026",
+        "KO": "17:00",
+        "Team A": "CANELO",
+        "Team B": "MBILLI",
+        "Venue": "RIYADH",
+        "Status": "TBC"
       }
     }
   ]
