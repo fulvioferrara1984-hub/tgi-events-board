@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T08:16:59+01:00",
+  "generated_at": "2026-10-26T18:01:02+01:00",
   "columns": {
     "past": [
       "Competition",
@@ -86,7 +86,7 @@
     {
       "competition": "AUSTRALIAN FOOTBALL LEAGUE WOMEN",
       "icon": "🏉",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "AUSTRALIAN FOOTBALL LEAGUE WOMEN",
         "Round / Stage": "POC",
@@ -95,13 +95,13 @@
         "Team A": "CARLTON",
         "Team B": "GWS GIANTS",
         "Venue": "AUSTRALIA",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
     },
     {
       "competition": "SERIE A",
       "icon": "⚽",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "SERIE A",
         "Round / Stage": "8",
@@ -110,13 +110,13 @@
         "Team A": "INTER",
         "Team B": "FIORENTINA",
         "Venue": "ITALY",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
     },
     {
       "competition": "SERIE A",
       "icon": "⚽",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "SERIE A",
         "Round / Stage": "8",
@@ -125,13 +125,13 @@
         "Team A": "ATALANTA",
         "Team B": "FROSINONE",
         "Venue": "ITALY",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
     },
     {
       "competition": "SERIE A",
       "icon": "⚽",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "SERIE A",
         "Round / Stage": "8",
@@ -140,13 +140,13 @@
         "Team A": "GENOA",
         "Team B": "VENEZIA",
         "Venue": "ITALY",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
     },
     {
       "competition": "SERIE A",
       "icon": "⚽",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "SERIE A",
         "Round / Stage": "8",
@@ -155,13 +155,13 @@
         "Team A": "LECCE",
         "Team B": "JUVENTUS",
         "Venue": "ITALY",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
     },
     {
       "competition": "SERIE A",
       "icon": "⚽",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "SERIE A",
         "Round / Stage": "8",
@@ -170,7 +170,7 @@
         "Team A": "UDINESE",
         "Team B": "MILAN",
         "Venue": "ITALY",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
     }
   ],
