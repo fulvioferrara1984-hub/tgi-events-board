@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T03:46:32+01:00",
+  "generated_at": "2026-10-26T08:16:59+01:00",
   "columns": {
     "past": [
       "Competition",
@@ -23,96 +23,6 @@
     ]
   },
   "past_events": [
-    {
-      "competition": "UEFA EUROPA LEAGUE",
-      "icon": "⚽",
-      "status": "CARRIED OUT",
-      "fields": {
-        "Competition": "UEFA EUROPA LEAGUE",
-        "Round / Stage": "GROUP STAGE",
-        "Date": "22/10/2026",
-        "KO": "12:00",
-        "Team A": "AC OMONIA",
-        "Team B": "SL BENFICA",
-        "Venue": "AC OMONIA",
-        "Status": "CARRIED OUT"
-      }
-    },
-    {
-      "competition": "UEFA CONFERENCE LEAGUE",
-      "icon": "⚽",
-      "status": "CARRIED OUT",
-      "fields": {
-        "Competition": "UEFA CONFERENCE LEAGUE",
-        "Round / Stage": "GROUP STAGE",
-        "Date": "22/10/2026",
-        "KO": "12:00",
-        "Team A": "AS MONACO FC",
-        "Team B": "SC FREIBURG",
-        "Venue": "AS MONACO FC",
-        "Status": "CARRIED OUT"
-      }
-    },
-    {
-      "competition": "UEFA CONFERENCE LEAGUE",
-      "icon": "⚽",
-      "status": "CARRIED OUT",
-      "fields": {
-        "Competition": "UEFA CONFERENCE LEAGUE",
-        "Round / Stage": "GROUP STAGE",
-        "Date": "22/10/2026",
-        "KO": "12:00",
-        "Team A": "FK CRVENA ZVEZDA",
-        "Team B": "FC COPENHAGEN",
-        "Venue": "FK CRVENA ZVEZDA",
-        "Status": "CARRIED OUT"
-      }
-    },
-    {
-      "competition": "UEFA CONFERENCE LEAGUE",
-      "icon": "⚽",
-      "status": "CARRIED OUT",
-      "fields": {
-        "Competition": "UEFA CONFERENCE LEAGUE",
-        "Round / Stage": "GROUP STAGE",
-        "Date": "22/10/2026",
-        "KO": "18:45",
-        "Team A": "INTER CLUB D'ESCALDES",
-        "Team B": "UNIVERSITATEA CRAIOVA",
-        "Venue": "INTER CLUB D'ESCALDES",
-        "Status": "CARRIED OUT"
-      }
-    },
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CARRIED OUT",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "8",
-        "Date": "23/10/2026",
-        "KO": "20:45",
-        "Team A": "TORINO",
-        "Team B": "MONZA",
-        "Venue": "ITALY",
-        "Status": "CARRIED OUT"
-      }
-    },
-    {
-      "competition": "AUSTRALIAN FOOTBALL LEAGUE MEN",
-      "icon": "🏉",
-      "status": "CARRIED OUT",
-      "fields": {
-        "Competition": "AUSTRALIAN FOOTBALL LEAGUE MEN",
-        "Round / Stage": "POC",
-        "Date": "24/10/2026",
-        "KO": "06:05",
-        "Team A": "GEELONG CATS",
-        "Team B": "FREMANTLE",
-        "Venue": "AUSTRALIA",
-        "Status": "CARRIED OUT"
-      }
-    },
     {
       "competition": "SERIE A",
       "icon": "⚽",
@@ -172,9 +82,7 @@
         "Venue": "ITALY",
         "Status": "CARRIED OUT"
       }
-    }
-  ],
-  "future_events": [
+    },
     {
       "competition": "AUSTRALIAN FOOTBALL LEAGUE WOMEN",
       "icon": "🏉",
@@ -264,7 +172,9 @@
         "Venue": "ITALY",
         "Status": "CONFIRMED"
       }
-    },
+    }
+  ],
+  "future_events": [
     {
       "competition": "SERIE A",
       "icon": "⚽",
@@ -473,6 +383,96 @@
         "Team B": "MBILLI",
         "Venue": "RIYADH",
         "Status": "TBC"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "10",
+        "Date": "31/10/2026",
+        "KO": "18:00",
+        "Team A": "UDINESE",
+        "Team B": "ROMA",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "10",
+        "Date": "31/10/2026",
+        "KO": "20:45",
+        "Team A": "MILAN",
+        "Team B": "INTER",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "10",
+        "Date": "01/11/2026",
+        "KO": "12:30",
+        "Team A": "COMO",
+        "Team B": "VENEZIA",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "10",
+        "Date": "01/11/2026",
+        "KO": "15:00",
+        "Team A": "FROSINONE",
+        "Team B": "TORINO",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "10",
+        "Date": "01/11/2026",
+        "KO": "15:00",
+        "Team A": "LAZIO",
+        "Team B": "CAGLIARI",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "10",
+        "Date": "01/11/2026",
+        "KO": "18:00",
+        "Team A": "LECCE",
+        "Team B": "GENOA",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
       }
     }
   ]
