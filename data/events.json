@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T16:58:24+01:00",
+  "generated_at": "2026-10-27T17:00:28+01:00",
   "columns": {
     "past": [
       "Competition",
@@ -341,21 +341,6 @@
       }
     },
     {
-      "competition": "LIGUE 1",
-      "icon": "⚽",
-      "status": "TBC",
-      "fields": {
-        "Competition": "LIGUE 1",
-        "Round / Stage": "9",
-        "Date": "30/10/2026",
-        "KO": "19:00",
-        "Team A": "LE HAVRE",
-        "Team B": "PSG",
-        "Venue": "FRANCE",
-        "Status": "TBC"
-      }
-    },
-    {
       "competition": "SERIE A",
       "icon": "⚽",
       "status": "CONFIRMED",
@@ -471,6 +456,21 @@
         "KO": "18:00",
         "Team A": "LECCE",
         "Team B": "GENOA",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "10",
+        "Date": "01/11/2026",
+        "KO": "20:45",
+        "Team A": "JUVENTUS",
+        "Team B": "NAPOLI",
         "Venue": "ITALY",
         "Status": "CONFIRMED"
       }
