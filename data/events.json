@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T19:23:47+01:00",
+  "generated_at": "2026-10-27T21:37:06+01:00",
   "columns": {
     "past": [
       "Competition",
@@ -23,36 +23,6 @@
     ]
   },
   "past_events": [
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CARRIED OUT",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "8",
-        "Date": "24/10/2026",
-        "KO": "15:00",
-        "Team A": "COMO",
-        "Team B": "SASSUOLO",
-        "Venue": "ITALY",
-        "Status": "CARRIED OUT"
-      }
-    },
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CARRIED OUT",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "8",
-        "Date": "24/10/2026",
-        "KO": "18:00",
-        "Team A": "NAPOLI",
-        "Team B": "ROMA",
-        "Venue": "ITALY",
-        "Status": "CARRIED OUT"
-      }
-    },
     {
       "competition": "SERIE A",
       "icon": "⚽",
@@ -172,9 +142,7 @@
         "Venue": "ITALY",
         "Status": "CONFIRMED"
       }
-    }
-  ],
-  "future_events": [
+    },
     {
       "competition": "SERIE A",
       "icon": "⚽",
@@ -204,7 +172,9 @@
         "Venue": "ITALY",
         "Status": "CONFIRMED"
       }
-    },
+    }
+  ],
+  "future_events": [
     {
       "competition": "SERIE A",
       "icon": "⚽",
@@ -472,6 +442,36 @@
         "Team A": "SASSUOLO",
         "Team B": "FIORENTINA",
         "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "10",
+        "Date": "02/11/2026",
+        "KO": "20:45",
+        "Team A": "ATALANTA",
+        "Team B": "PARMA",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "UEFA EUROPA LEAGUE",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "UEFA EUROPA LEAGUE",
+        "Round / Stage": "4",
+        "Date": "03/11/2026",
+        "KO": "12:00",
+        "Team A": "STADE RENNAIS FC",
+        "Team B": "OLYMPIACOS",
+        "Venue": "FRANCE",
         "Status": "CONFIRMED"
       }
     }
