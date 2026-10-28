@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T13:03:26+01:00",
+  "generated_at": "2026-10-28T13:08:40+01:00",
   "columns": {
     "past": [
       "Competition",
@@ -281,21 +281,6 @@
       }
     },
     {
-      "competition": "AUSTRALIAN FOOTBALL LEAGUE WOMEN",
-      "icon": "🏉",
-      "status": "TBC",
-      "fields": {
-        "Competition": "AUSTRALIAN FOOTBALL LEAGUE WOMEN",
-        "Round / Stage": "POC",
-        "Date": "30/10/2026",
-        "KO": "09:15",
-        "Team A": "GEELONG CATS",
-        "Team B": "WESTERN BULLDOGS",
-        "Venue": "AUSTRALIA",
-        "Status": "TBC"
-      }
-    },
-    {
       "competition": "SERIE A",
       "icon": "⚽",
       "status": "CONFIRMED",
@@ -472,6 +457,21 @@
         "Team A": "STADE RENNAIS FC",
         "Team B": "OLYMPIACOS",
         "Venue": "FRANCE",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "UEFA CHAMPIONS LEAGUE",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "UEFA CHAMPIONS LEAGUE",
+        "Round / Stage": "GROUP STAGE",
+        "Date": "03/11/2026",
+        "KO": "18:45",
+        "Team A": "GALATASARAY A.Ş.",
+        "Team B": "VFB STUTTGART",
+        "Venue": "GALATASARAY A.Ş.",
         "Status": "CONFIRMED"
       }
     }
