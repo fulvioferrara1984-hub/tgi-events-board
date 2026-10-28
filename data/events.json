@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T18:25:14+01:00",
+  "generated_at": "2026-10-28T18:27:11+01:00",
   "columns": {
     "past": [
       "Competition",
@@ -281,6 +281,21 @@
       }
     },
     {
+      "competition": "LIGUE 1",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "LIGUE 1",
+        "Round / Stage": "9",
+        "Date": "30/10/2026",
+        "KO": "21:05",
+        "Team A": "LILLE",
+        "Team B": "LENS",
+        "Venue": "FRANCE",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
       "competition": "SERIE A",
       "icon": "⚽",
       "status": "CONFIRMED",
@@ -457,21 +472,6 @@
         "Team A": "GALATASARAY A.Ş.",
         "Team B": "VFB STUTTGART",
         "Venue": "GALATASARAY A.Ş.",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "UEFA CHAMPIONS LEAGUE",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "UEFA CHAMPIONS LEAGUE",
-        "Round / Stage": "GROUP STAGE",
-        "Date": "03/11/2026",
-        "KO": "21:00",
-        "Team A": "CLUB ATLÉTICO DE MADRID",
-        "Team B": "FC BAYERN MÜNCHEN",
-        "Venue": "CLUB ATLÉTICO DE MADRID",
         "Status": "CONFIRMED"
       }
     }
