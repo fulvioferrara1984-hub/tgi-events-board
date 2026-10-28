@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T08:32:58+01:00",
+  "generated_at": "2026-10-28T11:34:46+01:00",
   "columns": {
     "past": [
       "Competition",
@@ -131,7 +131,7 @@
     {
       "competition": "SERIE A",
       "icon": "⚽",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "SERIE A",
         "Round / Stage": "9",
@@ -140,13 +140,13 @@
         "Team A": "SASSUOLO",
         "Team B": "LAZIO",
         "Venue": "ITALY",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
     },
     {
       "competition": "SERIE A",
       "icon": "⚽",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "SERIE A",
         "Round / Stage": "9",
@@ -155,13 +155,13 @@
         "Team A": "ROMA",
         "Team B": "CAGLIARI",
         "Venue": "ITALY",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
     },
     {
       "competition": "SERIE A",
       "icon": "⚽",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "SERIE A",
         "Round / Stage": "9",
@@ -170,7 +170,7 @@
         "Team A": "TORINO",
         "Team B": "COMO",
         "Venue": "ITALY",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
     }
   ],
