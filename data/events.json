@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T13:08:40+01:00",
+  "generated_at": "2026-10-28T13:08:55+01:00",
   "columns": {
     "past": [
       "Competition",
@@ -296,21 +296,6 @@
       }
     },
     {
-      "competition": "BOXING",
-      "icon": "🥊",
-      "status": "TBC",
-      "fields": {
-        "Competition": "BOXING",
-        "Round / Stage": "POC",
-        "Date": "31/10/2026",
-        "KO": "17:00",
-        "Team A": "CANELO",
-        "Team B": "MBILLI",
-        "Venue": "RIYADH",
-        "Status": "TBC"
-      }
-    },
-    {
       "competition": "SERIE A",
       "icon": "⚽",
       "status": "CONFIRMED",
@@ -472,6 +457,21 @@
         "Team A": "GALATASARAY A.Ş.",
         "Team B": "VFB STUTTGART",
         "Venue": "GALATASARAY A.Ş.",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "UEFA CHAMPIONS LEAGUE",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "UEFA CHAMPIONS LEAGUE",
+        "Round / Stage": "GROUP STAGE",
+        "Date": "03/11/2026",
+        "KO": "21:00",
+        "Team A": "CLUB ATLÉTICO DE MADRID",
+        "Team B": "FC BAYERN MÜNCHEN",
+        "Venue": "CLUB ATLÉTICO DE MADRID",
         "Status": "CONFIRMED"
       }
     }
