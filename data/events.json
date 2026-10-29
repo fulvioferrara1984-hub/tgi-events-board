@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T18:27:11+01:00",
+  "generated_at": "2026-10-29T09:45:15+01:00",
   "columns": {
     "past": [
       "Competition",
@@ -23,81 +23,6 @@
     ]
   },
   "past_events": [
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CARRIED OUT",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "8",
-        "Date": "24/10/2026",
-        "KO": "20:45",
-        "Team A": "LAZIO",
-        "Team B": "PARMA",
-        "Venue": "ITALY",
-        "Status": "CARRIED OUT"
-      }
-    },
-    {
-      "competition": "AUSTRALIAN FOOTBALL LEAGUE WOMEN",
-      "icon": "🏉",
-      "status": "CARRIED OUT",
-      "fields": {
-        "Competition": "AUSTRALIAN FOOTBALL LEAGUE WOMEN",
-        "Round / Stage": "POC",
-        "Date": "25/10/2026",
-        "KO": "07:05",
-        "Team A": "CARLTON",
-        "Team B": "GWS GIANTS",
-        "Venue": "AUSTRALIA",
-        "Status": "CARRIED OUT"
-      }
-    },
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CARRIED OUT",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "8",
-        "Date": "25/10/2026",
-        "KO": "12:30",
-        "Team A": "INTER",
-        "Team B": "FIORENTINA",
-        "Venue": "ITALY",
-        "Status": "CARRIED OUT"
-      }
-    },
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CARRIED OUT",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "8",
-        "Date": "25/10/2026",
-        "KO": "15:00",
-        "Team A": "ATALANTA",
-        "Team B": "FROSINONE",
-        "Venue": "ITALY",
-        "Status": "CARRIED OUT"
-      }
-    },
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CARRIED OUT",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "8",
-        "Date": "25/10/2026",
-        "KO": "15:00",
-        "Team A": "GENOA",
-        "Team B": "VENEZIA",
-        "Venue": "ITALY",
-        "Status": "CARRIED OUT"
-      }
-    },
     {
       "competition": "SERIE A",
       "icon": "⚽",
@@ -172,9 +97,7 @@
         "Venue": "ITALY",
         "Status": "CARRIED OUT"
       }
-    }
-  ],
-  "future_events": [
+    },
     {
       "competition": "SERIE A",
       "icon": "⚽",
@@ -249,7 +172,9 @@
         "Venue": "ITALY",
         "Status": "CONFIRMED"
       }
-    },
+    }
+  ],
+  "future_events": [
     {
       "competition": "SERIE A",
       "icon": "⚽",
@@ -472,6 +397,81 @@
         "Team A": "GALATASARAY A.Ş.",
         "Team B": "VFB STUTTGART",
         "Venue": "GALATASARAY A.Ş.",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "UEFA CHAMPIONS LEAGUE",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "UEFA CHAMPIONS LEAGUE",
+        "Round / Stage": "GROUP STAGE",
+        "Date": "03/11/2026",
+        "KO": "21:00",
+        "Team A": "CLUB ATLÉTICO DE MADRID",
+        "Team B": "FC BAYERN MÜNCHEN",
+        "Venue": "CLUB ATLÉTICO DE MADRID",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "UEFA CHAMPIONS LEAGUE",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "UEFA CHAMPIONS LEAGUE",
+        "Round / Stage": "GROUP STAGE",
+        "Date": "03/11/2026",
+        "KO": "21:00",
+        "Team A": "FC BARCELONA",
+        "Team B": "ASTON VILLA FC",
+        "Venue": "FC BARCELONA",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "UEFA CHAMPIONS LEAGUE",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "UEFA CHAMPIONS LEAGUE",
+        "Round / Stage": "GROUP STAGE",
+        "Date": "03/11/2026",
+        "KO": "21:00",
+        "Team A": "FEYENOORD",
+        "Team B": "INTER",
+        "Venue": "NETHERLANDS",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "UEFA CONFERENCE LEAGUE",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "UEFA CONFERENCE LEAGUE",
+        "Round / Stage": "3",
+        "Date": "04/11/2026",
+        "KO": "12:00",
+        "Team A": "AS MONACO FC",
+        "Team B": "FC NORDSJAELLAND",
+        "Venue": "FRANCE",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "UEFA EUROPA LEAGUE",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "UEFA EUROPA LEAGUE",
+        "Round / Stage": "4",
+        "Date": "04/11/2026",
+        "KO": "16:30",
+        "Team A": "STADE RENNAIS FC",
+        "Team B": "OLYMPIACOS",
+        "Venue": "FRANCE",
         "Status": "CONFIRMED"
       }
     }
