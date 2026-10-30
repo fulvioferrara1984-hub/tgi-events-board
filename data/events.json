@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T13:50:29+01:00",
+  "generated_at": "2026-10-30T09:31:49+01:00",
   "columns": {
     "past": [
       "Competition",
@@ -23,36 +23,6 @@
     ]
   },
   "past_events": [
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CARRIED OUT",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "8",
-        "Date": "25/10/2026",
-        "KO": "18:00",
-        "Team A": "LECCE",
-        "Team B": "JUVENTUS",
-        "Venue": "ITALY",
-        "Status": "CARRIED OUT"
-      }
-    },
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CARRIED OUT",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "8",
-        "Date": "25/10/2026",
-        "KO": "20:45",
-        "Team A": "UDINESE",
-        "Team B": "MILAN",
-        "Venue": "ITALY",
-        "Status": "CARRIED OUT"
-      }
-    },
     {
       "competition": "SERIE A",
       "icon": "⚽",
@@ -172,9 +142,7 @@
         "Venue": "ITALY",
         "Status": "CARRIED OUT"
       }
-    }
-  ],
-  "future_events": [
+    },
     {
       "competition": "SERIE A",
       "icon": "⚽",
@@ -204,7 +172,9 @@
         "Venue": "ITALY",
         "Status": "CONFIRMED"
       }
-    },
+    }
+  ],
+  "future_events": [
     {
       "competition": "LIGUE 1",
       "icon": "⚽",
@@ -472,6 +442,36 @@
         "Team A": "STADE RENNAIS FC",
         "Team B": "OLYMPIACOS",
         "Venue": "FRANCE",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "UEFA CHAMPIONS LEAGUE",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "UEFA CHAMPIONS LEAGUE",
+        "Round / Stage": "GROUP STAGE",
+        "Date": "04/11/2026",
+        "KO": "18:45",
+        "Team A": "FENERBAHÇE SK",
+        "Team B": "LIVERPOOL FC",
+        "Venue": "FENERBAHÇE SK",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "UEFA CHAMPIONS LEAGUE",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "UEFA CHAMPIONS LEAGUE",
+        "Round / Stage": "GROUP STAGE",
+        "Date": "04/11/2026",
+        "KO": "21:00",
+        "Team A": "SK SLAVIA PRAHA",
+        "Team B": "ARSENAL FC",
+        "Venue": "SK SLAVIA PRAHA",
         "Status": "CONFIRMED"
       }
     }
