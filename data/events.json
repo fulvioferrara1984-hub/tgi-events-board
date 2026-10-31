@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T15:19:01+01:00",
+  "generated_at": "2026-10-31T09:25:35+01:00",
   "columns": {
     "past": [
       "Competition",
@@ -23,21 +23,6 @@
     ]
   },
   "past_events": [
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CARRIED OUT",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "9",
-        "Date": "27/10/2026",
-        "KO": "18:30",
-        "Team A": "SASSUOLO",
-        "Team B": "LAZIO",
-        "Venue": "ITALY",
-        "Status": "CARRIED OUT"
-      }
-    },
     {
       "competition": "SERIE A",
       "icon": "⚽",
@@ -172,13 +157,11 @@
         "Venue": "ITALY",
         "Status": "CARRIED OUT"
       }
-    }
-  ],
-  "future_events": [
+    },
     {
       "competition": "LIGUE 1",
       "icon": "⚽",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "LIGUE 1",
         "Round / Stage": "9",
@@ -187,9 +170,11 @@
         "Team A": "LILLE",
         "Team B": "LENS",
         "Venue": "FRANCE",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
-    },
+    }
+  ],
+  "future_events": [
     {
       "competition": "SERIE A",
       "icon": "⚽",
@@ -472,6 +457,21 @@
         "Team A": "SK SLAVIA PRAHA",
         "Team B": "ARSENAL FC",
         "Venue": "SK SLAVIA PRAHA",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "UEFA CONFERENCE LEAGUE",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "UEFA CONFERENCE LEAGUE",
+        "Round / Stage": "3",
+        "Date": "05/11/2026",
+        "KO": "21:00",
+        "Team A": "AS MONACO FC",
+        "Team B": "FC NORDSJAELLAND",
+        "Venue": "FRANCE",
         "Status": "CONFIRMED"
       }
     }
