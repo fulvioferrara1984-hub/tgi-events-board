@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T09:13:11+01:00",
+  "generated_at": "2026-11-01T19:57:14+01:00",
   "columns": {
     "past": [
       "Competition",
@@ -23,66 +23,6 @@
     ]
   },
   "past_events": [
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CARRIED OUT",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "9",
-        "Date": "28/10/2026",
-        "KO": "18:30",
-        "Team A": "PARMA",
-        "Team B": "UDINESE",
-        "Venue": "ITALY",
-        "Status": "CARRIED OUT"
-      }
-    },
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CARRIED OUT",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "9",
-        "Date": "28/10/2026",
-        "KO": "18:30",
-        "Team A": "VENEZIA",
-        "Team B": "INTER",
-        "Venue": "ITALY",
-        "Status": "CARRIED OUT"
-      }
-    },
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CARRIED OUT",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "9",
-        "Date": "28/10/2026",
-        "KO": "20:45",
-        "Team A": "GENOA",
-        "Team B": "JUVENTUS",
-        "Venue": "ITALY",
-        "Status": "CARRIED OUT"
-      }
-    },
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CARRIED OUT",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "9",
-        "Date": "28/10/2026",
-        "KO": "20:45",
-        "Team A": "MONZA",
-        "Team B": "NAPOLI",
-        "Venue": "ITALY",
-        "Status": "CARRIED OUT"
-      }
-    },
     {
       "competition": "SERIE A",
       "icon": "⚽",
@@ -172,9 +112,7 @@
         "Venue": "ITALY",
         "Status": "CARRIED OUT"
       }
-    }
-  ],
-  "future_events": [
+    },
     {
       "competition": "SERIE A",
       "icon": "⚽",
@@ -234,7 +172,9 @@
         "Venue": "ITALY",
         "Status": "CONFIRMED"
       }
-    },
+    }
+  ],
+  "future_events": [
     {
       "competition": "SERIE A",
       "icon": "⚽",
@@ -471,6 +411,66 @@
         "KO": "15:00",
         "Team A": "TORINO",
         "Team B": "LECCE",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "11",
+        "Date": "07/11/2026",
+        "KO": "18:00",
+        "Team A": "PARMA",
+        "Team B": "BOLOGNA",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "11",
+        "Date": "07/11/2026",
+        "KO": "20:45",
+        "Team A": "ROMA",
+        "Team B": "SASSUOLO",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "11",
+        "Date": "08/11/2026",
+        "KO": "12:30",
+        "Team A": "NAPOLI",
+        "Team B": "LAZIO",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "11",
+        "Date": "08/11/2026",
+        "KO": "15:00",
+        "Team A": "GENOA",
+        "Team B": "MILAN",
         "Venue": "ITALY",
         "Status": "CONFIRMED"
       }
