@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T09:57:10+01:00",
+  "generated_at": "2026-11-02T09:57:33+01:00",
   "columns": {
     "past": [
       "Competition",
@@ -175,6 +175,21 @@
     }
   ],
   "future_events": [
+    {
+      "competition": "UEFA CHAMPIONS LEAGUE",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "UEFA CHAMPIONS LEAGUE",
+        "Round / Stage": "GROUP STAGE",
+        "Date": "02/11/2026",
+        "KO": "16:30",
+        "Team A": "FEYENOORD",
+        "Team B": "INTER",
+        "Venue": "NETHERLANDS",
+        "Status": "CONFIRMED"
+      }
+    },
     {
       "competition": "SERIE A",
       "icon": "⚽",
@@ -456,21 +471,6 @@
         "KO": "15:00",
         "Team A": "GENOA",
         "Team B": "MILAN",
-        "Venue": "ITALY",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "11",
-        "Date": "08/11/2026",
-        "KO": "15:00",
-        "Team A": "MONZA",
-        "Team B": "ATALANTA",
         "Venue": "ITALY",
         "Status": "CONFIRMED"
       }
