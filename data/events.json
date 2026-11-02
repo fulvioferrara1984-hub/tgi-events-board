@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T19:58:05+01:00",
+  "generated_at": "2026-11-02T09:57:10+01:00",
   "columns": {
     "past": [
       "Competition",
@@ -23,21 +23,6 @@
     ]
   },
   "past_events": [
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CARRIED OUT",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "9",
-        "Date": "29/10/2026",
-        "KO": "18:30",
-        "Team A": "FROSINONE",
-        "Team B": "LECCE",
-        "Venue": "ITALY",
-        "Status": "CARRIED OUT"
-      }
-    },
     {
       "competition": "SERIE A",
       "icon": "⚽",
@@ -116,7 +101,7 @@
     {
       "competition": "SERIE A",
       "icon": "⚽",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "SERIE A",
         "Round / Stage": "10",
@@ -125,13 +110,13 @@
         "Team A": "COMO",
         "Team B": "VENEZIA",
         "Venue": "ITALY",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
     },
     {
       "competition": "SERIE A",
       "icon": "⚽",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "SERIE A",
         "Round / Stage": "10",
@@ -140,13 +125,13 @@
         "Team A": "FROSINONE",
         "Team B": "TORINO",
         "Venue": "ITALY",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
     },
     {
       "competition": "SERIE A",
       "icon": "⚽",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "SERIE A",
         "Round / Stage": "10",
@@ -155,13 +140,13 @@
         "Team A": "LAZIO",
         "Team B": "CAGLIARI",
         "Venue": "ITALY",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
     },
     {
       "competition": "SERIE A",
       "icon": "⚽",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "SERIE A",
         "Round / Stage": "10",
@@ -170,15 +155,13 @@
         "Team A": "LECCE",
         "Team B": "GENOA",
         "Venue": "ITALY",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
-    }
-  ],
-  "future_events": [
+    },
     {
       "competition": "SERIE A",
       "icon": "⚽",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "SERIE A",
         "Round / Stage": "10",
@@ -187,9 +170,11 @@
         "Team A": "JUVENTUS",
         "Team B": "NAPOLI",
         "Venue": "ITALY",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
-    },
+    }
+  ],
+  "future_events": [
     {
       "competition": "SERIE A",
       "icon": "⚽",
@@ -471,6 +456,21 @@
         "KO": "15:00",
         "Team A": "GENOA",
         "Team B": "MILAN",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "11",
+        "Date": "08/11/2026",
+        "KO": "15:00",
+        "Team A": "MONZA",
+        "Team B": "ATALANTA",
         "Venue": "ITALY",
         "Status": "CONFIRMED"
       }
