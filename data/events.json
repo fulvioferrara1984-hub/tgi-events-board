@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T09:57:33+01:00",
+  "generated_at": "2026-11-03T09:26:13+01:00",
   "columns": {
     "past": [
       "Competition",
@@ -23,51 +23,6 @@
     ]
   },
   "past_events": [
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CARRIED OUT",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "9",
-        "Date": "29/10/2026",
-        "KO": "20:45",
-        "Team A": "FIORENTINA",
-        "Team B": "ATALANTA",
-        "Venue": "ITALY",
-        "Status": "CARRIED OUT"
-      }
-    },
-    {
-      "competition": "LIGUE 1",
-      "icon": "⚽",
-      "status": "CARRIED OUT",
-      "fields": {
-        "Competition": "LIGUE 1",
-        "Round / Stage": "9",
-        "Date": "30/10/2026",
-        "KO": "21:05",
-        "Team A": "LILLE",
-        "Team B": "LENS",
-        "Venue": "FRANCE",
-        "Status": "CARRIED OUT"
-      }
-    },
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CARRIED OUT",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "10",
-        "Date": "31/10/2026",
-        "KO": "15:00",
-        "Team A": "BOLOGNA",
-        "Team B": "MONZA",
-        "Venue": "ITALY",
-        "Status": "CARRIED OUT"
-      }
-    },
     {
       "competition": "SERIE A",
       "icon": "⚽",
@@ -172,9 +127,7 @@
         "Venue": "ITALY",
         "Status": "CARRIED OUT"
       }
-    }
-  ],
-  "future_events": [
+    },
     {
       "competition": "UEFA CHAMPIONS LEAGUE",
       "icon": "⚽",
@@ -219,7 +172,9 @@
         "Venue": "ITALY",
         "Status": "CONFIRMED"
       }
-    },
+    }
+  ],
+  "future_events": [
     {
       "competition": "UEFA EUROPA LEAGUE",
       "icon": "⚽",
@@ -473,6 +428,51 @@
         "Team B": "MILAN",
         "Venue": "ITALY",
         "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "11",
+        "Date": "08/11/2026",
+        "KO": "15:00",
+        "Team A": "MONZA",
+        "Team B": "ATALANTA",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "LIGUE 1",
+      "icon": "⚽",
+      "status": "TBC",
+      "fields": {
+        "Competition": "LIGUE 1",
+        "Round / Stage": "10",
+        "Date": "08/11/2026",
+        "KO": "17:15",
+        "Team A": "BREST",
+        "Team B": "LYON",
+        "Venue": "FRANCE",
+        "Status": "TBC"
+      }
+    },
+    {
+      "competition": "LIGUE 1",
+      "icon": "⚽",
+      "status": "TBC",
+      "fields": {
+        "Competition": "LIGUE 1",
+        "Round / Stage": "10",
+        "Date": "08/11/2026",
+        "KO": "17:15",
+        "Team A": "LE MANS",
+        "Team B": "AS MONACO",
+        "Venue": "FRANCE",
+        "Status": "TBC"
       }
     }
   ]
