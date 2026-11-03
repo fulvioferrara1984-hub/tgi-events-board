@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T13:13:06+01:00",
+  "generated_at": "2026-11-03T15:01:25+01:00",
   "columns": {
     "past": [
       "Competition",
@@ -23,6 +23,21 @@
     ]
   },
   "past_events": [
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CARRIED OUT",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "10",
+        "Date": "31/10/2026",
+        "KO": "18:00",
+        "Team A": "UDINESE",
+        "Team B": "ROMA",
+        "Venue": "ITALY",
+        "Status": "CARRIED OUT"
+      }
+    },
     {
       "competition": "SERIE A",
       "icon": "⚽",
@@ -157,7 +172,9 @@
         "Venue": "ITALY",
         "Status": "CARRIED OUT"
       }
-    },
+    }
+  ],
+  "future_events": [
     {
       "competition": "UEFA EUROPA LEAGUE",
       "icon": "⚽",
@@ -166,15 +183,13 @@
         "Competition": "UEFA EUROPA LEAGUE",
         "Round / Stage": "4",
         "Date": "03/11/2026",
-        "KO": "12:00",
+        "KO": "18:00",
         "Team A": "STADE RENNAIS FC",
         "Team B": "OLYMPIACOS",
         "Venue": "FRANCE",
         "Status": "CONFIRMED"
       }
-    }
-  ],
-  "future_events": [
+    },
     {
       "competition": "UEFA CHAMPIONS LEAGUE",
       "icon": "⚽",
@@ -458,21 +473,6 @@
         "Team B": "AS MONACO",
         "Venue": "FRANCE",
         "Status": "TBC"
-      }
-    },
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "11",
-        "Date": "08/11/2026",
-        "KO": "18:00",
-        "Team A": "INTER",
-        "Team B": "COMO",
-        "Venue": "ITALY",
-        "Status": "CONFIRMED"
       }
     }
   ]
