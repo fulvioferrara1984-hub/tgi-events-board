@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T15:01:25+01:00",
+  "generated_at": "2026-11-03T15:02:21+01:00",
   "columns": {
     "past": [
       "Competition",
@@ -251,21 +251,6 @@
       }
     },
     {
-      "competition": "UEFA CONFERENCE LEAGUE",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "UEFA CONFERENCE LEAGUE",
-        "Round / Stage": "3",
-        "Date": "04/11/2026",
-        "KO": "12:00",
-        "Team A": "AS MONACO FC",
-        "Team B": "FC NORDSJAELLAND",
-        "Venue": "FRANCE",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
       "competition": "UEFA EUROPA LEAGUE",
       "icon": "⚽",
       "status": "CONFIRMED",
@@ -276,6 +261,21 @@
         "KO": "16:30",
         "Team A": "STADE RENNAIS FC",
         "Team B": "OLYMPIACOS",
+        "Venue": "FRANCE",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "UEFA CONFERENCE LEAGUE",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "UEFA CONFERENCE LEAGUE",
+        "Round / Stage": "3",
+        "Date": "04/11/2026",
+        "KO": "18:30",
+        "Team A": "AS MONACO FC",
+        "Team B": "FC NORDSJAELLAND",
         "Venue": "FRANCE",
         "Status": "CONFIRMED"
       }
