@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T15:02:21+01:00",
+  "generated_at": "2026-11-03T19:31:30+01:00",
   "columns": {
     "past": [
       "Competition",
@@ -23,36 +23,6 @@
     ]
   },
   "past_events": [
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CARRIED OUT",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "10",
-        "Date": "31/10/2026",
-        "KO": "18:00",
-        "Team A": "UDINESE",
-        "Team B": "ROMA",
-        "Venue": "ITALY",
-        "Status": "CARRIED OUT"
-      }
-    },
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CARRIED OUT",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "10",
-        "Date": "31/10/2026",
-        "KO": "20:45",
-        "Team A": "MILAN",
-        "Team B": "INTER",
-        "Venue": "ITALY",
-        "Status": "CARRIED OUT"
-      }
-    },
     {
       "competition": "SERIE A",
       "icon": "⚽",
@@ -172,9 +142,7 @@
         "Venue": "ITALY",
         "Status": "CARRIED OUT"
       }
-    }
-  ],
-  "future_events": [
+    },
     {
       "competition": "UEFA EUROPA LEAGUE",
       "icon": "⚽",
@@ -204,7 +172,9 @@
         "Venue": "GALATASARAY A.Ş.",
         "Status": "CONFIRMED"
       }
-    },
+    }
+  ],
+  "future_events": [
     {
       "competition": "UEFA CHAMPIONS LEAGUE",
       "icon": "⚽",
@@ -471,6 +441,36 @@
         "KO": "17:15",
         "Team A": "LE MANS",
         "Team B": "AS MONACO",
+        "Venue": "FRANCE",
+        "Status": "TBC"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "11",
+        "Date": "08/11/2026",
+        "KO": "18:00",
+        "Team A": "INTER",
+        "Team B": "COMO",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "LIGUE 1",
+      "icon": "⚽",
+      "status": "TBC",
+      "fields": {
+        "Competition": "LIGUE 1",
+        "Round / Stage": "10",
+        "Date": "08/11/2026",
+        "KO": "20:45",
+        "Team A": "LENS",
+        "Team B": "MARSEILLE",
         "Venue": "FRANCE",
         "Status": "TBC"
       }
