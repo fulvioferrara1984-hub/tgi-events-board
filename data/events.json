@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T21:23:13+01:00",
+  "generated_at": "2026-11-04T12:33:35+01:00",
   "columns": {
     "past": [
       "Competition",
@@ -101,7 +101,7 @@
     {
       "competition": "UEFA EUROPA LEAGUE",
       "icon": "⚽",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "UEFA EUROPA LEAGUE",
         "Round / Stage": "4",
@@ -110,13 +110,13 @@
         "Team A": "STADE RENNAIS FC",
         "Team B": "OLYMPIACOS",
         "Venue": "FRANCE",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
     },
     {
       "competition": "UEFA CHAMPIONS LEAGUE",
       "icon": "⚽",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "UEFA CHAMPIONS LEAGUE",
         "Round / Stage": "GROUP STAGE",
@@ -125,13 +125,13 @@
         "Team A": "GALATASARAY A.Ş.",
         "Team B": "VFB STUTTGART",
         "Venue": "GALATASARAY A.Ş.",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
     },
     {
       "competition": "UEFA CHAMPIONS LEAGUE",
       "icon": "⚽",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "UEFA CHAMPIONS LEAGUE",
         "Round / Stage": "GROUP STAGE",
@@ -140,13 +140,13 @@
         "Team A": "CLUB ATLÉTICO DE MADRID",
         "Team B": "FC BAYERN MÜNCHEN",
         "Venue": "CLUB ATLÉTICO DE MADRID",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
     },
     {
       "competition": "UEFA CHAMPIONS LEAGUE",
       "icon": "⚽",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "UEFA CHAMPIONS LEAGUE",
         "Round / Stage": "GROUP STAGE",
@@ -155,13 +155,13 @@
         "Team A": "FC BARCELONA",
         "Team B": "ASTON VILLA FC",
         "Venue": "FC BARCELONA",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
     },
     {
       "competition": "UEFA CHAMPIONS LEAGUE",
       "icon": "⚽",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "UEFA CHAMPIONS LEAGUE",
         "Round / Stage": "GROUP STAGE",
@@ -170,7 +170,7 @@
         "Team A": "FEYENOORD",
         "Team B": "INTER",
         "Venue": "NETHERLANDS",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
     }
   ],
