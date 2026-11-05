@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T09:59:35+01:00",
+  "generated_at": "2026-11-05T10:00:36+01:00",
   "columns": {
     "past": [
       "Competition",
@@ -311,36 +311,6 @@
       }
     },
     {
-      "competition": "LIGUE 1",
-      "icon": "⚽",
-      "status": "TBC",
-      "fields": {
-        "Competition": "LIGUE 1",
-        "Round / Stage": "10",
-        "Date": "08/11/2026",
-        "KO": "17:15",
-        "Team A": "BREST",
-        "Team B": "LYON",
-        "Venue": "FRANCE",
-        "Status": "TBC"
-      }
-    },
-    {
-      "competition": "LIGUE 1",
-      "icon": "⚽",
-      "status": "TBC",
-      "fields": {
-        "Competition": "LIGUE 1",
-        "Round / Stage": "10",
-        "Date": "08/11/2026",
-        "KO": "17:15",
-        "Team A": "LE MANS",
-        "Team B": "AS MONACO",
-        "Venue": "FRANCE",
-        "Status": "TBC"
-      }
-    },
-    {
       "competition": "SERIE A",
       "icon": "⚽",
       "status": "CONFIRMED",
@@ -353,21 +323,6 @@
         "Team B": "COMO",
         "Venue": "ITALY",
         "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "LIGUE 1",
-      "icon": "⚽",
-      "status": "TBC",
-      "fields": {
-        "Competition": "LIGUE 1",
-        "Round / Stage": "10",
-        "Date": "08/11/2026",
-        "KO": "20:45",
-        "Team A": "LENS",
-        "Team B": "MARSEILLE",
-        "Venue": "FRANCE",
-        "Status": "TBC"
       }
     },
     {
@@ -472,6 +427,51 @@
         "Team A": "CROATIA",
         "Team B": "CZECHIA",
         "Venue": "CROATIA",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "UEFA NATIONS LEAGUE",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "UEFA NATIONS LEAGUE",
+        "Round / Stage": "GROUP STAGE",
+        "Date": "15/11/2026",
+        "KO": "20:45",
+        "Team A": "SPAIN",
+        "Team B": "ENGLAND",
+        "Venue": "SPAIN",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "UEFA NATIONS LEAGUE",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "UEFA NATIONS LEAGUE",
+        "Round / Stage": "GROUP STAGE",
+        "Date": "16/11/2026",
+        "KO": "20:45",
+        "Team A": "GERMANY",
+        "Team B": "NETHERLANDS",
+        "Venue": "GERMANY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "UEFA NATIONS LEAGUE",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "UEFA NATIONS LEAGUE",
+        "Round / Stage": "GROUP STAGE",
+        "Date": "17/11/2026",
+        "KO": "20:45",
+        "Team A": "POLAND",
+        "Team B": "SWEDEN",
+        "Venue": "POLAND",
         "Status": "CONFIRMED"
       }
     }
