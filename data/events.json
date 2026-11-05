@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T12:34:29+01:00",
+  "generated_at": "2026-11-05T09:59:35+01:00",
   "columns": {
     "past": [
       "Competition",
@@ -23,66 +23,6 @@
     ]
   },
   "past_events": [
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CARRIED OUT",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "10",
-        "Date": "01/11/2026",
-        "KO": "18:00",
-        "Team A": "LECCE",
-        "Team B": "GENOA",
-        "Venue": "ITALY",
-        "Status": "CARRIED OUT"
-      }
-    },
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CARRIED OUT",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "10",
-        "Date": "01/11/2026",
-        "KO": "20:45",
-        "Team A": "JUVENTUS",
-        "Team B": "NAPOLI",
-        "Venue": "ITALY",
-        "Status": "CARRIED OUT"
-      }
-    },
-    {
-      "competition": "UEFA CHAMPIONS LEAGUE",
-      "icon": "⚽",
-      "status": "CARRIED OUT",
-      "fields": {
-        "Competition": "UEFA CHAMPIONS LEAGUE",
-        "Round / Stage": "GROUP STAGE",
-        "Date": "02/11/2026",
-        "KO": "16:30",
-        "Team A": "FEYENOORD",
-        "Team B": "INTER",
-        "Venue": "NETHERLANDS",
-        "Status": "CARRIED OUT"
-      }
-    },
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CARRIED OUT",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "10",
-        "Date": "02/11/2026",
-        "KO": "18:30",
-        "Team A": "SASSUOLO",
-        "Team B": "FIORENTINA",
-        "Venue": "ITALY",
-        "Status": "CARRIED OUT"
-      }
-    },
     {
       "competition": "SERIE A",
       "icon": "⚽",
@@ -172,13 +112,11 @@
         "Venue": "NETHERLANDS",
         "Status": "CARRIED OUT"
       }
-    }
-  ],
-  "future_events": [
+    },
     {
       "competition": "UEFA EUROPA LEAGUE",
       "icon": "⚽",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "UEFA EUROPA LEAGUE",
         "Round / Stage": "4",
@@ -187,13 +125,13 @@
         "Team A": "STADE RENNAIS FC",
         "Team B": "OLYMPIACOS",
         "Venue": "FRANCE",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
     },
     {
       "competition": "UEFA CONFERENCE LEAGUE",
       "icon": "⚽",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "UEFA CONFERENCE LEAGUE",
         "Round / Stage": "3",
@@ -202,13 +140,13 @@
         "Team A": "AS MONACO FC",
         "Team B": "FC NORDSJAELLAND",
         "Venue": "FRANCE",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
     },
     {
       "competition": "UEFA CHAMPIONS LEAGUE",
       "icon": "⚽",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "UEFA CHAMPIONS LEAGUE",
         "Round / Stage": "GROUP STAGE",
@@ -217,13 +155,13 @@
         "Team A": "FENERBAHÇE SK",
         "Team B": "LIVERPOOL FC",
         "Venue": "FENERBAHÇE SK",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
     },
     {
       "competition": "UEFA CHAMPIONS LEAGUE",
       "icon": "⚽",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "UEFA CHAMPIONS LEAGUE",
         "Round / Stage": "GROUP STAGE",
@@ -232,9 +170,11 @@
         "Team A": "SK SLAVIA PRAHA",
         "Team B": "ARSENAL FC",
         "Venue": "SK SLAVIA PRAHA",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
-    },
+    }
+  ],
+  "future_events": [
     {
       "competition": "UEFA CONFERENCE LEAGUE",
       "icon": "⚽",
@@ -472,6 +412,66 @@
         "Team A": "NETHERLANDS",
         "Team B": "GREECE",
         "Venue": "NETHERLANDS",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "UEFA NATIONS LEAGUE",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "UEFA NATIONS LEAGUE",
+        "Round / Stage": "GROUP STAGE",
+        "Date": "14/11/2026",
+        "KO": "18:00",
+        "Team A": "NORWAY",
+        "Team B": "WALES",
+        "Venue": "NORWAY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "UEFA NATIONS LEAGUE",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "UEFA NATIONS LEAGUE",
+        "Round / Stage": "GROUP STAGE",
+        "Date": "14/11/2026",
+        "KO": "20:45",
+        "Team A": "PORTUGAL",
+        "Team B": "DENMARK",
+        "Venue": "PORTUGAL",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "UEFA NATIONS LEAGUE",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "UEFA NATIONS LEAGUE",
+        "Round / Stage": "GROUP STAGE",
+        "Date": "15/11/2026",
+        "KO": "18:00",
+        "Team A": "BELGIUM",
+        "Team B": "ITALY",
+        "Venue": "BELGIUM",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "UEFA NATIONS LEAGUE",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "UEFA NATIONS LEAGUE",
+        "Round / Stage": "GROUP STAGE",
+        "Date": "15/11/2026",
+        "KO": "20:45",
+        "Team A": "CROATIA",
+        "Team B": "CZECHIA",
+        "Venue": "CROATIA",
         "Status": "CONFIRMED"
       }
     }
