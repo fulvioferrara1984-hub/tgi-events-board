@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T15:37:19+01:00",
+  "generated_at": "2026-11-06T09:42:31+01:00",
   "columns": {
     "past": [
       "Competition",
@@ -23,21 +23,6 @@
     ]
   },
   "past_events": [
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CARRIED OUT",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "10",
-        "Date": "02/11/2026",
-        "KO": "20:45",
-        "Team A": "ATALANTA",
-        "Team B": "PARMA",
-        "Venue": "ITALY",
-        "Status": "CARRIED OUT"
-      }
-    },
     {
       "competition": "UEFA EUROPA LEAGUE",
       "icon": "⚽",
@@ -172,13 +157,11 @@
         "Venue": "SK SLAVIA PRAHA",
         "Status": "CARRIED OUT"
       }
-    }
-  ],
-  "future_events": [
+    },
     {
       "competition": "UEFA CONFERENCE LEAGUE",
       "icon": "⚽",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "UEFA CONFERENCE LEAGUE",
         "Round / Stage": "3",
@@ -187,9 +170,11 @@
         "Team A": "AS MONACO FC",
         "Team B": "FC NORDSJAELLAND",
         "Venue": "FRANCE",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
-    },
+    }
+  ],
+  "future_events": [
     {
       "competition": "SERIE A",
       "icon": "⚽",
@@ -472,6 +457,21 @@
         "Team A": "POLAND",
         "Team B": "SWEDEN",
         "Venue": "POLAND",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "UEFA NATIONS LEAGUE",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "UEFA NATIONS LEAGUE",
+        "Round / Stage": "GROUP STAGE",
+        "Date": "17/11/2026",
+        "KO": "20:45",
+        "Team A": "ISRAEL",
+        "Team B": "AUSTRIA",
+        "Venue": "ISRAEL",
         "Status": "CONFIRMED"
       }
     }
