@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T09:43:26+01:00",
+  "generated_at": "2026-11-06T09:45:53+01:00",
   "columns": {
     "past": [
       "Competition",
@@ -356,6 +356,21 @@
       }
     },
     {
+      "competition": "Football_POC",
+      "icon": "⚽",
+      "status": "TBC",
+      "fields": {
+        "Competition": "Football_POC",
+        "Round / Stage": "POC",
+        "Date": "14/11/2026",
+        "KO": "17:30",
+        "Team A": "RAVENNA",
+        "Team B": "FORLI",
+        "Venue": "RAVENNA",
+        "Status": "TBC"
+      }
+    },
+    {
       "competition": "UEFA NATIONS LEAGUE",
       "icon": "⚽",
       "status": "CONFIRMED",
@@ -457,21 +472,6 @@
         "Team A": "POLAND",
         "Team B": "SWEDEN",
         "Venue": "POLAND",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "UEFA NATIONS LEAGUE",
-      "icon": "⚽",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "UEFA NATIONS LEAGUE",
-        "Round / Stage": "GROUP STAGE",
-        "Date": "17/11/2026",
-        "KO": "20:45",
-        "Team A": "ISRAEL",
-        "Team B": "AUSTRIA",
-        "Venue": "ISRAEL",
         "Status": "CONFIRMED"
       }
     }
