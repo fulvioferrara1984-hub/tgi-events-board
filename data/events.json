@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T09:45:53+01:00",
+  "generated_at": "2026-11-07T11:36:11+01:00",
   "columns": {
     "past": [
       "Competition",
@@ -23,21 +23,6 @@
     ]
   },
   "past_events": [
-    {
-      "competition": "UEFA EUROPA LEAGUE",
-      "icon": "⚽",
-      "status": "CARRIED OUT",
-      "fields": {
-        "Competition": "UEFA EUROPA LEAGUE",
-        "Round / Stage": "4",
-        "Date": "03/11/2026",
-        "KO": "18:00",
-        "Team A": "STADE RENNAIS FC",
-        "Team B": "OLYMPIACOS",
-        "Venue": "FRANCE",
-        "Status": "CARRIED OUT"
-      }
-    },
     {
       "competition": "UEFA CHAMPIONS LEAGUE",
       "icon": "⚽",
@@ -172,13 +157,11 @@
         "Venue": "FRANCE",
         "Status": "CARRIED OUT"
       }
-    }
-  ],
-  "future_events": [
+    },
     {
       "competition": "SERIE A",
       "icon": "⚽",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "SERIE A",
         "Round / Stage": "11",
@@ -187,9 +170,11 @@
         "Team A": "VENEZIA",
         "Team B": "UDINESE",
         "Venue": "ITALY",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
-    },
+    }
+  ],
+  "future_events": [
     {
       "competition": "SERIE A",
       "icon": "⚽",
@@ -472,6 +457,21 @@
         "Team A": "POLAND",
         "Team B": "SWEDEN",
         "Venue": "POLAND",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "UEFA NATIONS LEAGUE",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "UEFA NATIONS LEAGUE",
+        "Round / Stage": "GROUP STAGE",
+        "Date": "17/11/2026",
+        "KO": "20:45",
+        "Team A": "ISRAEL",
+        "Team B": "AUSTRIA",
+        "Venue": "ISRAEL",
         "Status": "CONFIRMED"
       }
     }
