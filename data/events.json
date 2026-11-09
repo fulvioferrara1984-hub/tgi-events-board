@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T09:11:37+01:00",
+  "generated_at": "2026-11-09T10:38:16+01:00",
   "columns": {
     "past": [
       "Competition",
@@ -23,81 +23,6 @@
     ]
   },
   "past_events": [
-    {
-      "competition": "UEFA EUROPA LEAGUE",
-      "icon": "⚽",
-      "status": "CARRIED OUT",
-      "fields": {
-        "Competition": "UEFA EUROPA LEAGUE",
-        "Round / Stage": "4",
-        "Date": "04/11/2026",
-        "KO": "16:30",
-        "Team A": "STADE RENNAIS FC",
-        "Team B": "OLYMPIACOS",
-        "Venue": "FRANCE",
-        "Status": "CARRIED OUT"
-      }
-    },
-    {
-      "competition": "UEFA CONFERENCE LEAGUE",
-      "icon": "⚽",
-      "status": "CARRIED OUT",
-      "fields": {
-        "Competition": "UEFA CONFERENCE LEAGUE",
-        "Round / Stage": "3",
-        "Date": "04/11/2026",
-        "KO": "18:30",
-        "Team A": "AS MONACO FC",
-        "Team B": "FC NORDSJAELLAND",
-        "Venue": "FRANCE",
-        "Status": "CARRIED OUT"
-      }
-    },
-    {
-      "competition": "UEFA CHAMPIONS LEAGUE",
-      "icon": "⚽",
-      "status": "CARRIED OUT",
-      "fields": {
-        "Competition": "UEFA CHAMPIONS LEAGUE",
-        "Round / Stage": "GROUP STAGE",
-        "Date": "04/11/2026",
-        "KO": "18:45",
-        "Team A": "FENERBAHÇE SK",
-        "Team B": "LIVERPOOL FC",
-        "Venue": "FENERBAHÇE SK",
-        "Status": "CARRIED OUT"
-      }
-    },
-    {
-      "competition": "UEFA CHAMPIONS LEAGUE",
-      "icon": "⚽",
-      "status": "CARRIED OUT",
-      "fields": {
-        "Competition": "UEFA CHAMPIONS LEAGUE",
-        "Round / Stage": "GROUP STAGE",
-        "Date": "04/11/2026",
-        "KO": "21:00",
-        "Team A": "SK SLAVIA PRAHA",
-        "Team B": "ARSENAL FC",
-        "Venue": "SK SLAVIA PRAHA",
-        "Status": "CARRIED OUT"
-      }
-    },
-    {
-      "competition": "UEFA CONFERENCE LEAGUE",
-      "icon": "⚽",
-      "status": "CARRIED OUT",
-      "fields": {
-        "Competition": "UEFA CONFERENCE LEAGUE",
-        "Round / Stage": "3",
-        "Date": "05/11/2026",
-        "KO": "21:00",
-        "Team A": "AS MONACO FC",
-        "Team B": "FC NORDSJAELLAND",
-        "Venue": "FRANCE",
-        "Status": "CARRIED OUT"
-      }
-    },
     {
       "competition": "SERIE A",
       "icon": "⚽",
@@ -172,9 +97,7 @@
         "Venue": "ITALY",
         "Status": "CARRIED OUT"
       }
-    }
-  ],
-  "future_events": [
+    },
     {
       "competition": "SERIE A",
       "icon": "⚽",
@@ -249,7 +172,9 @@
         "Venue": "ITALY",
         "Status": "CONFIRMED"
       }
-    },
+    }
+  ],
+  "future_events": [
     {
       "competition": "UEFA NATIONS LEAGUE",
       "icon": "⚽",
@@ -469,6 +394,81 @@
         "Round / Stage": "PLAYOFF",
         "Date": "20/11/2026",
         "KO": "17:00",
+        "Team A": "POLAND",
+        "Team B": "SWEDEN",
+        "Venue": "POLAND",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "BILLIE JEAN KING CUP",
+      "icon": "🎾",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "BILLIE JEAN KING CUP",
+        "Round / Stage": "PLAYOFF",
+        "Date": "20/11/2026",
+        "KO": "18:00",
+        "Team A": "BRAZIL",
+        "Team B": "CANADA",
+        "Venue": "BRAZIL",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "BILLIE JEAN KING CUP",
+      "icon": "🎾",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "BILLIE JEAN KING CUP",
+        "Round / Stage": "PLAYOFF",
+        "Date": "21/11/2026",
+        "KO": "04:00",
+        "Team A": "JAPAN",
+        "Team B": "ARGENTINA",
+        "Venue": "JAPAN",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "BILLIE JEAN KING CUP",
+      "icon": "🎾",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "BILLIE JEAN KING CUP",
+        "Round / Stage": "PLAYOFF",
+        "Date": "21/11/2026",
+        "KO": "07:00",
+        "Team A": "THAILAND",
+        "Team B": "SWITZERLAND",
+        "Venue": "THAILAND",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "BILLIE JEAN KING CUP",
+      "icon": "🎾",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "BILLIE JEAN KING CUP",
+        "Round / Stage": "PLAYOFF",
+        "Date": "21/11/2026",
+        "KO": "11:00",
+        "Team A": "SLOVENIA",
+        "Team B": "INDONESIA",
+        "Venue": "SLOVENIA",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "BILLIE JEAN KING CUP",
+      "icon": "🎾",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "BILLIE JEAN KING CUP",
+        "Round / Stage": "PLAYOFF",
+        "Date": "21/11/2026",
+        "KO": "13:00",
         "Team A": "POLAND",
         "Team B": "SWEDEN",
         "Venue": "POLAND",
