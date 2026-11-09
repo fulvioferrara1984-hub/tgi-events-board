@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T10:39:24+01:00",
+  "generated_at": "2026-11-09T11:38:56+01:00",
   "columns": {
     "past": [
       "Competition",
@@ -203,21 +203,6 @@
         "Team B": "GREECE",
         "Venue": "NETHERLANDS",
         "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "Football_POC",
-      "icon": "⚽",
-      "status": "TBC",
-      "fields": {
-        "Competition": "Football_POC",
-        "Round / Stage": "POC",
-        "Date": "14/11/2026",
-        "KO": "17:30",
-        "Team A": "RAVENNA",
-        "Team B": "FORLI",
-        "Venue": "RAVENNA",
-        "Status": "TBC"
       }
     },
     {
@@ -472,6 +457,21 @@
         "Team A": "POLAND",
         "Team B": "SWEDEN",
         "Venue": "POLAND",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "BILLIE JEAN KING CUP",
+      "icon": "🎾",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "BILLIE JEAN KING CUP",
+        "Round / Stage": "PLAYOFF",
+        "Date": "21/11/2026",
+        "KO": "13:30",
+        "Team A": "FRANCE",
+        "Team B": "AUSTRALIA",
+        "Venue": "FRANCE",
         "Status": "CONFIRMED"
       }
     }
