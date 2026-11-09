@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T11:41:07+01:00",
+  "generated_at": "2026-11-09T11:42:22+01:00",
   "columns": {
     "past": [
       "Competition",
@@ -208,7 +208,7 @@
     {
       "competition": "Football_POC",
       "icon": "⚽",
-      "status": "TBC",
+      "status": "CONFIRMED",
       "fields": {
         "Competition": "Football_POC",
         "Round / Stage": "POC",
@@ -217,7 +217,7 @@
         "Team A": "RAVENNA",
         "Team B": "FORLI",
         "Venue": "RAVENNA",
-        "Status": "TBC"
+        "Status": "CONFIRMED"
       }
     },
     {
