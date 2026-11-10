@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T18:02:23+01:00",
+  "generated_at": "2026-11-10T18:04:56+01:00",
   "columns": {
     "past": [
       "Competition",
@@ -446,17 +446,17 @@
       }
     },
     {
-      "competition": "BILLIE JEAN KING CUP",
-      "icon": "🎾",
+      "competition": "WBBL",
+      "icon": "🏏",
       "status": "CONFIRMED",
       "fields": {
-        "Competition": "BILLIE JEAN KING CUP",
-        "Round / Stage": "PLAYOFF",
+        "Competition": "WBBL",
+        "Round / Stage": "POC",
         "Date": "21/11/2026",
-        "KO": "07:00",
-        "Team A": "THAILAND",
-        "Team B": "SWITZERLAND",
-        "Venue": "THAILAND",
+        "KO": "05:40",
+        "Team A": "HOBART",
+        "Team B": "PERTH",
+        "Venue": "HOBART",
         "Status": "CONFIRMED"
       }
     },
@@ -468,10 +468,10 @@
         "Competition": "BILLIE JEAN KING CUP",
         "Round / Stage": "PLAYOFF",
         "Date": "21/11/2026",
-        "KO": "11:00",
-        "Team A": "SLOVENIA",
-        "Team B": "INDONESIA",
-        "Venue": "SLOVENIA",
+        "KO": "07:00",
+        "Team A": "THAILAND",
+        "Team B": "SWITZERLAND",
+        "Venue": "THAILAND",
         "Status": "CONFIRMED"
       }
     }
