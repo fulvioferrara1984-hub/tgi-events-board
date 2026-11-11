@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T16:27:54+01:00",
+  "generated_at": "2026-11-11T16:28:31+01:00",
   "columns": {
     "past": [
       "Competition",
@@ -466,12 +466,12 @@
       "status": "CONFIRMED",
       "fields": {
         "Competition": "BILLIE JEAN KING CUP",
-        "Round / Stage": "PLAYOFF",
+        "Round / Stage": "CALIBRATION",
         "Date": "20/11/2026",
-        "KO": "18:00",
-        "Team A": "BRAZIL",
-        "Team B": "CANADA",
-        "Venue": "BRAZIL",
+        "KO": "17:00",
+        "Team A": "FRANCE",
+        "Team B": "AUSTRALIA",
+        "Venue": "FRANCE",
         "Status": "CONFIRMED"
       }
     }
