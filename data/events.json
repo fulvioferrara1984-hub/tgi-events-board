@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T16:28:31+01:00",
+  "generated_at": "2026-11-11T16:29:21+01:00",
   "columns": {
     "past": [
       "Competition",
@@ -423,10 +423,40 @@
         "Competition": "BILLIE JEAN KING CUP",
         "Round / Stage": "CALIBRATION",
         "Date": "19/11/2026",
-        "KO": "20:00",
+        "KO": "21:00",
         "Team A": "BRAZIL",
         "Team B": "CANADA",
         "Venue": "BRAZIL",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "BILLIE JEAN KING CUP",
+      "icon": "🎾",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "BILLIE JEAN KING CUP",
+        "Round / Stage": "CALIBRATION",
+        "Date": "20/11/2026",
+        "KO": "09:00",
+        "Team A": "JAPAN",
+        "Team B": "ARGENTINA",
+        "Venue": "JAPAN",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "BILLIE JEAN KING CUP",
+      "icon": "🎾",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "BILLIE JEAN KING CUP",
+        "Round / Stage": "CALIBRATION",
+        "Date": "20/11/2026",
+        "KO": "11:00",
+        "Team A": "THAILAND",
+        "Team B": "SWITZERLAND",
+        "Venue": "THAILAND",
         "Status": "CONFIRMED"
       }
     },
@@ -442,36 +472,6 @@
         "Team A": "SLOVENIA",
         "Team B": "INDONESIA",
         "Venue": "SLOVENIA",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "BILLIE JEAN KING CUP",
-      "icon": "🎾",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "BILLIE JEAN KING CUP",
-        "Round / Stage": "PLAYOFF",
-        "Date": "20/11/2026",
-        "KO": "17:00",
-        "Team A": "POLAND",
-        "Team B": "SWEDEN",
-        "Venue": "POLAND",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "BILLIE JEAN KING CUP",
-      "icon": "🎾",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "BILLIE JEAN KING CUP",
-        "Round / Stage": "CALIBRATION",
-        "Date": "20/11/2026",
-        "KO": "17:00",
-        "Team A": "FRANCE",
-        "Team B": "AUSTRALIA",
-        "Venue": "FRANCE",
         "Status": "CONFIRMED"
       }
     }
