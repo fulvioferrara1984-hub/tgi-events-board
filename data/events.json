@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T16:24:02+01:00",
+  "generated_at": "2026-11-11T16:27:54+01:00",
   "columns": {
     "past": [
       "Competition",
@@ -394,9 +394,39 @@
         "Round / Stage": "CALIBRATION",
         "Date": "19/11/2026",
         "KO": "17:00",
+        "Team A": "SLOVENIA",
+        "Team B": "INDONESIA",
+        "Venue": "SLOVENIA",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "BILLIE JEAN KING CUP",
+      "icon": "🎾",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "BILLIE JEAN KING CUP",
+        "Round / Stage": "CALIBRATION",
+        "Date": "19/11/2026",
+        "KO": "17:00",
         "Team A": "POLAND",
         "Team B": "SWEDEN",
         "Venue": "POLAND",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "BILLIE JEAN KING CUP",
+      "icon": "🎾",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "BILLIE JEAN KING CUP",
+        "Round / Stage": "CALIBRATION",
+        "Date": "19/11/2026",
+        "KO": "20:00",
+        "Team A": "BRAZIL",
+        "Team B": "CANADA",
+        "Venue": "BRAZIL",
         "Status": "CONFIRMED"
       }
     },
@@ -442,36 +472,6 @@
         "Team A": "BRAZIL",
         "Team B": "CANADA",
         "Venue": "BRAZIL",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "BILLIE JEAN KING CUP",
-      "icon": "🎾",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "BILLIE JEAN KING CUP",
-        "Round / Stage": "PLAYOFF",
-        "Date": "21/11/2026",
-        "KO": "04:00",
-        "Team A": "JAPAN",
-        "Team B": "ARGENTINA",
-        "Venue": "JAPAN",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "WBBL",
-      "icon": "🏏",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "WBBL",
-        "Round / Stage": "POC",
-        "Date": "21/11/2026",
-        "KO": "05:40",
-        "Team A": "HOBART",
-        "Team B": "PERTH",
-        "Venue": "HOBART",
         "Status": "CONFIRMED"
       }
     }
