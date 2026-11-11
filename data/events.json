@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T12:17:52+01:00",
+  "generated_at": "2026-11-11T16:24:02+01:00",
   "columns": {
     "past": [
       "Competition",
@@ -391,6 +391,21 @@
       "status": "CONFIRMED",
       "fields": {
         "Competition": "BILLIE JEAN KING CUP",
+        "Round / Stage": "CALIBRATION",
+        "Date": "19/11/2026",
+        "KO": "17:00",
+        "Team A": "POLAND",
+        "Team B": "SWEDEN",
+        "Venue": "POLAND",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "BILLIE JEAN KING CUP",
+      "icon": "🎾",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "BILLIE JEAN KING CUP",
         "Round / Stage": "PLAYOFF",
         "Date": "20/11/2026",
         "KO": "13:00",
@@ -457,21 +472,6 @@
         "Team A": "HOBART",
         "Team B": "PERTH",
         "Venue": "HOBART",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "BILLIE JEAN KING CUP",
-      "icon": "🎾",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "BILLIE JEAN KING CUP",
-        "Round / Stage": "PLAYOFF",
-        "Date": "21/11/2026",
-        "KO": "07:00",
-        "Team A": "THAILAND",
-        "Team B": "SWITZERLAND",
-        "Venue": "THAILAND",
         "Status": "CONFIRMED"
       }
     }
