@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T18:36:39+01:00",
+  "generated_at": "2026-11-13T10:13:29+01:00",
   "columns": {
     "past": [
       "Competition",
@@ -23,21 +23,6 @@
     ]
   },
   "past_events": [
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CARRIED OUT",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "11",
-        "Date": "06/11/2026",
-        "KO": "20:45",
-        "Team A": "VENEZIA",
-        "Team B": "UDINESE",
-        "Venue": "ITALY",
-        "Status": "CARRIED OUT"
-      }
-    },
     {
       "competition": "SERIE A",
       "icon": "⚽",
@@ -172,13 +157,11 @@
         "Venue": "ITALY",
         "Status": "CARRIED OUT"
       }
-    }
-  ],
-  "future_events": [
+    },
     {
       "competition": "UEFA NATIONS LEAGUE",
       "icon": "⚽",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "UEFA NATIONS LEAGUE",
         "Round / Stage": "GROUP STAGE",
@@ -187,9 +170,11 @@
         "Team A": "CZECHIA",
         "Team B": "SPAIN",
         "Venue": "CZECHIA",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
-    },
+    }
+  ],
+  "future_events": [
     {
       "competition": "UEFA NATIONS LEAGUE",
       "icon": "⚽",
@@ -472,6 +457,21 @@
         "Team A": "SLOVENIA",
         "Team B": "INDONESIA",
         "Venue": "SLOVENIA",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "BILLIE JEAN KING CUP",
+      "icon": "🎾",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "BILLIE JEAN KING CUP",
+        "Round / Stage": "PLAYOFF",
+        "Date": "20/11/2026",
+        "KO": "17:00",
+        "Team A": "POLAND",
+        "Team B": "SWEDEN",
+        "Venue": "POLAND",
         "Status": "CONFIRMED"
       }
     }
