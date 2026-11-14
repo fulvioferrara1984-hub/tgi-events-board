@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T15:47:50+01:00",
+  "generated_at": "2026-11-14T16:32:33+01:00",
   "columns": {
     "past": [
       "Competition",
@@ -23,36 +23,6 @@
     ]
   },
   "past_events": [
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CARRIED OUT",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "11",
-        "Date": "07/11/2026",
-        "KO": "15:00",
-        "Team A": "CAGLIARI",
-        "Team B": "FROSINONE",
-        "Venue": "ITALY",
-        "Status": "CARRIED OUT"
-      }
-    },
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CARRIED OUT",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "11",
-        "Date": "07/11/2026",
-        "KO": "15:00",
-        "Team A": "TORINO",
-        "Team B": "LECCE",
-        "Venue": "ITALY",
-        "Status": "CARRIED OUT"
-      }
-    },
     {
       "competition": "SERIE A",
       "icon": "⚽",
@@ -172,13 +142,11 @@
         "Venue": "CZECHIA",
         "Status": "CARRIED OUT"
       }
-    }
-  ],
-  "future_events": [
+    },
     {
       "competition": "UEFA NATIONS LEAGUE",
       "icon": "⚽",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "UEFA NATIONS LEAGUE",
         "Round / Stage": "GROUP STAGE",
@@ -187,7 +155,7 @@
         "Team A": "NETHERLANDS",
         "Team B": "GREECE",
         "Venue": "NETHERLANDS",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
     },
     {
@@ -204,7 +172,9 @@
         "Venue": "MELBOURNE",
         "Status": "CONFIRMED"
       }
-    },
+    }
+  ],
+  "future_events": [
     {
       "competition": "UEFA NATIONS LEAGUE",
       "icon": "⚽",
@@ -472,6 +442,36 @@
         "Team A": "POLAND",
         "Team B": "SWEDEN",
         "Venue": "POLAND",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "BILLIE JEAN KING CUP",
+      "icon": "🎾",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "BILLIE JEAN KING CUP",
+        "Round / Stage": "CALIBRATION",
+        "Date": "20/11/2026",
+        "KO": "17:00",
+        "Team A": "FRANCE",
+        "Team B": "AUSTRALIA",
+        "Venue": "FRANCE",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "BILLIE JEAN KING CUP",
+      "icon": "🎾",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "BILLIE JEAN KING CUP",
+        "Round / Stage": "PLAYOFF",
+        "Date": "20/11/2026",
+        "KO": "18:00",
+        "Team A": "BRAZIL",
+        "Team B": "CANADA",
+        "Venue": "BRAZIL",
         "Status": "CONFIRMED"
       }
     }
