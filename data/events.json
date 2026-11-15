@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T16:32:33+01:00",
+  "generated_at": "2026-11-15T09:28:46+01:00",
   "columns": {
     "past": [
       "Competition",
@@ -23,36 +23,6 @@
     ]
   },
   "past_events": [
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CARRIED OUT",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "11",
-        "Date": "07/11/2026",
-        "KO": "18:00",
-        "Team A": "PARMA",
-        "Team B": "BOLOGNA",
-        "Venue": "ITALY",
-        "Status": "CARRIED OUT"
-      }
-    },
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CARRIED OUT",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "11",
-        "Date": "07/11/2026",
-        "KO": "20:45",
-        "Team A": "ROMA",
-        "Team B": "SASSUOLO",
-        "Venue": "ITALY",
-        "Status": "CARRIED OUT"
-      }
-    },
     {
       "competition": "SERIE A",
       "icon": "⚽",
@@ -161,7 +131,7 @@
     {
       "competition": "AUSTRALIAN FOOTBALL LEAGUE WOMEN",
       "icon": "🏉",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "AUSTRALIAN FOOTBALL LEAGUE WOMEN",
         "Round / Stage": "POC",
@@ -170,15 +140,13 @@
         "Team A": "CARLTON",
         "Team B": "HAWTHORN",
         "Venue": "MELBOURNE",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
-    }
-  ],
-  "future_events": [
+    },
     {
       "competition": "UEFA NATIONS LEAGUE",
       "icon": "⚽",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "UEFA NATIONS LEAGUE",
         "Round / Stage": "GROUP STAGE",
@@ -187,13 +155,13 @@
         "Team A": "NORWAY",
         "Team B": "WALES",
         "Venue": "NORWAY",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
     },
     {
       "competition": "UEFA NATIONS LEAGUE",
       "icon": "⚽",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "UEFA NATIONS LEAGUE",
         "Round / Stage": "GROUP STAGE",
@@ -202,9 +170,11 @@
         "Team A": "PORTUGAL",
         "Team B": "DENMARK",
         "Venue": "PORTUGAL",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
-    },
+    }
+  ],
+  "future_events": [
     {
       "competition": "Football_POC",
       "icon": "⚽",
@@ -472,6 +442,36 @@
         "Team A": "BRAZIL",
         "Team B": "CANADA",
         "Venue": "BRAZIL",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "BILLIE JEAN KING CUP",
+      "icon": "🎾",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "BILLIE JEAN KING CUP",
+        "Round / Stage": "CALIBRATION",
+        "Date": "20/11/2026",
+        "KO": "23:00",
+        "Team A": "USA",
+        "Team B": "HUNGARY",
+        "Venue": "USA",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "BILLIE JEAN KING CUP",
+      "icon": "🎾",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "BILLIE JEAN KING CUP",
+        "Round / Stage": "PLAYOFF",
+        "Date": "21/11/2026",
+        "KO": "04:00",
+        "Team A": "JAPAN",
+        "Team B": "ARGENTINA",
+        "Venue": "JAPAN",
         "Status": "CONFIRMED"
       }
     }
