@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T09:28:46+01:00",
+  "generated_at": "2026-11-16T10:10:56+01:00",
   "columns": {
     "past": [
       "Competition",
@@ -23,66 +23,6 @@
     ]
   },
   "past_events": [
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CARRIED OUT",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "11",
-        "Date": "08/11/2026",
-        "KO": "12:30",
-        "Team A": "NAPOLI",
-        "Team B": "LAZIO",
-        "Venue": "ITALY",
-        "Status": "CARRIED OUT"
-      }
-    },
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CARRIED OUT",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "11",
-        "Date": "08/11/2026",
-        "KO": "15:00",
-        "Team A": "GENOA",
-        "Team B": "MILAN",
-        "Venue": "ITALY",
-        "Status": "CARRIED OUT"
-      }
-    },
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CARRIED OUT",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "11",
-        "Date": "08/11/2026",
-        "KO": "15:00",
-        "Team A": "MONZA",
-        "Team B": "ATALANTA",
-        "Venue": "ITALY",
-        "Status": "CARRIED OUT"
-      }
-    },
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CARRIED OUT",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "11",
-        "Date": "08/11/2026",
-        "KO": "18:00",
-        "Team A": "INTER",
-        "Team B": "COMO",
-        "Venue": "ITALY",
-        "Status": "CARRIED OUT"
-      }
-    },
     {
       "competition": "SERIE A",
       "icon": "⚽",
@@ -172,13 +112,11 @@
         "Venue": "PORTUGAL",
         "Status": "CARRIED OUT"
       }
-    }
-  ],
-  "future_events": [
+    },
     {
       "competition": "Football_POC",
       "icon": "⚽",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "Football_POC",
         "Round / Stage": "POC",
@@ -187,13 +125,13 @@
         "Team A": "RAVENNA",
         "Team B": "FORLI",
         "Venue": "RAVENNA",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
     },
     {
       "competition": "UEFA NATIONS LEAGUE",
       "icon": "⚽",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "UEFA NATIONS LEAGUE",
         "Round / Stage": "GROUP STAGE",
@@ -202,13 +140,13 @@
         "Team A": "BELGIUM",
         "Team B": "ITALY",
         "Venue": "BELGIUM",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
     },
     {
       "competition": "UEFA NATIONS LEAGUE",
       "icon": "⚽",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "UEFA NATIONS LEAGUE",
         "Round / Stage": "GROUP STAGE",
@@ -217,13 +155,13 @@
         "Team A": "CROATIA",
         "Team B": "CZECHIA",
         "Venue": "CROATIA",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
     },
     {
       "competition": "UEFA NATIONS LEAGUE",
       "icon": "⚽",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "UEFA NATIONS LEAGUE",
         "Round / Stage": "GROUP STAGE",
@@ -232,9 +170,11 @@
         "Team A": "SPAIN",
         "Team B": "ENGLAND",
         "Venue": "SPAIN",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
-    },
+    }
+  ],
+  "future_events": [
     {
       "competition": "UEFA NATIONS LEAGUE",
       "icon": "⚽",
@@ -472,6 +412,66 @@
         "Team A": "JAPAN",
         "Team B": "ARGENTINA",
         "Venue": "JAPAN",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "WBBL",
+      "icon": "🏏",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "WBBL",
+        "Round / Stage": "POC",
+        "Date": "21/11/2026",
+        "KO": "05:40",
+        "Team A": "HOBART",
+        "Team B": "PERTH",
+        "Venue": "HOBART",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "BILLIE JEAN KING CUP",
+      "icon": "🎾",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "BILLIE JEAN KING CUP",
+        "Round / Stage": "PLAYOFF",
+        "Date": "21/11/2026",
+        "KO": "07:00",
+        "Team A": "THAILAND",
+        "Team B": "SWITZERLAND",
+        "Venue": "THAILAND",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "BILLIE JEAN KING CUP",
+      "icon": "🎾",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "BILLIE JEAN KING CUP",
+        "Round / Stage": "PLAYOFF",
+        "Date": "21/11/2026",
+        "KO": "11:00",
+        "Team A": "SLOVENIA",
+        "Team B": "INDONESIA",
+        "Venue": "SLOVENIA",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "BILLIE JEAN KING CUP",
+      "icon": "🎾",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "BILLIE JEAN KING CUP",
+        "Round / Stage": "PLAYOFF",
+        "Date": "21/11/2026",
+        "KO": "13:00",
+        "Team A": "POLAND",
+        "Team B": "SWEDEN",
+        "Venue": "POLAND",
         "Status": "CONFIRMED"
       }
     }
