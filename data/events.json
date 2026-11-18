@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T11:17:36+01:00",
+  "generated_at": "2026-11-18T18:13:23+01:00",
   "columns": {
     "past": [
       "Competition",
@@ -461,18 +461,18 @@
       }
     },
     {
-      "competition": "LIGUE 1",
+      "competition": "SERIE A",
       "icon": "⚽",
-      "status": "TBC",
+      "status": "CONFIRMED",
       "fields": {
-        "Competition": "LIGUE 1",
-        "Round / Stage": "11",
+        "Competition": "SERIE A",
+        "Round / Stage": "12",
         "Date": "21/11/2026",
-        "KO": "17:15",
-        "Team A": "NICE",
-        "Team B": "PSG",
-        "Venue": "FRANCE",
-        "Status": "TBC"
+        "KO": "18:00",
+        "Team A": "PARMA",
+        "Team B": "ROMA",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
       }
     }
   ]
