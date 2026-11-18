@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T07:51:07+01:00",
+  "generated_at": "2026-11-18T11:17:36+01:00",
   "columns": {
     "past": [
       "Competition",
@@ -116,7 +116,7 @@
     {
       "competition": "UEFA NATIONS LEAGUE",
       "icon": "⚽",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "UEFA NATIONS LEAGUE",
         "Round / Stage": "GROUP STAGE",
@@ -125,13 +125,13 @@
         "Team A": "POLAND",
         "Team B": "SWEDEN",
         "Venue": "POLAND",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
     },
     {
       "competition": "UEFA NATIONS LEAGUE",
       "icon": "⚽",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "UEFA NATIONS LEAGUE",
         "Round / Stage": "GROUP STAGE",
@@ -140,13 +140,13 @@
         "Team A": "ISRAEL",
         "Team B": "AUSTRIA",
         "Venue": "ISRAEL",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
     },
     {
       "competition": "UEFA NATIONS LEAGUE",
       "icon": "⚽",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "UEFA NATIONS LEAGUE",
         "Round / Stage": "GROUP STAGE",
@@ -155,13 +155,13 @@
         "Team A": "DENMARK",
         "Team B": "NORWAY",
         "Venue": "DENMARK",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
     },
     {
       "competition": "UEFA NATIONS LEAGUE",
       "icon": "⚽",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "UEFA NATIONS LEAGUE",
         "Round / Stage": "GROUP STAGE",
@@ -170,7 +170,7 @@
         "Team A": "WALES",
         "Team B": "PORTUGAL",
         "Venue": "WALES",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
     }
   ],
