@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T10:05:29+01:00",
+  "generated_at": "2026-11-19T10:07:08+01:00",
   "columns": {
     "past": [
       "Competition",
@@ -326,6 +326,21 @@
       }
     },
     {
+      "competition": "WBBL",
+      "icon": "🏏",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "WBBL",
+        "Round / Stage": "POC",
+        "Date": "21/11/2026",
+        "KO": "02:00",
+        "Team A": "HOBART",
+        "Team B": "SYDNEY",
+        "Venue": "HOBART",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
       "competition": "BILLIE JEAN KING CUP",
       "icon": "🎾",
       "status": "CONFIRMED",
@@ -337,21 +352,6 @@
         "Team A": "JAPAN",
         "Team B": "ARGENTINA",
         "Venue": "JAPAN",
-        "Status": "CONFIRMED"
-      }
-    },
-    {
-      "competition": "WBBL",
-      "icon": "🏏",
-      "status": "CONFIRMED",
-      "fields": {
-        "Competition": "WBBL",
-        "Round / Stage": "POC",
-        "Date": "21/11/2026",
-        "KO": "05:40",
-        "Team A": "HOBART",
-        "Team B": "PERTH",
-        "Venue": "HOBART",
         "Status": "CONFIRMED"
       }
     },
