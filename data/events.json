@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T08:31:36+01:00",
+  "generated_at": "2026-11-20T10:38:19+01:00",
   "columns": {
     "past": [
       "Competition",
@@ -23,21 +23,6 @@
     ]
   },
   "past_events": [
-    {
-      "competition": "UEFA NATIONS LEAGUE",
-      "icon": "⚽",
-      "status": "CARRIED OUT",
-      "fields": {
-        "Competition": "UEFA NATIONS LEAGUE",
-        "Round / Stage": "GROUP STAGE",
-        "Date": "15/11/2026",
-        "KO": "20:45",
-        "Team A": "CROATIA",
-        "Team B": "CZECHIA",
-        "Venue": "CROATIA",
-        "Status": "CARRIED OUT"
-      }
-    },
     {
       "competition": "UEFA NATIONS LEAGUE",
       "icon": "⚽",
@@ -172,9 +157,7 @@
         "Venue": "BRAZIL",
         "Status": "CARRIED OUT"
       }
-    }
-  ],
-  "future_events": [
+    },
     {
       "competition": "BILLIE JEAN KING CUP",
       "icon": "🎾",
@@ -189,7 +172,9 @@
         "Venue": "JAPAN",
         "Status": "CONFIRMED"
       }
-    },
+    }
+  ],
+  "future_events": [
     {
       "competition": "BILLIE JEAN KING CUP",
       "icon": "🎾",
@@ -472,6 +457,21 @@
         "Team A": "NAPOLI",
         "Team B": "TORINO",
         "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "BILLIE JEAN KING CUP",
+      "icon": "🎾",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "BILLIE JEAN KING CUP",
+        "Round / Stage": "PLAYOFF",
+        "Date": "22/11/2026",
+        "KO": "03:00",
+        "Team A": "JAPAN",
+        "Team B": "ARGENTINA",
+        "Venue": "JAPAN",
         "Status": "CONFIRMED"
       }
     }
