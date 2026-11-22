@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T10:36:42+01:00",
+  "generated_at": "2026-11-22T12:35:22+01:00",
   "columns": {
     "past": [
       "Competition",
@@ -23,21 +23,6 @@
     ]
   },
   "past_events": [
-    {
-      "competition": "BILLIE JEAN KING CUP",
-      "icon": "🎾",
-      "status": "CARRIED OUT",
-      "fields": {
-        "Competition": "BILLIE JEAN KING CUP",
-        "Round / Stage": "PLAYOFF",
-        "Date": "21/11/2026",
-        "KO": "13:30",
-        "Team A": "FRANCE",
-        "Team B": "AUSTRALIA",
-        "Venue": "FRANCE",
-        "Status": "CARRIED OUT"
-      }
-    },
     {
       "competition": "SERIE A",
       "icon": "⚽",
@@ -172,9 +157,7 @@
         "Venue": "THAILAND",
         "Status": "CONFIRMED"
       }
-    }
-  ],
-  "future_events": [
+    },
     {
       "competition": "SERIE A",
       "icon": "⚽",
@@ -189,7 +172,9 @@
         "Venue": "ITALY",
         "Status": "CONFIRMED"
       }
-    },
+    }
+  ],
+  "future_events": [
     {
       "competition": "BILLIE JEAN KING CUP",
       "icon": "🎾",
@@ -471,6 +456,21 @@
         "KO": "18:00",
         "Team A": "TORINO",
         "Team B": "LAZIO",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "13",
+        "Date": "28/11/2026",
+        "KO": "20:45",
+        "Team A": "INTER",
+        "Team B": "GENOA",
         "Venue": "ITALY",
         "Status": "CONFIRMED"
       }
