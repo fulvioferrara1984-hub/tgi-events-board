@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T12:35:22+01:00",
+  "generated_at": "2026-11-23T13:03:17+01:00",
   "columns": {
     "past": [
       "Competition",
@@ -31,96 +31,6 @@
         "Competition": "SERIE A",
         "Round / Stage": "12",
         "Date": "21/11/2026",
-        "KO": "15:00",
-        "Team A": "COMO",
-        "Team B": "CAGLIARI",
-        "Venue": "ITALY",
-        "Status": "CARRIED OUT"
-      }
-    },
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CARRIED OUT",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "12",
-        "Date": "21/11/2026",
-        "KO": "15:00",
-        "Team A": "LAZIO",
-        "Team B": "LECCE",
-        "Venue": "ITALY",
-        "Status": "CARRIED OUT"
-      }
-    },
-    {
-      "competition": "BILLIE JEAN KING CUP",
-      "icon": "🎾",
-      "status": "CARRIED OUT",
-      "fields": {
-        "Competition": "BILLIE JEAN KING CUP",
-        "Round / Stage": "PLAYOFF",
-        "Date": "21/11/2026",
-        "KO": "17:00",
-        "Team A": "BRAZIL",
-        "Team B": "CANADA",
-        "Venue": "BRAZIL",
-        "Status": "CARRIED OUT"
-      }
-    },
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CARRIED OUT",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "12",
-        "Date": "21/11/2026",
-        "KO": "18:00",
-        "Team A": "PARMA",
-        "Team B": "ROMA",
-        "Venue": "ITALY",
-        "Status": "CARRIED OUT"
-      }
-    },
-    {
-      "competition": "BILLIE JEAN KING CUP",
-      "icon": "🎾",
-      "status": "CARRIED OUT",
-      "fields": {
-        "Competition": "BILLIE JEAN KING CUP",
-        "Round / Stage": "PLAYOFF",
-        "Date": "21/11/2026",
-        "KO": "19:30",
-        "Team A": "USA",
-        "Team B": "HUNGARY",
-        "Venue": "USA",
-        "Status": "CARRIED OUT"
-      }
-    },
-    {
-      "competition": "LIGUE 1",
-      "icon": "⚽",
-      "status": "CARRIED OUT",
-      "fields": {
-        "Competition": "LIGUE 1",
-        "Round / Stage": "11",
-        "Date": "21/11/2026",
-        "KO": "20:45",
-        "Team A": "LILLE",
-        "Team B": "LYON",
-        "Venue": "FRANCE",
-        "Status": "CARRIED OUT"
-      }
-    },
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CARRIED OUT",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "12",
-        "Date": "21/11/2026",
         "KO": "20:45",
         "Team A": "NAPOLI",
         "Team B": "TORINO",
@@ -131,7 +41,7 @@
     {
       "competition": "BILLIE JEAN KING CUP",
       "icon": "🎾",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "BILLIE JEAN KING CUP",
         "Round / Stage": "PLAYOFF",
@@ -140,13 +50,13 @@
         "Team A": "JAPAN",
         "Team B": "ARGENTINA",
         "Venue": "JAPAN",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
     },
     {
       "competition": "BILLIE JEAN KING CUP",
       "icon": "🎾",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "BILLIE JEAN KING CUP",
         "Round / Stage": "PLAYOFF",
@@ -155,13 +65,13 @@
         "Team A": "THAILAND",
         "Team B": "SWITZERLAND",
         "Venue": "THAILAND",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
     },
     {
       "competition": "SERIE A",
       "icon": "⚽",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "SERIE A",
         "Round / Stage": "12",
@@ -170,15 +80,13 @@
         "Team A": "JUVENTUS",
         "Team B": "VENEZIA",
         "Venue": "ITALY",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
-    }
-  ],
-  "future_events": [
+    },
     {
       "competition": "BILLIE JEAN KING CUP",
       "icon": "🎾",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "BILLIE JEAN KING CUP",
         "Round / Stage": "PLAYOFF",
@@ -187,13 +95,13 @@
         "Team A": "FRANCE",
         "Team B": "AUSTRALIA",
         "Venue": "FRANCE",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
     },
     {
       "competition": "SERIE A",
       "icon": "⚽",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "SERIE A",
         "Round / Stage": "12",
@@ -202,13 +110,13 @@
         "Team A": "SASSUOLO",
         "Team B": "GENOA",
         "Venue": "ITALY",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
     },
     {
       "competition": "SERIE A",
       "icon": "⚽",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "SERIE A",
         "Round / Stage": "12",
@@ -217,13 +125,13 @@
         "Team A": "BOLOGNA",
         "Team B": "UDINESE",
         "Venue": "ITALY",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
     },
     {
       "competition": "SERIE A",
       "icon": "⚽",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "SERIE A",
         "Round / Stage": "12",
@@ -232,13 +140,13 @@
         "Team A": "MILAN",
         "Team B": "FROSINONE",
         "Venue": "ITALY",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
     },
     {
       "competition": "BILLIE JEAN KING CUP",
       "icon": "🎾",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "BILLIE JEAN KING CUP",
         "Round / Stage": "PLAYOFF",
@@ -247,13 +155,13 @@
         "Team A": "USA",
         "Team B": "HUNGARY",
         "Venue": "USA",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
     },
     {
       "competition": "SERIE A",
       "icon": "⚽",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "SERIE A",
         "Round / Stage": "12",
@@ -262,9 +170,11 @@
         "Team A": "ATALANTA",
         "Team B": "INTER",
         "Venue": "ITALY",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
-    },
+    }
+  ],
+  "future_events": [
     {
       "competition": "SERIE A",
       "icon": "⚽",
@@ -471,6 +381,96 @@
         "KO": "20:45",
         "Team A": "INTER",
         "Team B": "GENOA",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "13",
+        "Date": "29/11/2026",
+        "KO": "12:30",
+        "Team A": "UDINESE",
+        "Team B": "FIORENTINA",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "LIGUE 1",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "LIGUE 1",
+        "Round / Stage": "12",
+        "Date": "29/11/2026",
+        "KO": "15:00",
+        "Team A": "AUXERRE",
+        "Team B": "MARSEILLE",
+        "Venue": "FRANCE",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "13",
+        "Date": "29/11/2026",
+        "KO": "15:00",
+        "Team A": "SASSUOLO",
+        "Team B": "NAPOLI",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "FIBA",
+      "icon": "🏀",
+      "status": "TBC",
+      "fields": {
+        "Competition": "FIBA",
+        "Round / Stage": "POC",
+        "Date": "29/11/2026",
+        "KO": "17:30",
+        "Team A": "UKRAINE",
+        "Team B": "MONTENEGRO",
+        "Venue": "RIGA",
+        "Status": "TBC"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "13",
+        "Date": "29/11/2026",
+        "KO": "18:00",
+        "Team A": "ROMA",
+        "Team B": "MONZA",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "13",
+        "Date": "29/11/2026",
+        "KO": "20:45",
+        "Team A": "COMO",
+        "Team B": "JUVENTUS",
         "Venue": "ITALY",
         "Status": "CONFIRMED"
       }
