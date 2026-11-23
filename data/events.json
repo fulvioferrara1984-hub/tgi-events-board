@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T19:21:07+01:00",
+  "generated_at": "2026-11-23T19:25:41+01:00",
   "columns": {
     "past": [
       "Competition",
@@ -433,7 +433,7 @@
     {
       "competition": "FIBA",
       "icon": "🏀",
-      "status": "TBC",
+      "status": "CONFIRMED",
       "fields": {
         "Competition": "FIBA",
         "Round / Stage": "POC",
@@ -442,7 +442,7 @@
         "Team A": "UKRAINE",
         "Team B": "MONTENEGRO",
         "Venue": "RIGA",
-        "Status": "TBC"
+        "Status": "CONFIRMED"
       }
     },
     {
