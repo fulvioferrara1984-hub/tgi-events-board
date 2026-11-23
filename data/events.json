@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T13:03:17+01:00",
+  "generated_at": "2026-11-23T19:21:07+01:00",
   "columns": {
     "past": [
       "Competition",
@@ -313,7 +313,7 @@
     {
       "competition": "FIBA",
       "icon": "🏀",
-      "status": "TBC",
+      "status": "CONFIRMED",
       "fields": {
         "Competition": "FIBA",
         "Round / Stage": "POC",
@@ -322,7 +322,7 @@
         "Team A": "LATVIA",
         "Team B": "GERMANY",
         "Venue": "RIGA",
-        "Status": "TBC"
+        "Status": "CONFIRMED"
       }
     },
     {
