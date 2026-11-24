@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T09:21:55+01:00",
+  "generated_at": "2026-11-24T10:20:20+01:00",
   "columns": {
     "past": [
       "Competition",
@@ -161,7 +161,7 @@
     {
       "competition": "SERIE A",
       "icon": "⚽",
-      "status": "CONFIRMED",
+      "status": "CARRIED OUT",
       "fields": {
         "Competition": "SERIE A",
         "Round / Stage": "12",
@@ -170,7 +170,7 @@
         "Team A": "MONZA",
         "Team B": "FIORENTINA",
         "Venue": "ITALY",
-        "Status": "CONFIRMED"
+        "Status": "CARRIED OUT"
       }
     }
   ],
