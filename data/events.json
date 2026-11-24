@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T10:22:07+01:00",
+  "generated_at": "2026-11-24T22:41:15+01:00",
   "columns": {
     "past": [
       "Competition",
@@ -23,51 +23,6 @@
     ]
   },
   "past_events": [
-    {
-      "competition": "BILLIE JEAN KING CUP",
-      "icon": "🎾",
-      "status": "CARRIED OUT",
-      "fields": {
-        "Competition": "BILLIE JEAN KING CUP",
-        "Round / Stage": "PLAYOFF",
-        "Date": "22/11/2026",
-        "KO": "03:00",
-        "Team A": "JAPAN",
-        "Team B": "ARGENTINA",
-        "Venue": "JAPAN",
-        "Status": "CARRIED OUT"
-      }
-    },
-    {
-      "competition": "BILLIE JEAN KING CUP",
-      "icon": "🎾",
-      "status": "CARRIED OUT",
-      "fields": {
-        "Competition": "BILLIE JEAN KING CUP",
-        "Round / Stage": "PLAYOFF",
-        "Date": "22/11/2026",
-        "KO": "07:00",
-        "Team A": "THAILAND",
-        "Team B": "SWITZERLAND",
-        "Venue": "THAILAND",
-        "Status": "CARRIED OUT"
-      }
-    },
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CARRIED OUT",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "12",
-        "Date": "22/11/2026",
-        "KO": "12:30",
-        "Team A": "JUVENTUS",
-        "Team B": "VENEZIA",
-        "Venue": "ITALY",
-        "Status": "CARRIED OUT"
-      }
-    },
     {
       "competition": "BILLIE JEAN KING CUP",
       "icon": "🎾",
@@ -172,9 +127,7 @@
         "Venue": "ITALY",
         "Status": "CARRIED OUT"
       }
-    }
-  ],
-  "future_events": [
+    },
     {
       "competition": "UEFA CHAMPIONS LEAGUE",
       "icon": "⚽",
@@ -219,7 +172,9 @@
         "Venue": "FEYENOORD",
         "Status": "CONFIRMED"
       }
-    },
+    }
+  ],
+  "future_events": [
     {
       "competition": "UEFA CHAMPIONS LEAGUE",
       "icon": "⚽",
@@ -471,6 +426,51 @@
         "KO": "18:30",
         "Team A": "LECCE",
         "Team B": "ATALANTA",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "13",
+        "Date": "30/11/2026",
+        "KO": "20:45",
+        "Team A": "CAGLIARI",
+        "Team B": "MILAN",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "EUROPEAN QUALIFIERS W",
+      "icon": "⚽",
+      "status": "TBC",
+      "fields": {
+        "Competition": "EUROPEAN QUALIFIERS W",
+        "Round / Stage": "GROUP STAGE",
+        "Date": "01/12/2026",
+        "KO": "20:25",
+        "Team A": "SCOTLAND",
+        "Team B": "SWEDEN",
+        "Venue": "SCOTLAND - PAISLEY",
+        "Status": "TBC"
+      }
+    },
+    {
+      "competition": "COPPA ITALIA",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "COPPA ITALIA",
+        "Round / Stage": "ROUND OF 16",
+        "Date": "01/12/2026",
+        "KO": "21:00",
+        "Team A": "INTER",
+        "Team B": "GENOA",
         "Venue": "ITALY",
         "Status": "CONFIRMED"
       }
