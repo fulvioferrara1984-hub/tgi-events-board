@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T19:26:58+01:00",
+  "generated_at": "2026-11-24T09:21:55+01:00",
   "columns": {
     "past": [
       "Competition",
@@ -23,21 +23,6 @@
     ]
   },
   "past_events": [
-    {
-      "competition": "SERIE A",
-      "icon": "⚽",
-      "status": "CARRIED OUT",
-      "fields": {
-        "Competition": "SERIE A",
-        "Round / Stage": "12",
-        "Date": "21/11/2026",
-        "KO": "20:45",
-        "Team A": "NAPOLI",
-        "Team B": "TORINO",
-        "Venue": "ITALY",
-        "Status": "CARRIED OUT"
-      }
-    },
     {
       "competition": "BILLIE JEAN KING CUP",
       "icon": "🎾",
@@ -172,9 +157,7 @@
         "Venue": "ITALY",
         "Status": "CARRIED OUT"
       }
-    }
-  ],
-  "future_events": [
+    },
     {
       "competition": "SERIE A",
       "icon": "⚽",
@@ -189,7 +172,9 @@
         "Venue": "ITALY",
         "Status": "CONFIRMED"
       }
-    },
+    }
+  ],
+  "future_events": [
     {
       "competition": "UEFA CHAMPIONS LEAGUE",
       "icon": "⚽",
@@ -471,6 +456,21 @@
         "KO": "20:45",
         "Team A": "COMO",
         "Team B": "JUVENTUS",
+        "Venue": "ITALY",
+        "Status": "CONFIRMED"
+      }
+    },
+    {
+      "competition": "SERIE A",
+      "icon": "⚽",
+      "status": "CONFIRMED",
+      "fields": {
+        "Competition": "SERIE A",
+        "Round / Stage": "13",
+        "Date": "30/11/2026",
+        "KO": "18:30",
+        "Team A": "LECCE",
+        "Team B": "ATALANTA",
         "Venue": "ITALY",
         "Status": "CONFIRMED"
       }
